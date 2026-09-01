@@ -9,7 +9,7 @@
 
 - **Die Stadt bewegt sich weiter**  
   - [[Einar]] bespricht mit den [[Anarchen]] die Werwolf-Sichtung und die Lage um [[Harald Strong]].  
-  - [[ALWA]] beauftragt [[Jofrey]], Futter für seinen Affen zu besorgen. Er versucht, [[Thijs]] zu erreichen, wird abgewimmelt, und ruft stattdessen [[Serafin]] an, der gerade im [[Asylum]] nach seinem eigenen Ghul sieht.  
+  - [[ALWA]] beauftragt [[Jofrey]], Futter für seinen Affen zu besorgen. Er versucht, [[Thijs]] zu erreichen, wird abgewimmelt – [[Thijs]] erholt sich noch von der Werwolfjagd der Vornacht, sein abgerissener rechter Unterarm ist erst zur Hälfte nachgewachsen – und ruft stattdessen [[Serafin]] an, der gerade im [[Asylum]] nach seinem eigenen Ghul sieht.  
 
 - **Dianzu bittet um Hilfe**  
   - Am nächsten Morgen bittet [[Dianzu]] [[ALWA]] um Hilfe bei einer heiklen persönlichen Angelegenheit – [[ALWA]] verlangt zwei große Gefallen als Gegenleistung.  
@@ -55,7 +55,7 @@
   - Die Gruppe verlässt das Krankenhaus über einen Kanalisationseingang.  
 
 - **Wiedervereinigung am Pier**  
-  - [[Einar]] bringt [[Lil]] zum [[Santa Monica Pier]] und trifft unterwegs auf der Straße auf [[Thijs]], der sich ihnen anschließt.  
+  - [[Einar]] bringt [[Lil]] zum [[Santa Monica Pier]] und trifft unterwegs auf der Straße auf [[Thijs]], der gerade über einen Passanten herfällt und sich gierig an dessen Arm festbeißt – der Hunger durch die nachwachsende eigene Gliedmaße treibt ihn zu ungewöhnlich roher Fütterung. Er schließt sich ihnen an.  
   - Am Pier fallen sich [[Lil]] und [[E]] innig in die Arme. [[Einar]] erinnert [[E]] daran, dass er der Gruppe noch einen Gefallen schuldet. Mission [[Erzeuger Lil]] ist damit abgeschlossen.  
 
 - **Begegnung mit einem Dünnblüter**  
@@ -66,7 +66,7 @@
 
 - **Bei den Anarchen: Thijs eskaliert**  
   - [[Einar]] fragt bei den Anarchen nach möglichen Drahtziehern des Blutgeschäfts – Verdacht fällt auf [[Mac Master]] und den [[Weinladen]].  
-  - [[Thijs]] gerät im Stammlokal der Anarchen in **Raserei**. Auf Anordnung von [[Nines Rodriguez]] wird er von neun Anarchen niedergerungen, gepfählt und als Zielscheibe an eine Dartscheibe genagelt – [[Einar]] darf ihn am nächsten Tag abholen.  
+  - Der noch immer angespannte Hunger und die frische Wunde fordern ihren Tribut: [[Thijs]] gerät im Stammlokal der Anarchen in **Raserei**. Auf Anordnung von [[Nines Rodriguez]] wird er von neun Anarchen niedergerungen, gepfählt und als Zielscheibe an eine Dartscheibe genagelt – [[Einar]] darf ihn am nächsten Tag abholen.  
 
 - **Letzte Fäden der Nacht**  
   - [[Dianzu]] durchsucht [[Linda Swan]]s Wohnung nach Hinweisen auf ihren Arbeitsplatz und findet Unterlagen zu mehreren Drehorten. Er verbringt die Nacht dort.  
