@@ -56,7 +56,7 @@
 
 - **Wiedervereinigung am Pier**  
   - [[Einar]] bringt [[Lil]] zum [[Santa Monica Pier]] und trifft unterwegs auf der Straße auf [[Thijs]], der gerade über einen Passanten herfällt und sich gierig an dessen Arm festbeißt – der Hunger durch die nachwachsende eigene Gliedmaße treibt ihn zu ungewöhnlich roher Fütterung. Er schließt sich ihnen an.  
-  - Am Pier fallen sich [[Lil]] und [[E]] innig in die Arme. [[Einar]] erinnert [[E]] daran, dass er der Gruppe noch einen Gefallen schuldet. Mission [[Erzeuger Lil]] ist damit abgeschlossen.  
+  - Am Pier fallen sich [[Lil]] und [[E]] innig in die Arme. [[Einar]] erinnert [[E]] daran, dass er der Gruppe noch einen Gefallen schuldet. Die Suche nach Lil gilt damit als abgeschlossen ([[Erzeuger Lil]]).  
 
 - **Begegnung mit einem Dünnblüter**  
   - Auf dem Rückweg zum Auto spricht ein dünner, glatzköpfiger Mann die Gruppe an und fragt, ob sie ebenfalls Vampire seien.  
@@ -66,7 +66,7 @@
 
 - **Bei den Anarchen: Thijs eskaliert**  
   - [[Einar]] fragt bei den Anarchen nach möglichen Drahtziehern des Blutgeschäfts – Verdacht fällt auf [[Mac Master]] und den [[Weinladen]].  
-  - Der noch immer angespannte Hunger und die frische Wunde fordern ihren Tribut: [[Thijs]] gerät im Stammlokal der Anarchen in **Raserei**. Auf Anordnung von [[Nines Rodriguez]] wird er von neun Anarchen niedergerungen, gepfählt und als Zielscheibe an eine Dartscheibe genagelt – [[Einar]] darf ihn am nächsten Tag abholen.  
+  - Der noch immer angespannte Hunger und die frische Wunde fordern ihren Tribut: [[Thijs]] gerät im [[Last Round]], dem Stammlokal der Anarchen, in **Raserei**. Auf Anordnung von [[Nines Rodriguez]] wird er von neun Anarchen niedergerungen, gepfählt und als Zielscheibe an eine Dartscheibe genagelt – [[Einar]] darf ihn am nächsten Tag abholen.  
 
 - **Letzte Fäden der Nacht**  
   - [[Dianzu]] durchsucht [[Linda Swan]]s Wohnung nach Hinweisen auf ihren Arbeitsplatz und findet Unterlagen zu mehreren Drehorten. Er verbringt die Nacht dort.  

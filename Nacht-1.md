@@ -27,7 +27,7 @@
   - [[Madam Rich]] setzt erneut **Beherrschen** ein, sodass der zweite Polizist flieht.  
 
 - **Neue Mission: LamaParty**  
-  - [[Klaudia]] taucht auf und gibt der Gruppe die Mission [[LamaParty]]: Kameras im Hotelzimmer von **Julia Sunshine** platzieren.  
+  - [[Klaudia]] taucht auf und bittet die Gruppe, Kameras im Hotelzimmer von **Julia Sunshine** zu platzieren ([[LamaParty]]).  
   - Die Gruppe zieht sich anschließend in ein Hotel zurück, um den Tag zu überstehen – [[Madam Rich]] bezahlt.  
 
 ---
