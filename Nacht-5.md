@@ -75,7 +75,7 @@
 - **Vorbereitung**  
   - [[Einar]] erfährt von [[Veronic]] Hinweise zur Vampirjägerin: weiblich, erschossen, müsste jetzt bei der Polizei liegen.  
   - [[Dianzu]] spricht mit [[Madam Rich]] über Geld — sie erinnert ihn daran, dass er ihr noch einen Gefallen schuldet.  
-  - Nebenszene: Mr. Tomson beschwert sich bei [[Harald Strong]], dass die Anarchen nicht mit zur Jagd sollen, ohrfeigt ihn und greift ihn an — [[Harald Strong]] bleibt gelassen, Augen glühen, Tomson flieht.  
+  - Nebenszene: Mr. Tomson beschwert sich bei [[Harald Strong]], dass die Anarchen nicht mit zur Jagd sollen, ohrfeigt ihn und greift ihn an — [[Harald Strong]] bleibt gelassen, sein Auge glüht kurz auf, Tomson flieht.  
 
 - **Krankenhaus-Einbruch**  
   - [[ALWA]], [[Serafin]], [[Dianzu]] und [[Einar]] fahren zum Krankenhaus.  

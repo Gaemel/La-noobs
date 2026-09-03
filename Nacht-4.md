@@ -33,7 +33,7 @@
 
 - **Katastrophe im Naturschutzgebiet**  
   - [[Dianzu]] und [[Étienne]] fahren zum Naturschutzgebiet, um mit den Protestlern zu verhandeln und Henry das Angebot seines Sires [[Harald Strong]] zu unterbreiten. Dort treffen sie auf [[Cenris Black]], [[Glen Silver]], [[Kalessa Frank]] und [[Alex Carmody]]. [[Henry]] offenbart sich als Gangrel-Gestaltwandler.  
-  - Plötzlich taucht ein riesiges, wolfsähnliches Wesen mit glühenden Augen auf. Die Vampire verfallen in **Furchtraserei** und fliehen, werden jedoch eingeholt — Kalessa Frank und ein weiterer Vampir werden getötet. Dianzu und Étienne, selbst von der Furchtraserei erfasst, rennen in Panik am wartenden Taxi vorbei, kehren aber um und werden aufgenommen. Aus der Ferne sehen sie noch, wie das Wesen einen weiteren Vampir zerreißt.  
+  - Plötzlich taucht ein riesiges, wolfsähnliches Wesen mit einem glühenden Auge auf. Die Vampire verfallen in **Furchtraserei** und fliehen, werden jedoch eingeholt — Kalessa Frank und ein weiterer Vampir werden getötet. Dianzu und Étienne, selbst von der Furchtraserei erfasst, rennen in Panik am wartenden Taxi vorbei, kehren aber um und werden aufgenommen. Aus der Ferne sehen sie noch, wie das Wesen einen weiteren Vampir zerreißt.  
 
 - **Gassen-Treffen & Krankenhaus-Zwischenfall**  
   - Gegen 4 Uhr treffen sich [[Serafin]], [[Étienne]], [[Dianzu]], [[Thijs]] und [[Einar]] fast zeitgleich beim Krankenhaus und besprechen sich in einer Gasse. Einar hat bei der Camarilla wegen [[Der Jäger]] nachgefragt; es folgt ein großer Austausch von Telefonnummern. Étienne berichtet von der Begegnung mit dem vermeintlichen Werwolf. Einar verlässt die Gruppe, um die Anarchen zu informieren; die übrigen beschließen, Harald Strong zu unterrichten.  
