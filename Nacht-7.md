@@ -2,7 +2,7 @@
 ### Sessions:: [[Session 9 Wo ist Linda]] [[Session 9.5 Sags mir Alwa]] [[Session 10 Hat Linda Hinz und Kunz getroffen]]  
 ### Tags:: #Tag  
 
-> Diese Fassung enthält nur, was der Gruppe als Ganzes zu diesem Zeitpunkt bekannt ist. Dass Dianzus eigener Nachfahre bei Madam Smiths Deal gemeint ist – und dass dieser Nachfahre Linda Swan ist – wissen bislang nur Dianzu, ALWA und Thijs, nicht die restliche Gruppe. Dass ALWAs Verneinung auf Dianzus Revelation-Frage zwar wörtlich wahr, aber bewusst irreführend ist, weiß nur ALWA selbst – Dianzu (und damit diese Fassung) nimmt sie für bare Münze. Siehe `DS-Kampanie.Nacht-7.md` für die vollständige Fassung.
+> Diese Fassung enthält nur, was der Gruppe als Ganzes zu diesem Zeitpunkt bekannt ist. Ein privates Detail rund um Madam Smiths Deal kennen bislang nur Dianzu, ALWA und Thijs, nicht die restliche Gruppe. Siehe `DS-Kampanie.Nacht-7.md` für die vollständige Fassung.
 
 - **Aufwachen**  
   - [[Einar]] findet [[Thijs]] in einer Mülltüte vor seiner Tür – Folge der Pfählung durch die Anarchen in der Vornacht. Sein rechter Unterarm ist inzwischen fast vollständig nachgewachsen und wieder benutzbar, auch wenn ihm noch anzusehen ist, dass dort erst kürzlich etwas fehlte.  

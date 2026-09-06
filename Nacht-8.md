@@ -2,7 +2,7 @@
 ### Sessions:: [[Session 10 Hat Linda Hinz und Kunz getroffen]] [[Session 11 Nachbrand]]  
 ### Tags:: #Tag  
 
-> Diese Fassung enthält nur, was der Gruppe als Ganzes zu diesem Zeitpunkt bekannt ist. Madam Richs private Drohung an Dianzu wegen Linda sowie ALWAs Handlungen ganz am Ende der Nacht sind hier bewusst nicht ausformuliert. Dass Dianzu und Jonny vorher abgesprochen hatten, die Sichtung zu verschweigen, bleibt ebenfalls draußen — was bei LaCroix tatsächlich passiert, steht aber drin. Siehe `DS-Kampanie.Nacht-8.md` für die vollständige Fassung.
+> Diese Fassung enthält nur, was der Gruppe als Ganzes zu diesem Zeitpunkt bekannt ist. Ein privates Gespräch zwischen Madam Rich und Dianzu, eine Absprache zwischen Dianzu und Jonny vor ihrem Bericht an LaCroix, sowie ALWAs Handlungen ganz am Ende der Nacht sind hier bewusst nicht ausformuliert. Siehe `DS-Kampanie.Nacht-8.md` für die vollständige Fassung.
 
 - **ALWAs Morgen**  
   - [[ALWA]] wacht in seinem Versteck auf und stellt fest, dass [[Eli]]s Leiche aus der Kühltruhe verschwunden ist. Die Überwachungsaufnahmen zeigen nur eine schwarz gekleidete Gestalt, die den Körper entfernt.  

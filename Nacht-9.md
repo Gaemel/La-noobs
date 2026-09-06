@@ -2,7 +2,7 @@
 ### Sessions:: [[Session 12]]  
 ### Tags:: #Tag  
 
-> Diese Fassung enthält nur, was der Gruppe als Ganzes zu diesem Zeitpunkt bekannt ist. Dass Dianzu Brian heimlich zu seinem Ghul gemacht hat, sowie die Kamera, die Jeanette bei ihrer Begegnung mit Dianzu einrichtet, sind hier bewusst nicht ausformuliert. Siehe `DS-Kampanie.Nacht-9.md` für die vollständige Fassung.
+> Diese Fassung enthält nur, was der Gruppe als Ganzes zu diesem Zeitpunkt bekannt ist. Eine private Handlung von Dianzu ganz zu Beginn der Nacht sowie ein Detail aus seiner Begegnung mit Jeanette sind hier bewusst nicht ausformuliert. Siehe `DS-Kampanie.Nacht-9.md` für die vollständige Fassung.
 
 - **Aufwachen**  
   - [[Thijs]], [[Dianzu]] und [[Jonny Nightshade]] wachen in Thijs' Unterschlupf auf.  

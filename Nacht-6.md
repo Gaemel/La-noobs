@@ -2,7 +2,7 @@
 ### Sessions:: [[Session 8 The OneNightStand]] [[Session 9 Wo ist Linda]]  
 ### Tags:: #Tag  
 
-> Diese Fassung enthält nur, was der Gruppe als Ganzes zu diesem Zeitpunkt bekannt ist. Was zwischen [[Dianzu]] und [[Linda Swan]] in dieser Nacht wirklich vorgefallen ist (dass er sie versehentlich in einen Vampir statt einen Ghul verwandelt hat), weiß zu diesem Zeitpunkt außer ihm nur [[ALWA]] – der Rest der Gruppe hält Linda schlicht für eine neue Bekanntschaft. Auch ALWAs Plan mit [[Jofrey]], Linda notfalls als Druckmittel gegen Dianzu zurückzuhalten, sowie ALWAs private Erledigungen rund um [[Eli]] sind hier bewusst nicht ausformuliert – siehe `DS-Kampanie.Nacht-6.md` für die vollständige Fassung.
+> Diese Fassung enthält nur, was der Gruppe als Ganzes zu diesem Zeitpunkt bekannt ist. Was zwischen [[Dianzu]] und [[Linda Swan]] in dieser Nacht wirklich vorgefallen ist, weiß zu diesem Zeitpunkt außer ihm nur [[ALWA]] – der Rest der Gruppe hält Linda schlicht für eine neue Bekanntschaft. Auch ALWAs private Absprachen mit [[Jofrey]] sowie seine privaten Erledigungen sind hier bewusst nicht ausformuliert – siehe `DS-Kampanie.Nacht-6.md` für die vollständige Fassung.
 
 - **Dianzu verbringt die Nacht bei einer neuen Bekanntschaft**  
   - [[Dianzu]] lernt [[Linda Swan]] kennen und verbringt die Nacht bei ihr. Was genau zwischen ihnen vorfällt, bleibt zunächst sein Geheimnis.  
