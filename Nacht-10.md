@@ -73,6 +73,10 @@
   - [[Serafin]] versucht, [[Michael]] mit Wurfkarten abzulenken – erfolglos. [[ALWA]] und [[Dianzu]] arbeiten sich schließlich vorsichtig am Feuer vorbei; ALWAs Tritt richtet nichts aus, [[Dianzu]] rammt [[Michael]] schließlich einen Pfahl ins Herz. [[Serafin]] trägt den gestakten [[Michael]] hinaus, [[ALWA]] schnappt sich den schwer verwundeten [[Giuseppe Giovanni]] und bringt ihn zu [[LaCroix]].  
   - [[Dianzu]] mahnt noch, dass man reden müsse, was mit Linda war, und dass man sich künftig vertrauen können müsse – andernfalls drohten Konsequenzen.  
 
+- **Das Gemetzel in der Arena**  
+  - [[ALWA]] geht noch einmal zurück in den oberen Teil des Theaters, wo der Titelkampf stattfand. Was er dort sieht, ist verheerend: zertrampelte Zuschauer, von der Explosion Zerfetzte – und mittendrin einer der Arenakämpfer, [[Matador Morales]], dem das Biest vollständig durchgegangen ist. Er zerreißt Menschen, die verletzt zurückgeblieben sind oder noch vor den Flammen zu fliehen versuchen.  
+  - Ein Maskeradebruch mitten in der Halböffentlichkeit – auch wenn Panik, Feuer und Explosion vieles davon verschleiern werden.  
+
 - **Nachwehen**  
   - [[Dianzu]] übernachtet bei [[Thijs]] und lässt sich per Taxi hinbringen.  
   - [[Serafin]] ruft [[Madam Rich]] an und berichtet vom Vorfall – er erwähnt, dass [[Dianzu]] Linda getroffen, sie aber nicht wie aufgetragen getötet hat. Er fragt, ob das Herausziehen des Pfahls bei [[Michael]] dessen Raserei beenden würde.  
