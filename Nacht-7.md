@@ -65,7 +65,7 @@
   - Auf der Rückfahrt (Taxi, [[Dianzu]] zahlt bar) erzählt [[Dianzu]] den anderen, was mit [[Therese Voerman]] und [[Jeanette]] besprochen wurde.  
 
 - **Der Fahrer Ranjid, Thijs' Raserei**  
-  - [[Thijs]] unterhält sich mit dem Taxifahrer, der sich als [[Ranjid]] vorstellt. Der bemerkt Thijs' noch immer ramponiert aussehenden Arm und versucht ihn gutmütig aufzumuntern ("sei froh, dass es nur die Hand ist"), ohne zu ahnen, wen er da vor sich hat. Er gibt ihm eine Visitenkarte.  
+  - [[Thijs]] unterhält sich mit dem Taxifahrer, der sich als [[Ranjid]] vorstellt. Der bemerkt Thijs' noch immer ramponiert aussehenden Arm und versucht ihn gutmütig aufzumuntern ("sei froh, dass es nur die Hand ist"), ohne zu ahnen, wen er da vor sich hat. Er gibt ihm ein Bonbon und eine Visitenkarte.  
   - Kurz darauf gerät [[Thijs]] wegen der indischen Musik im Radio in **Raserei** und rammt [[Ranjid]]s Kopf gegen das Lenkrad – das Taxi kracht in eine Laterne. Sekunden später rasen Polizei und Rettungskräfte am Unfall vorbei direkt ins gegenüberliegende Krankenhaus, Schüsse sind zu hören.  
 
 - **Madam Smiths Angebot, konkret**  
