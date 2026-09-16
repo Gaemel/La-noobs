@@ -37,13 +37,13 @@ Jeder Eintrag trägt eine von drei Markierungen:
 |---|---|---|---|
 | [[Dianzu]] | Toreador | 14 | 3. und 6. Tradition |
 | [[ALWA]] | Nosferatu | 14 | 3., 4. und 6. Tradition (mehrfach) |
-| [[Thijs]] | „Brujah" | 13 | 1. Tradition (mehrfach, mit Leichen) |
+| [[Thijs]] | Brujah | 13 | 1. Tradition (mehrfach, mit Leichen) |
 | [[Étienne]] | Tremere | 7 | Blutjagd ausgerufen |
-| [[Einar]] | „Gangrel", Anarch | 5 | 1. und 2. Tradition |
+| [[Einar]] | Gangrel, Anarch | 5 | 1. und 2. Tradition |
 | [[Jonny Nightshade]] | Lasombra | 5 | 1. Tradition |
 | [[Madam Rich]] | Ventrue | 5 | Anstiftung zur 6. Tradition |
 | [[Serafin]] | Toreador | 4 | 1. Tradition – jedes Mal aus Anstand |
-| [[Gideon Poxwell]] | – | 0 | steht erst eine Nacht in den Büchern |
+| [[Gideon Poxwell]] | unbekannt | 0 | steht erst eine Nacht in den Büchern |
 
 ---
 
@@ -108,9 +108,9 @@ Jeder Eintrag trägt eine von drei Markierungen:
 
 ---
 
-## [[Thijs]] — offiziell Brujah
+## [[Thijs]] — Brujah
 
-*Ist vierzehn. Das ist keine Entschuldigung, erklärt aber einiges.*
+*Der Jüngste der Runde, zumindest dem Auftreten nach. Die Akte ist trotzdem die vollste.*
 
 ### Aktenkundig
 
@@ -185,7 +185,7 @@ Jeder Eintrag trägt eine von drei Markierungen:
 
 ---
 
-## [[Einar]] — hält sich für einen Gangrel, Anarch
+## [[Einar]] — Gangrel, Anarch
 
 *Anarch. Die Traditionen der Camarilla binden ihn nur so weit, wie er sich in ihrem Gebiet aufhält – was er regelmäßig tut.*
 
