@@ -4,8 +4,8 @@
 > geleistet haben – gemessen an den sechs Traditionen, die [[Jofrey]] ihnen in Nacht 1 erklärt hat.
 > Kein offizielles Dokument des Hofes. Nur eine Buchführung.
 
-**Ausgewertet bis:** Nacht 11
-**Grundlage:** die veröffentlichten Nacht-Logs dieses Repositories (`Nacht-1.md` – `Nacht-11.md`)
+**Ausgewertet bis:** Nacht 12
+**Grundlage:** die veröffentlichten Nacht-Logs dieses Repositories (`Nacht-1.md` – `Nacht-12.md`)
 
 ---
 
@@ -60,21 +60,21 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 | Kindred | Klan | Belastbar | Auslegungssache | Nur böswillig | ??? | Schwerste Anklage |
 |---|---|---|---|---|---|---|
+| [[Dianzu]] | Toreador | 7 | 2 | 5 | 2 | 6. Tradition an einem der Ihren |
 | [[ALWA]] | Nosferatu | 6 | 4 | – | 6 | 3., 4. und 6. Tradition (mehrfach) |
 | [[Thijs]] | Brujah | 6 | 3 | 4 | – | 1. Tradition (mehrfach, mit Leichen) |
-| [[Dianzu]] | Toreador | 5 | 2 | 5 | 3 | 3. und 6. Tradition |
 | [[Étienne]] | Tremere | 4 | 1 | 2 | – | Blutjagd ausgerufen |
 | [[Einar]] | Gangrel, Anarch | 2 | 1 | 2 | – | 1. und 2. Tradition |
 | [[Jonny Nightshade]] | Lasombra | 2 | 2 | 1 | – | 1. Tradition |
 | [[Serafin]] | Toreador | 2 | – | 2 | – | 1. Tradition – beide Male aus Anstand |
 | [[Madam Rich]] | Ventrue | – | 2 | 2 | 1 | Anstiftung zur 6. Tradition |
-| [[Gideon Poxwell]] | unbekannt | – | – | – | – | steht erst eine Nacht in den Büchern |
+| [[Gideon Poxwell]] | unbekannt | – | 1 | – | 1 | Missachtung einer Anordnung der Sheriffin |
 
 ---
 
 ## [[ALWA]] — Nosferatu
 
-*Ausgeschieden in Nacht 11. Die Akte bleibt trotzdem offen – das meiste darin ist nie verhandelt worden.*
+*In Nacht 11 überfallen, in Nacht 12 auf der Lichtung gerichtet. Die Akte bleibt trotzdem offen – das meiste darin ist nie verhandelt worden.*
 
 ### Belastbar
 
@@ -142,6 +142,8 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 6](Nacht-6.md) — 4. Tradition** *[gruppenwissen]* — Lässt sein neues Kind in der Obhut eines Fremden zurück und fährt weg. Sie verschwindet noch in derselben Nacht.
 - **[Nacht 8](Nacht-8.md) — 1. Tradition** *[gruppenwissen]* — Nach dem Überfall im Hotel: sechs Leichen, darunter entzweigerissene und ein mit einer Duschstange aufgespießter Angreifer. Gelöschte Kameras in der ganzen Umgebung, ein Aufräumdienst – und eine Nachbarin, die er anbrüllt, sie solle wieder hineingehen, sonst schlage er sie.
 - **[Nacht 11](Nacht-11.md) — 1. Tradition** *[aktenkundig]* — **Vor dem Elysium angezeigt.** Veröffentlicht einen Disstrack gegen [[ALWA]], in dem er ihn namentlich nennt und das „Verdunkeln" ausdrücklich erwähnt. [[Serafin]] zitiert den Text vor [[Madam Rich]]. Der einzige Eintrag dieses Registers, der es je bis in eine Anhörung geschafft hat.
+- **[Nacht 12](Nacht-12.md) — verbotener Kult** *[gruppenwissen]* — Taucht nach [[Thijs]]' Warnung aus dem Elysium bei [[Linda Swan]] und den Bahari unter. [[Garry Golden]] hatte erst eine Nacht zuvor klargestellt, dass der Kult der dunklen Mutter innerhalb der [[Camarilla]] verboten ist.
+- **[Nacht 12](Nacht-12.md) — 6. Tradition** *[gruppenwissen]* — Reißt [[ALWA]] auf der Lichtung das Herz heraus und diableriert ihn, nachdem die Versammlung mit sechs zu vier für dessen Tod gestimmt hat. Kein Prinz hat das Recht dazu erteilt, die Abstimmung eines verbotenen Kults ersetzt es nicht. Es kostet ihn einen dramatischen Teil seiner Menschlichkeit – wer ihn danach sieht, bemerkt, dass etwas an ihm verändert ist.
 
 ### Auslegungssache
 
@@ -160,7 +162,6 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 - **[Nacht 9](Nacht-9.md) — 4. Tradition** — Ein Gast in seinem Keller. **???**
 - **[Nacht 9](Nacht-9.md) — Erpressungsmaterial** — Ein Zimmer über dem Club, eine Kamera. **???**
-- **[Nacht 11](Nacht-11.md) — 6. Tradition** — Dieselbe Lichtung, ohne Maske. **???**
 
 ---
 
@@ -264,10 +265,17 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 ## [[Gideon Poxwell]]
 
-*Steigt in Nacht 11 ein.*
+*Steigt in Nacht 12 ein. Die Befragung von [[David Harker]] selbst fand im Beisein und mit ausdrücklicher Billigung von [[Aischa]] statt – was er danach damit anstellt, nicht.*
 
-- Bislang keine Einträge. Die Befragung von [[David Harker]] fand im Beisein und mit ausdrücklicher Billigung von [[Aischa]] statt.
-- Vorgemerkt: Er hat innerhalb seiner ersten Nacht versucht, [[Thijs]] einen Blutstein anzudrehen, und ist gegen Gedächtnismanipulation resistent. Beides wird noch relevant.
+### Auslegungssache
+
+- **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung** *[aktenkundig]* — [[Aischa]] hatte ausdrücklich verlangt, dass niemand sich später an die Befragung erinnert; [[Marcus Shaw]] löscht [[Thijs]]' Erinnerung entsprechend. [[Gideon Poxwell]], an dem die Löschung scheitert, findet das „skandalös" – und erzählt [[Thijs]] anschließend alles, was er vergessen sollte. Formal war die Anordnung an den Löschenden gerichtet, nicht an ihn.
+
+### ???
+
+- **[Nacht 12](Nacht-12.md) — Vertrauensbruch** — Ein Bericht, ein Auftraggeber, das gewünschte Ergebnis. **???**
+
+*Vorgemerkt: Er hat in seiner ersten Nacht versucht, [[Thijs]] einen Blutstein anzudrehen, und ist gegen Gedächtnismanipulation resistent. Beides wird noch relevant.*
 
 ---
 
