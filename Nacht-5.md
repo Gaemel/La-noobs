@@ -42,6 +42,7 @@
   - [[Cenris Black]] tritt vor und bezeugt, dass ein Gestaltwandler [[Glen Silver]] und einen weiteren Vampir getötet hat; von [[Alex Carmody]] fehlt jede Spur.  
   - [[Harald Strong]] ruft eine Hetzjagd aus und kündigt eine Belohnung an.  
   - [[Veronix]] meldet, erst gestern einen Vampirjäger unter ihren Angestellten entdeckt zu haben, und warnt, dass die Inquisition ihnen auf der Spur ist — die Maskerade muss besser eingehalten werden, besonders bei den Jägern der Anarchen.  
+  - Vor der Abstimmung lässt [[Sebastian LaCroix]] sich die Anwärter mit ihren bürgerlichen Namen vorstellen. [[Madam Rich]] gibt **Madonna Rich** an, [[Serafin]] **Marius Fessler**, [[Dianzu]] **Dianzu Rodriguez**, [[Thijs]] **Thijs de Vries**, [[Étienne]] **Étienne Vampiroux** und [[ALWA]] **Alfons Ludwig Wilhelm von Arnstein**.
   - Geheime Abstimmung per Urne: Fünf anonyme Stimmen werden gesucht, die für die Gruppe bürgen. Vier von fünf sind dafür — der Prinz gibt die entscheidende fünfte Stimme. Die Gruppe wird offiziell in die [[Camarilla]] aufgenommen.  
   - Die neuen Mitglieder sollen sich an ihre jeweiligen Primogenen wenden, um in ihren Clans aufgenommen zu werden. Der Prinz bedankt sich bei allen Anwesenden, besonders beim Baron.  
   - [[Madam Rich]] kündigt an, dass in zehn Minuten ein Treffen mit dem Prinzen stattfindet, und nennt mehrere Primogene der verschiedenen Clans.  
