@@ -65,7 +65,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 | [[ALWA]] | Nosferatu | 6 | 4 | – | 6 | 3., 4. und 6. Tradition (mehrfach) |
 | [[Thijs]] | Brujah | 6 | 4 | 5 | – | 1. Tradition (mehrfach, mit Leichen) |
 | [[Étienne]] | Tremere | 4 | 1 | 2 | – | Blutjagd ausgerufen |
-| [[Einar]] | Gangrel, Anarch | 3 | 1 | 3 | 1 | 1. und 2. Tradition |
+| [[Einar]] | Gangrel, Anarch | 3 | 1 | 4 | – | 1. und 2. Tradition |
 | [[Serafin]] | Toreador | 2 | 1 | 3 | – | Missachtung einer Anordnung des Prinzen |
 | [[Jonny Nightshade]] | Lasombra | 2 | 2 | 1 | – | 1. Tradition |
 | [[Madam Rich]] | Ventrue | – | 2 | 2 | 1 | Anstiftung zur 6. Tradition |
@@ -250,11 +250,8 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 - **[Nacht 3](Nacht-3.md) — Brandstiftung** *[aktenkundig]* — Wirft eine Brandbombe in [[Tzarecks Landhaus]]. Im ausdrücklichen Auftrag der Sheriffin.
 - **[Nacht 8](Nacht-8.md) — Absprache** *[gruppenwissen]* — Einigt sich mit [[Dianzu]] und [[Jonny Nightshade]], dem Prinzen die Sichtung von [[Nines Rodriguez]] zu verschweigen. Er selbst erfährt nie, dass die Absprache noch in derselben Nacht auffliegt.
+- **[Nacht 12](Nacht-12.md) — verbotener Kult** *[gruppenwissen]* — Gibt sich [[Dianzu]] auf der Lichtung als einer der Vermummten zu erkennen. Er stand also im Kreis, als [[ALWA]] gerichtet wurde. [[Garry Golden]] hatte eine Nacht zuvor klargestellt, dass der Kult der dunklen Mutter innerhalb der [[Camarilla]] verboten ist – Einar gehört nicht dazu, ihn bindet das Verbot nicht.
 - **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung des Prinzen** *[gruppenwissen]* — Trägt den Überfall auf [[Michael]]s Transport mit. Als Anarch ist er dem Prinzen nichts schuldig – vorhalten ließe es sich ihm nur, wenn jemand die Anarchen als Ganzes dafür haftbar machen wollte.
-
-### ???
-
-- **[Nacht 12](Nacht-12.md) — verbotener Kult** — **???**
 
 ---
 

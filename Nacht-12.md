@@ -45,9 +45,10 @@
   - [[Linda Swan]] wendet sich an [[Dianzu]]: Man brauche eine Sicherheit, um [[ALWA]] jederzeit töten zu können, und sie wolle [[Dianzu]] unter den Ihren wissen. Die Entscheidung liege bei ihm. Ließe er [[ALWA]] leben, werde man dafür sorgen, dass er selbst sich an nichts davon erinnern könne – und er werde wahrscheinlich nicht mehr wissen, wer sie sei.  
   - [[ALWA]] gibt seinen letzten Willen ab: [[Cevere]] solle in reifen Bananen beigesetzt und [[Eli]] angemessen beerdigt werden.  
   - Dann reißt [[Dianzu]] ihm das Herz heraus und diableriert ihn. [[ALWA]] wehrt sich bis zuletzt, und die Tat hinterlässt schwere Spuren: Sie reißt [[Dianzu]] einen dramatischen Teil seiner Menschlichkeit heraus. Wer ihn danach sieht, bemerkt: Etwas an [[Dianzu]] ist verändert.  
+  - Als es vorbei ist, nimmt noch eine der maskierten Gestalten die Maske ab: [[Einar]]. Er gibt sich [[Dianzu]] zu erkennen und fährt mit ihm zusammen weiter.  
 
 - **Im Clubhaus der Night Lords**  
-  - Treffpunkt ist das Clubhaus des [[Night Lords MC]], tief im Anarchengebiet. [[Dianzu]] und [[Einar]] treffen gemeinsam im [[Langschiff]] ein, [[Serafin]] kommt getrennt.  
+  - Treffpunkt ist das Clubhaus des [[Night Lords MC]], tief im Anarchengebiet. [[Dianzu]] und [[Einar]] fahren gemeinsam im [[Langschiff]] hin, direkt von der Lichtung. [[Serafin]] kommt getrennt.  
   - Der Klub besteht aus Kindred; Sterbliche laufen nur als Prospects mit. Die Runde führt [[Dante "Shadow" Ramirez]] an – dunkelhäutig, ein Tuch über dem ganzen Kopf bis auf die Augen, das er nicht abnimmt. Bei ihm [[Marcus "Gears" Thompson]], vernarbt und entstellt, der die Technik macht; [[Ryder "Steel" Morrison]], breit, kurzes dunkelblondes Haar, sichtlich der Mann fürs Grobe; [[Gravel]], fahlgrau und kahl, mit Tuch vorm Gesicht, auf einem Trike; und [[Selena]], die unter der Lederjacke ein langes schwarzes Gewand mit okkulten Zeichen trägt.  
   - Dazu eine Handvoll Maskierter, deren Auftreten und Manieren sie trotz Verkleidung als [[Camarilla]] ausweisen – die Gruppe hält sie für Toreador. Auch [[Jeanette Voerman]] ist da.  
   - Der Plan wird knapp durchgesprochen: den Transport auf der [[Interstate 10]] abfangen, [[Michael]] herausholen, sofort wieder weg. Über seine Schuld gehen die Meinungen auseinander; die Übergabe kampflos geschehen zu lassen, will trotzdem niemand.  
