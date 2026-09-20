@@ -6,6 +6,7 @@
 
 **Ausgewertet bis:** Nacht 12
 **Grundlage:** die veröffentlichten Nacht-Logs dieses Repositories (`Nacht-1.md` – `Nacht-12.md`)
+**Zuletzt nachgezogen:** Nacht 12 wurde nach dem Nachtrag des Überfalls auf den Gefangenentransport erneut ausgewertet.
 
 ---
 
@@ -60,13 +61,13 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 | Kindred | Klan | Belastbar | Auslegungssache | Nur böswillig | ??? | Schwerste Anklage |
 |---|---|---|---|---|---|---|
-| [[Dianzu]] | Toreador | 7 | 2 | 5 | 2 | 6. Tradition an einem der Ihren |
+| [[Dianzu]] | Toreador | 7 | 3 | 5 | 2 | 6. Tradition an einem der Ihren |
 | [[ALWA]] | Nosferatu | 6 | 4 | – | 6 | 3., 4. und 6. Tradition (mehrfach) |
-| [[Thijs]] | Brujah | 6 | 3 | 4 | – | 1. Tradition (mehrfach, mit Leichen) |
+| [[Thijs]] | Brujah | 6 | 4 | 5 | – | 1. Tradition (mehrfach, mit Leichen) |
 | [[Étienne]] | Tremere | 4 | 1 | 2 | – | Blutjagd ausgerufen |
-| [[Einar]] | Gangrel, Anarch | 2 | 1 | 2 | – | 1. und 2. Tradition |
+| [[Einar]] | Gangrel, Anarch | 3 | 1 | 3 | 1 | 1. und 2. Tradition |
+| [[Serafin]] | Toreador | 2 | 1 | 3 | – | Missachtung einer Anordnung des Prinzen |
 | [[Jonny Nightshade]] | Lasombra | 2 | 2 | 1 | – | 1. Tradition |
-| [[Serafin]] | Toreador | 2 | – | 2 | – | 1. Tradition – beide Male aus Anstand |
 | [[Madam Rich]] | Ventrue | – | 2 | 2 | 1 | Anstiftung zur 6. Tradition |
 | [[Gideon Poxwell]] | unbekannt | – | 1 | – | 1 | Missachtung einer Anordnung der Sheriffin |
 
@@ -121,6 +122,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 2](Nacht-2.md) — 1. Tradition** *[gruppenwissen]* — Plündert einen Pfandleiherladen und erschießt den zurückkehrenden Besitzer nach kurzem Feuergefecht. Ein Raubmord mit einer Schusswaffe – hässlich, aber nichts daran deutet auf Kindred. Bleibt hier stehen, weil ein Zeuge des Feuergefechts nie ausgeschlossen werden konnte.
 - **[Nacht 4](Nacht-4.md) — 1. Tradition** *[aktenkundig]* — Verbiegt im [[Strong Büro]] mit bloßer Hand den Lauf einer Schusswaffe, direkt vor der Wache, die sie hält. Unzweifelhaft übermenschlich – er tut es aber, um zu verhindern, dass [[ALWA]] erschossen wird, nachdem der den Zwischenfall selbst ausgelöst hat. Wer ihm das ankreidet, ist böswillig.
 - **[Nacht 6](Nacht-6.md) — Gewalt gegen Kindred** *[aktenkundig]* — **Raserei** im [[Last Round]]: rammt einem Anarchen die Faust durch den Bauch. Neun Anarchen ringen ihn nieder und nageln ihn für den Rest der Nacht an die Dartscheibe. Vor Ort geahndet, damit erledigt.
+- **[Nacht 12](Nacht-12.md) — 2. und 5. Tradition** *[gruppenwissen]* — Verteilt erneut Dünnblüter-Informanten im Anarchengebiet, diesmal auf der Suche nach [[David Harker]]. Anders als eine Nacht zuvor ruft er [[Einar]] vorher an – es geht nur niemand ran, und er macht trotzdem weiter. Dass [[Einar]] den Zugriff später ausdrücklich durchwinkt, entschärft die Sache, macht sie aber nicht ungeschehen.
 
 ### Nur mit bösem Willen
 
@@ -128,6 +130,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 7](Nacht-7.md) — 2. Tradition** *[aktenkundig]* — Kackt in den Flur des [[Asylum]]s. In der Domäne von [[Therese Voerman]]. Respektlos, aber niemand hat je daraus etwas gemacht.
 - **[Nacht 11](Nacht-11.md) — 2. Tradition** *[aktenkundig]* — Schleicht sich per **Verdunkelung** in [[Mac Master]]s Lagerhalle. Wird sofort durchschaut und gut gelaunt begrüßt – Mac Master nimmt es ihm nicht übel.
 - **[Nacht 11](Nacht-11.md) — Vertrauensbruch** *[gruppenwissen]* — Jubelt [[Dianzu]] und [[Mac Master]] Peilsender unter. Derselbe Mann, der von allen anderen absolute Diskretion über seine Adresse verlangt. Keine Tradition, aber es sagt etwas.
+- **[Nacht 12](Nacht-12.md) — Gewalt gegen Kindred** *[aktenkundig]* — Überwältigt [[David Harker]] vor dessen Wohnhaus und treibt ihm einen Pfahl ins Herz. Er handelt im Auftrag [[Aischa]]s und mit [[Einar]]s ausdrücklichem Einverständnis – vorwerfen kann ihm das nur, wer einen von beiden dazu bringt, nicht mehr dazu zu stehen.
 
 ---
 
@@ -149,6 +152,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 - **[Nacht 8](Nacht-8.md) — 1. Tradition** *[gruppenwissen]* — In der Nervenheilanstalt: **Revelation** an der Empfangsdame, **Präsenz** zur Verführung, um ihr die Schlüsselkarte zu stehlen. Auf dem Rückweg lenkt er die Wut ihres Freundes mit **Präsenz** auf sie um, bis der sie krankenhausreif schlägt. Was zurückbleibt, sieht aus wie ein Eifersuchtsdrama – erklärbar, aber es gibt zwei lebende Zeugen, die sich an ihn erinnern.
 - **[Nacht 10](Nacht-10.md) — Erpressungsmaterial** *[aktenkundig]* — Explizite Aufnahmen von ihm laufen vor versammelter Camarilla und Hecata über den Bildschirm. Nicht sein Verschulden, aber seine Akte – und [[Therese Voerman]] weiß eine Nacht später, wer die zweite Person war.
+- **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung des Prinzen** *[gruppenwissen]* — Reitet mit den [[Night Lords]] gegen den Gefangenentransport, mit dem [[Michael]] auf Anordnung des Prinzen an die [[Hecata]] übergeben werden sollte. Bezeugen könnte es nur, wer selbst mitgefahren ist – und das waren durchweg Leute, die sich damit selbst belasten würden.
 
 ### Nur mit bösem Willen
 
@@ -216,10 +220,15 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 4](Nacht-4.md) — 1. und 4. Tradition** *[gruppenwissen]* — Spendet im Krankenhaus als Universalspender Blut für eine Schwerverletzte. Vampirblut, in einen sterblichen Kreislauf, in einer Klinik mit Aktenführung. Er erschafft damit unabsichtlich einen [[Ghul]] – [[Heather]] –, dem er von da an regelmäßig eine Dosis schuldet.
 - **[Nacht 5](Nacht-5.md) — 1. Tradition** *[gruppenwissen]* — Schiebt per **Verdunkelung** das Krankenbett samt Patientin durch die Klinik und aus dem Haus. Im Aufzug teilt ein Pärchen die Fahrt mit einem Bett, das sich von selbst bewegt.
 
+### Auslegungssache
+
+- **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung des Prinzen** *[gruppenwissen]* — Trägt den Überfall auf [[Michael]]s Transport mit, nachdem [[Veronix]] ihm Strecke und Zeitfenster zugespielt hat. Sie hat es so verpackt, dass sie es jederzeit als Warnung ausgeben kann, fernzubleiben – herausreden könnte sich damit allerdings nur sie, nicht er.
+
 ### Nur mit bösem Willen
 
 - **[Nacht 10](Nacht-10.md)** *[gruppenwissen]* — Stemmt sich im [[Peacock Theater]] mit voller **Präsenz** gegen eine Massenpanik von Hunderten und lenkt die Menge zu den Seitenausgängen. Die größte Zeugenmenge der Chronik – aber Präsenz sieht aus wie ein Mensch, der die Nerven behält, und im brennenden Saal erst recht. Etliche Menschen überleben die Nacht nur deshalb.
 - **[Nacht 11](Nacht-11.md) — Loyalität** *[aktenkundig]* — Meldet [[Dianzu]]s Disstrack vor [[Madam Rich]], liefert [[Michael]] ans Messer und stimmt gegen [[Dianzu]]s Aufnahme. Kein Traditionsbruch – im Gegenteil. Aber die Gruppe nennt ihn seitdem nicht ohne Grund „Petze".
+- **[Nacht 12](Nacht-12.md) — 1. Tradition** *[gruppenwissen]* — Verletzt im Feuergefecht auf der East Los Angeles Interchange einen Wachmann mit einer seiner Wurfkarten am Auge, per **Geschwindigkeit** beschleunigt. Angespitzte Metallkarten sind eine Waffe, die auch ein Sterblicher werfen kann – an der Wunde ist nichts Auffälliges. Es geht ihm trotzdem nahe, und er macht trotzdem weiter.
 
 ---
 
@@ -231,6 +240,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 - **[Nacht 5](Nacht-5.md) — 1. und 2. Tradition** *[gruppenwissen]* — Schleicht sich per **Verdunkelung** in die [[Blutbank]] des Krankenhauses, trinkt vor Ort und nimmt mehrere Konserven mit. Dass dieses Blutgeschäft [[Therese Voerman]] gehört, erfährt die Gruppe erst zwei Nächte später.
 - **[Nacht 6](Nacht-6.md) — 1. Tradition** *[aktenkundig]* — Schlägt eine Wache nieder und sperrt sie ein, zertrümmert später der toten Wache den Kopf und zerstört die Fesselstühle im Geheimraum. Die Spurensicherung findet den Rest.
+- **[Nacht 12](Nacht-12.md) — 1. Tradition** *[aktenkundig]* — Fährt beim Überfall auf den Gefangenentransport die Krallen aus und arbeitet sich durch die Polizeieskorte, tötet einen Wachmann, nimmt ihm eine Granate ab und wirft sie im Sprung in den ersten Transporter. Sieben Polizisten sterben, viele überleben schwer verletzt. Die Presse berichtet von militärischen Waffen und Biker-Gangs – von Klauen steht dort nichts, aber die Verletzten haben sie aus nächster Nähe gesehen. Auf einem Autobahnkreuz mitten in der Stadt, also nicht auf Anarchengebiet.
 
 ### Auslegungssache
 
@@ -240,6 +250,11 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 - **[Nacht 3](Nacht-3.md) — Brandstiftung** *[aktenkundig]* — Wirft eine Brandbombe in [[Tzarecks Landhaus]]. Im ausdrücklichen Auftrag der Sheriffin.
 - **[Nacht 8](Nacht-8.md) — Absprache** *[gruppenwissen]* — Einigt sich mit [[Dianzu]] und [[Jonny Nightshade]], dem Prinzen die Sichtung von [[Nines Rodriguez]] zu verschweigen. Er selbst erfährt nie, dass die Absprache noch in derselben Nacht auffliegt.
+- **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung des Prinzen** *[gruppenwissen]* — Trägt den Überfall auf [[Michael]]s Transport mit. Als Anarch ist er dem Prinzen nichts schuldig – vorhalten ließe es sich ihm nur, wenn jemand die Anarchen als Ganzes dafür haftbar machen wollte.
+
+### ???
+
+- **[Nacht 12](Nacht-12.md) — verbotener Kult** — **???**
 
 ---
 
