@@ -4,9 +4,8 @@
 > geleistet haben – gemessen an den sechs Traditionen, die [[Jofrey]] ihnen in Nacht 1 erklärt hat.
 > Kein offizielles Dokument des Hofes. Nur eine Buchführung.
 
-**Ausgewertet bis:** Nacht 12
-**Grundlage:** die veröffentlichten Nacht-Logs dieses Repositories (`Nacht-1.md` – `Nacht-12.md`)
-**Zuletzt nachgezogen:** Nacht 12 wurde nach dem Nachtrag des Überfalls auf den Gefangenentransport erneut ausgewertet.
+**Ausgewertet bis:** Nacht 13
+**Grundlage:** die veröffentlichten Nacht-Logs dieses Repositories (`Nacht-1.md` – `Nacht-13.md`)
 
 ---
 
@@ -61,15 +60,15 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 | Kindred | Klan | Belastbar | Auslegungssache | Nur böswillig | ??? | Schwerste Anklage |
 |---|---|---|---|---|---|---|
-| [[Dianzu]] | Toreador | 7 | 3 | 5 | 2 | 6. Tradition an einem der Ihren |
+| [[Dianzu]] | Toreador | 7 | 4 | 7 | 2 | 6. Tradition an einem der Ihren |
 | [[ALWA]] | Nosferatu | 6 | 4 | – | 6 | 3., 4. und 6. Tradition (mehrfach) |
-| [[Thijs]] | Brujah | 6 | 4 | 5 | – | 1. Tradition (mehrfach, mit Leichen) |
+| [[Thijs]] | Brujah | 6 | 4 | 5 | 1 | 1. Tradition (mehrfach, mit Leichen) |
 | [[Étienne]] | Tremere | 4 | 1 | 2 | – | Blutjagd ausgerufen |
-| [[Einar]] | Gangrel, Anarch | 3 | 1 | 4 | – | 1. und 2. Tradition |
-| [[Serafin]] | Toreador | 2 | 1 | 3 | – | Missachtung einer Anordnung des Prinzen |
+| [[Einar]] | Gangrel, Anarch | 3 | 1 | 5 | – | 1. und 2. Tradition |
+| [[Serafin]] | Toreador | 2 | 1 | 3 | 1 | Missachtung einer Anordnung des Prinzen |
 | [[Jonny Nightshade]] | Lasombra | 2 | 2 | 1 | – | 1. Tradition |
+| [[Gideon Poxwell]] | unbekannt | – | 3 | – | 2 | Gewalt gegen Kindred, eine Handbreit vor der 6. Tradition |
 | [[Madam Rich]] | Ventrue | – | 2 | 2 | 1 | Anstiftung zur 6. Tradition |
-| [[Gideon Poxwell]] | unbekannt | – | 1 | – | 1 | Missachtung einer Anordnung der Sheriffin |
 
 ---
 
@@ -132,6 +131,10 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 11](Nacht-11.md) — Vertrauensbruch** *[gruppenwissen]* — Jubelt [[Dianzu]] und [[Mac Master]] Peilsender unter. Derselbe Mann, der von allen anderen absolute Diskretion über seine Adresse verlangt. Keine Tradition, aber es sagt etwas.
 - **[Nacht 12](Nacht-12.md) — Gewalt gegen Kindred** *[aktenkundig]* — Überwältigt [[David Harker]] vor dessen Wohnhaus und treibt ihm einen Pfahl ins Herz. Er handelt im Auftrag [[Aischa]]s und mit [[Einar]]s ausdrücklichem Einverständnis – vorwerfen kann ihm das nur, wer einen von beiden dazu bringt, nicht mehr dazu zu stehen.
 
+### ???
+
+- **[Nacht 13](Nacht-13.md) — Vertrauensbruch** — Eine Treppe, ein Gespräch, das nicht für ihn war. **???**
+
 ---
 
 ## [[Dianzu]] — Toreador
@@ -153,6 +156,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 8](Nacht-8.md) — 1. Tradition** *[gruppenwissen]* — In der Nervenheilanstalt: **Revelation** an der Empfangsdame, **Präsenz** zur Verführung, um ihr die Schlüsselkarte zu stehlen. Auf dem Rückweg lenkt er die Wut ihres Freundes mit **Präsenz** auf sie um, bis der sie krankenhausreif schlägt. Was zurückbleibt, sieht aus wie ein Eifersuchtsdrama – erklärbar, aber es gibt zwei lebende Zeugen, die sich an ihn erinnern.
 - **[Nacht 10](Nacht-10.md) — Erpressungsmaterial** *[aktenkundig]* — Explizite Aufnahmen von ihm laufen vor versammelter Camarilla und Hecata über den Bildschirm. Nicht sein Verschulden, aber seine Akte – und [[Therese Voerman]] weiß eine Nacht später, wer die zweite Person war.
 - **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung des Prinzen** *[gruppenwissen]* — Reitet mit den [[Night Lords]] gegen den Gefangenentransport, mit dem [[Michael]] auf Anordnung des Prinzen an die [[Hecata]] übergeben werden sollte. Bezeugen könnte es nur, wer selbst mitgefahren ist – und das waren durchweg Leute, die sich damit selbst belasten würden.
+- **[Nacht 13](Nacht-13.md) — 1. Tradition** *[aktenkundig]* — Stellt ein sterbliches Double an seiner Stelle auf die Bühne, nachdem ihn die Warnung erreicht hat, dieses Konzert werde sein letztes. Das Double stirbt vor vollem Haus durch einen Kopfschuss, und die Stadt hält [[BBD]] seither für tot. Solange er tot bleibt, hat niemand ein Problem damit – taucht er je wieder auf, gibt es dafür keine menschliche Erklärung.
 
 ### Nur mit bösem Willen
 
@@ -161,6 +165,8 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 8](Nacht-8.md)** *[gruppenwissen]* — Bestellt trotz ausdrücklicher Warnungen per Smartphone Blut ins Hotel. Sorglos, und die Gruppe führt den Überfall darauf zurück – die Bestellung selbst bricht nichts.
 - **[Nacht 10](Nacht-10.md)** *[gruppenwissen]* — Trinkt an der Bar des Asylums eine „Bloody Mary" direkt von einer Angestellten. Im Asylum ist das geduldete Hausroutine.
 - **[Nacht 11](Nacht-11.md)** *[gruppenwissen]* — Lässt sich von einem [[Giovanni]] die Security für sein Benefizkonzert aufdrängen und bedankt sich dafür. Naiv, kein Bruch.
+- **[Nacht 13](Nacht-13.md)** *[aktenkundig]* — Trägt hinter dem Vorhang über **Melody** seine **Majestät** allein in der Stimme. Die vordersten Reihen fangen etwas davon auf und rasten aus, über die Leinwände reißt es die ganze Halle mit. Die größte Wirkung, die er je erzielt hat – und nichts sieht harmloser aus als ein Publikum, das bei einem Konzert ausflippt.
+- **[Nacht 13](Nacht-13.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Weist [[Einar]] in der Tiefgarage an, [[Gideon Poxwell]] notfalls zu pflocken, und versucht anschließend selbst, sich bei ihm zurückzuholen, was ihm fehlt. Unter Kindred, also kein Maskeradefall – und er war es, dem kurz zuvor zu viel abgenommen wurde.
 
 ### ???
 
@@ -230,6 +236,10 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 11](Nacht-11.md) — Loyalität** *[aktenkundig]* — Meldet [[Dianzu]]s Disstrack vor [[Madam Rich]], liefert [[Michael]] ans Messer und stimmt gegen [[Dianzu]]s Aufnahme. Kein Traditionsbruch – im Gegenteil. Aber die Gruppe nennt ihn seitdem nicht ohne Grund „Petze".
 - **[Nacht 12](Nacht-12.md) — 1. Tradition** *[gruppenwissen]* — Verletzt im Feuergefecht auf der East Los Angeles Interchange einen Wachmann mit einer seiner Wurfkarten am Auge, per **Geschwindigkeit** beschleunigt. Angespitzte Metallkarten sind eine Waffe, die auch ein Sterblicher werfen kann – an der Wunde ist nichts Auffälliges. Es geht ihm trotzdem nahe, und er macht trotzdem weiter.
 
+### ???
+
+- **[Nacht 13](Nacht-13.md) — Vertrauensbruch** — Ein Vertrauen, eine Auflage, ein Bericht. **???**
+
 ---
 
 ## [[Einar]] — Gangrel, Anarch
@@ -252,6 +262,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 8](Nacht-8.md) — Absprache** *[gruppenwissen]* — Einigt sich mit [[Dianzu]] und [[Jonny Nightshade]], dem Prinzen die Sichtung von [[Nines Rodriguez]] zu verschweigen. Er selbst erfährt nie, dass die Absprache noch in derselben Nacht auffliegt.
 - **[Nacht 12](Nacht-12.md) — verbotener Kult** *[gruppenwissen]* — Gibt sich [[Dianzu]] auf der Lichtung als einer der Vermummten zu erkennen. Er stand also im Kreis, als [[ALWA]] gerichtet wurde. [[Garry Golden]] hatte eine Nacht zuvor klargestellt, dass der Kult der dunklen Mutter innerhalb der [[Camarilla]] verboten ist – Einar gehört nicht dazu, ihn bindet das Verbot nicht.
 - **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung des Prinzen** *[gruppenwissen]* — Trägt den Überfall auf [[Michael]]s Transport mit. Als Anarch ist er dem Prinzen nichts schuldig – vorhalten ließe es sich ihm nur, wenn jemand die Anarchen als Ganzes dafür haftbar machen wollte.
+- **[Nacht 13](Nacht-13.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Reißt [[Gideon Poxwell]] mit Gewalt von [[Dianzu]] los, als der beim Trinken die Kontrolle verliert. Steht hier nur der Vollständigkeit halber: Er beendet einen Übergriff, statt einen zu begehen.
 
 ---
 
@@ -282,12 +293,15 @@ Nacht, Tradition und höchstens drei Stichworte.
 ### Auslegungssache
 
 - **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung** *[aktenkundig]* — [[Aischa]] hatte ausdrücklich verlangt, dass niemand sich später an die Befragung erinnert; [[Marcus Shaw]] löscht [[Thijs]]' Erinnerung entsprechend. [[Gideon Poxwell]], an dem die Löschung scheitert, findet das „skandalös" – und erzählt [[Thijs]] anschließend alles, was er vergessen sollte. Formal war die Anordnung an den Löschenden gerichtet, nicht an ihn.
+- **[Nacht 13](Nacht-13.md) — 1. Tradition** *[aktenkundig]* — Übernimmt den Tatort auf der Bühne, als gehörte er ihm: Zettel an den großen Zeh, als Todesursache der spontane Verlust lebenswichtiger Organe, Fähnchen aufgestellt – und Splitter des zerplatzten Schädels wandern unauffällig in die eigene Tasche. Nichts daran ist übernatürlich, und als Pathologe fällt er am Tatort zunächst nicht weiter auf. Es bleiben nur ein medizinisch sinnloser Befund und fehlende Beweismittel zurück.
+- **[Nacht 13](Nacht-13.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Verliert beim wechselseitigen Blutaustausch die Kontrolle und trinkt weiter, bis [[Dianzu]] zu geschwächt ist, sich zu befreien; [[Einar]] reißt ihn los. Begonnen hatte es als Tausch in gleicher Menge, und er entschuldigt sich sichtlich erschüttert – nur endet es eben eine Handbreit vor der sechsten Tradition.
 
 ### ???
 
 - **[Nacht 12](Nacht-12.md) — Vertrauensbruch** — Ein Bericht, ein Auftraggeber, das gewünschte Ergebnis. **???**
+- **[Nacht 13](Nacht-13.md) — Vertrauensbruch** — Ein Geschenk, ein Dritter, ein Ahnungsloser. **???**
 
-*Vorgemerkt: Er hat in seiner ersten Nacht versucht, [[Thijs]] einen Blutstein anzudrehen, und ist gegen Gedächtnismanipulation resistent. Beides wird noch relevant.*
+*Vorgemerkt: Er hat in seiner ersten Nacht versucht, [[Thijs]] einen Blutstein anzudrehen, und ist gegen Gedächtnismanipulation resistent. Beides wird noch relevant — in Nacht 13 bereits beides.*
 
 ---
 
