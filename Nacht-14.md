@@ -259,6 +259,7 @@
     - [[Gideon Poxwell]]: Das könne nicht sein. Der Mann habe den Blutwein hergestellt — Blut so aufzubereiten, dass ein Kindred es trinken kann, sei keine Handwerkskunst, das sei Magie. Und er sei [[Tremere]] gewesen.  
     - [[Thijs]]: Ob er sicher sei, dass man Disziplinen überhaupt zuverlässig herausschmecken könne.  
   - Von da an redet [[Gideon Poxwell]] mehr mit sich selbst als mit [[Thijs]]. Drei Möglichkeiten: Entweder sei das unwahrscheinliche Ergebnis korrekt. Oder seine Methodik sei fehlerhaft — dann müsste er wissen, welcher Schritt. Oder die Probe sei beschädigt, und dafür habe er gleich zwei Kandidaten: Er habe dem Mann kurz vor dessen Ende selbst die Vitae verdorben, und zwischen Entnahme und Auswertung liege eine ganze Nacht, was bei Blut nie ohne Folgen bleibe.  
+  - Eine vierte Möglichkeit kommt in der Aufzählung nicht vor: dass die Probe genau das zeigt, was in ihr ist.  
   - Prüfen ließe sich das: **Extinguish Vitae** auf einen anderen anwenden und dessen Blut anschließend auslesen. Nur bliebe dann offen, ob es wirklich nur daran lag oder ob mehrere Faktoren zusammenkommen — und ob an [[Mac Master]] nicht etwas Besonderes war, das sich mit keinem Zweitfall nachstellen lässt.  
   - Und genau da endet es. Weder verifizieren noch falsifizieren, weil der einzige Datenpunkt beendet wurde.  
     - [[Gideon Poxwell]]: Jammerschade. Was für ein schönes Testsubjekt das gewesen wäre.  
