@@ -9,7 +9,7 @@
   - Am Rand der Lichtung liegt ein großer, schwerer Sack. Eine Nosferatu hat ihn kurz vor Sonnenaufgang gebracht, ohne sich vorzustellen; sie hat [[Linda Swan]] nur angesehen und gesagt, morgen werde eine besondere Nacht. Dann war sie wieder verschwunden. Der Sack hat den ganzen Tag über dort gelegen, während die Bahari schliefen. Er ist etwa menschengroß, und er ist sehr still.  
 
 - **Gideons Morgen**  
-  - [[Gideon Poxwell]] beginnt die Nacht nicht mit der Jagd, sondern mit Laborarbeit – ein Blutbericht für [[Gregor Havitch]] und, im Anschluss, eine Analyse seines eigenen Blutes.  
+  - [[Gideon Poxwell]] beginnt die Nacht nicht mit der Jagd, sondern mit Laborarbeit – ein Blutbericht für einen Auftraggeber und, im Anschluss, eine Analyse seines eigenen Blutes.  
 
 - **Aischas Angebot**  
   - [[Aischa]] sucht [[Thijs]] persönlich auf. Sie verweist auf seinen Umgang mit dem Whistleblower und macht klar, was sie von ihm hält: Reden interessiere sie nicht, Ergebnisse schon. Sie sieht in ihm kein politisches Talent, sondern ein brauchbares Werkzeug.  
