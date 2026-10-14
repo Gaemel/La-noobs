@@ -18,7 +18,7 @@
 
 - **Serafin und die Giovanni**  
   - [[Serafin]] kauft bei einem Metzger Blut. Anschließend telefoniert er mit [[Lexy Sexy]] und sagt seine Zaubershow als Vorprogramm für [[Dianzu]]s Benefizkonzert krankheitsbedingt ab.  
-  - Kurz darauf ruft ein [[Giovanni]] bei [[Lexy Sexy]] an: Man habe sich auf vierzig Prozent geeinigt, das lasse sich steuerfrei gestalten, damit mehr für die armen Kinder übrig bleibe, und die Künstler würden geschützt. Er lässt sich [[Serafin]]s Nummer geben.  
+  - Kurz darauf ruft [[Gustavo Giovanni]] bei [[Lexy Sexy]] an: Man habe sich auf vierzig Prozent geeinigt, das lasse sich steuerfrei gestalten, damit mehr für die armen Kinder übrig bleibe, und die Künstler würden geschützt. Er lässt sich [[Serafin]]s Nummer geben.  
   - Dann ruft er [[Serafin]] direkt an und erklärt ihm, es sei deutlich gesünder, aufzutreten, als fernzubleiben. Als [[Serafin]] sich mit der Krankheit seiner Assistentin herauszureden versucht, bietet man ihm einen Heiler an – und droht mit ihrer Seele. [[Serafin]] sagt zu.  
   - Er informiert seine Assistentin, dass ihnen indirekt gedroht wurde und sie auftreten müssen, und bittet um einen möglichst frühen Platz im Programm, um danach sofort verschwinden zu können.  
 
