@@ -21,7 +21,10 @@
 - **Gideons Laborabend**  
   - [[Gideon Poxwell]] beginnt die Nacht mit einem Schluck Blut und geht dann seinen Angestellten zur Hand. Aus den Leichen der vergangenen Nachtaktion gewinnt er zusätzliches Blut.  
   - Mit dem Blutmagie-Ritual [[Calix Secretus]] bindet er einen Teil davon in einen Gegenstand, um ihn als Reserve bei sich tragen zu können.  
-  - [[Thijs]] trifft ein und nimmt ihn mit.  
+  - [[Thijs]] trifft ein. Er hat von [[Serafin]] die Nachricht, dass sich vor dem Konzert alle bei [[Dianzu]] treffen, und fragt, ob [[Gideon Poxwell]] mitkommen will.  
+    - [[Gideon Poxwell]]: Er kenne keinen von ihnen. Aber er wolle mehr Leute mit ihrem Zustand kennenlernen — vielleicht lerne er etwas.  
+    - [[Thijs]]: "Lernen wirst du ganz sicher etwas."  
+  - [[Gideon Poxwell]] nickt einmal und kommt mit. [[Sir Emmentaler]] fährt sie, und [[Thijs]] ist sich im Klaren darüber, dass dies [[Gideon Poxwell]]s erster Kontakt mit dem größeren Kreis wird.  
 
 - **Ein Fremder in der Wohnung**  
   - [[Thijs]] und [[Gideon Poxwell]] treffen bei [[Dianzu]] ein. Der will wissen, wer der Fremde ist. [[Gideon Poxwell]] sagt geradeheraus, dass er zu [[ALWA]] möchte, und lässt sich auf Nachfrage über seine Beweggründe aus.  
@@ -52,7 +55,7 @@
 - **Jeanettes Bus**  
   - Ein laut hupender Kleinbus mit aufgedrehter Musik hält vor dem Haus — am Steuer [[Jeanette Voerman]], dabei [[Hubbabubba]], [[Lexy Sexy]] und [[Linda Swan]]. [[Einar]] fährt mit dem [[Langschiff]] hinterher, [[Gideon Poxwell]] und [[Dianzu]] steigen zu.  
   - [[Gideon Poxwell]] fragt, ob [[Linda Swan]] [[Dianzu]]s Frau sei. „Sie ist mein Kind."  
-  - [[Lexy Sexy]] hängt seit Stunden an [[Dianzu]]; sobald [[Linda Swan]] dazukommt, drängt eine die andere weg. Im Bus setzt sich der Streit um den Platz neben ihm fort, und er lässt sie gewähren — die spitzen Bemerkungen, die betont beiläufige Nähe, das Schweigen im richtigen Moment gefallen ihm sichtlich.  
+  - [[Lexy Sexy]] hängt seit Stunden an [[Dianzu]] und hält den Platz neben ihm besetzt. Als [[Linda Swan]] später dazukommt, schickt sie [[Lexy Sexy]] erst einmal Blut holen und nimmt den Platz ein — von da an drängt eine die andere weg. Im Bus setzt sich der Streit um den Platz neben ihm fort, und er lässt sie gewähren — die spitzen Bemerkungen, die betont beiläufige Nähe, das Schweigen im richtigen Moment gefallen ihm sichtlich.  
   - [[Gideon Poxwell]] will alles über [[ALWA]] wissen. [[Linda Swan]]: eine dreckige Ratte, er hätte sie beschützen sollen und habe sie betrogen, und er werde sehr lange dafür büßen. Auf seinen Einwand, er habe gedacht, der sei tot: „Es gibt tot, und es gibt tot."  
   - [[Dianzu]] erklärt ihre Anhänglichkeit damit, dass er ihr von seinem Blut gegeben habe. Ob sie denn sein Ghul sei? — Faktisch ja, aber er behandle sie wie ein Familienmitglied. Dann erzählt er die ganze Geschichte aus seiner Sicht.  
   - [[Linda Swan]] bleibt bei ihrer Fassung: verkauft und verraten habe er sie. Als [[Dianzu]] ergänzt, man habe [[ALWA]] auch noch den Tod seiner beiden Tiere vorgeworfen, fährt sie dazwischen — das solle der Fremde doch gar nicht wissen, wer der überhaupt sei.  
@@ -136,7 +139,7 @@
 
 - **Die Suche auf der Lichtung**  
   - [[Einar]] fragt [[Linda Swan]], wo [[Dianzu]] steckt — auf der Wiese, wo sie sich zuletzt getroffen haben.  
-  - Er steigt ins [[Langschiff]], [[Gideon Poxwell]] zögert kurz und steigt dann ebenfalls ein. [[Einar]] registriert es und sagt nichts dazu. Sie fahren aus der Stadt heraus in das Waldstück, das er mit [[Dianzu]] und den [[Bahari]] verbindet, verlassen am Waldrand die Straße, und [[Einar]] nimmt die Fährte auf.  
+  - Er steigt ins [[Langschiff]], [[Gideon Poxwell]] zögert kurz und steigt dann ebenfalls ein. [[Einar]] registriert es und sagt nichts dazu. [[Gideon Poxwell]] hat gesehen, in welche Richtung [[Dianzu]] verschwunden ist, und kann die Suche damit eingrenzen. Sie fahren aus der Stadt heraus in das Waldstück, das er mit [[Dianzu]] und den [[Bahari]] verbindet, verlassen am Waldrand die Straße, und [[Einar]] nimmt die Fährte auf.  
   - Tief im Wald finden sie [[Dianzu]]: orientierungslos, innerlich zerstört und außerstande zu erklären, wie er überhaupt dorthin gekommen ist. Losgelaufen war er mit einem klaren Ziel — unterwegs haben Panik, das Biest und [[ALWA]] die Führung übernommen.  
 
 - **Der Rückruf**  
