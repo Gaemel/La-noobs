@@ -45,9 +45,10 @@
     - Die Bahari schließen den Kreis. Eine maskierte Frau tritt vor, ruft **die Mutter** an und spricht von der Notwendigkeit des Urteils.  
     - Mit dem letzten Wort greift sie nach dem Tuch und zieht es weg. Darunter liegt [[ALWA]], gepfählt und unbeweglich – seit der Vornacht, in der er auf dem Weg zu seinem Kanalisationsversteck überfallen wurde. [[Dianzu]] liest seine Anwesenheit hier nicht als Zufall, sondern als Folge.  
     - Die Maskierte tritt näher und nimmt die Maske ab. Sie legt die Hand auf den Altar und wendet sich an den Kreis: "Der hier liegt, ist meiner. Mein Childe."  
+    - [[ALWA]] erkennt die Maske in ihrer Hand wieder. Es ist dieselbe, die die Person trug, die ihn in der Vornacht auf dem Weg zu seinem Versteck überfallen und gepfählt hat. Für ihn fällt in diesem Moment zusammen, was er die ganze Zeit für zwei Dinge gehalten hat.  
     - Sie wendet sich an [[Linda Swan]]: "Es war mein Spross, der dir Unrecht getan hat. Dafür bitte ich dich um Verzeihung." Sie senkt kurz den Kopf und richtet sich wieder auf.  
-    - Weiter: Von Blut und von Rechts wegen liege die Macht, ihn zu bestrafen oder zu vernichten, bei ihr. Heute trete sie dieses Recht ab. Sie legt [[Linda Swan]] den **Ritualdolch** in die Hände: "Ich übertrage dir meine Autorität als sein Erzeuger. Du wirst sein Schicksal entscheiden."  
-    - Sie macht dabei deutlich, dass sie ihm für ihren Teil noch eine letzte Chance geben würde – und dennoch für seine Bestrafung stimme.  
+    - Weiter: Von Blut und von Rechts wegen liege die Macht, ihn zu bestrafen oder zu vernichten, bei ihr. Heute trete sie dieses Recht ab. Sie legt [[Linda Swan]] den **Ritualdolch** in die Hände: "Hier. Er ist derjenige, der dich entführt hat. Ich übergebe dir deinen Peiniger." Eine Pause, dann: "Mein Nachkomme."  
+    - Sie macht dabei deutlich, dass sie ihm für ihren Teil noch eine letzte Chance geben würde – und dennoch für seine Bestrafung stimme. Die Entscheidung überlässt sie trotzdem [[Linda Swan]] und damit [[Dianzu]].  
     - [[Linda Swan]] stellt sich vor den Altar, den Dolch in der Hand: "[[ALWA]]. Für das, was du mir angetan hast. Für das, was du zugelassen hast. Für das, was du genommen hast. Ich würde dich gern vernichtet sehen."  
     - Sie hebt den Dolch über [[ALWA]]s Brust. Ihre Hand hält inne.  
     - Dann dreht sie sich langsam zu [[Dianzu]] und legt den Dolch in seine Hände: "Mein Liebster. Du kennst diesen Sünder besser als wir alle. Du bist neben ihm gegangen. Du hast ihm vertraut." Sie sucht seinen Blick: "Steh mit uns. Werde einer von uns. Und sprich das Urteil."  
@@ -78,7 +79,7 @@
     - Dann: "Es ging nie um Macht. Es ging um [[Eli]]. Alles, was ich getan habe, habe ich für sie getan."  
     - Und hart: "Aber jeder Nacht wird der Haufen Scheiße größer. Und du bist der, der ihn wachsen lässt."  
     - [[Dianzu]] antwortet nicht.  
-    - Während die Worte nachhängen, beugt sich einer der Maskierten neben ihm vor. Ein Flüstern, leise und drängend: "Tu es." [[Dianzu]] erstarrt. Er kann die Stimme nicht zuordnen – sie ist ihm trotzdem beunruhigend vertraut.  
+    - Außer der Maskierten, [[Linda Swan]], [[Dianzu]] und [[ALWA]] trägt niemand im Kreis ein offenes Gesicht. Einer der Maskierten steht die ganze Zeit direkt neben [[Dianzu]] und flüstert ihm immer wieder etwas zu – leise und drängend: "Tu es." Und: "Richte ihn für das, was er ihr angetan hat." [[Dianzu]] erstarrt jedes Mal. Er kann die Stimme nicht zuordnen, und sie ist ihm trotzdem beunruhigend vertraut.  
 
   - **Die Entscheidung**  
     - [[Dianzu]] senkt den Dolch: "Ich entscheide das nicht allein." Er wendet sich dem Kreis zu: Entscheiden solle die Versammlung.  
@@ -108,7 +109,7 @@
 
   - **Danach**  
     - Was von [[ALWA]] bleibt, wird nach dem Brauch der [[Bahari]] behandelt. Das Blut wird von Stein und Erde gewaschen, die Zeichen werden getilgt, bis nichts mehr davon zu sehen ist. Die Kerzen werden gelöscht, der Ritualplatz wird schweigend abgebaut, und die Lichtung wird wieder still.  
-    - Als es vorbei ist, nimmt noch eine der maskierten Gestalten die Maske ab: [[Einar]]. Er gibt sich [[Dianzu]] zu erkennen – und damit ist auch klar, wessen Stimme ihm vorhin "Tu es" zugeflüstert hat. Die beiden fahren zusammen weiter.  
+    - Als es vorbei ist, nimmt die Gestalt, die neben ihm gestanden hat, die Maske ab: [[Einar]]. Er gibt sich [[Dianzu]] zu erkennen – und damit ist auch klar, wer ihm die ganze Zeit zugeflüstert hat. Die beiden fahren zusammen weiter.  
 
 - **Im Clubhaus der Night Lords**  
   - Treffpunkt ist das Clubhaus des [[Night Lords MC]], tief im Anarchengebiet. [[Dianzu]] und [[Einar]] fahren gemeinsam im [[Langschiff]] hin, direkt von der Lichtung. [[Serafin]] kommt getrennt.  
