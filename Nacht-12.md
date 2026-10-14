@@ -36,16 +36,79 @@
   - Während die Suche läuft, erreicht ihn [[Serafin]]s Nachricht zu [[Michael]]s Überstellung. Er antwortet nicht.  
 
 - **Das Urteil auf der Lichtung**  
-  - Der Sack wird geöffnet. Darin liegt [[ALWA]], seit der Vornacht gepfählt. Man zieht ihm den Pflock aus dem Herzen.  
-  - Er erwacht im Freien, auf der Lichtung im Mondschein: an Armen und Beinen an einen Baumstamm genagelt, auf einem Scheiterhaufen. Um ihn herum stehen etwa zehn maskierte Gestalten. Eine trägt keine Maske – [[Dianzu]].  
-  - [[Linda Swan]] spricht [[Dianzu]] an und sagt, sie habe ein gutes Wort für [[ALWA]] eingelegt. Warum er ihr trauen solle? "Du solltest niemandem trauen." Sie fragt zurück, was [[ALWA]] ihm alles angetan habe. [[ALWA]] beginnt zu lachen.  
-  - Eine der Maskierten nimmt ihre Maske ab. Sie für ihren Teil würde ihm noch eine letzte Chance geben, aber die Entscheidung liege nicht bei ihr. Sie stimme dennoch für seine Bestrafung.  
-  - Sie stellt ihn vor die Wahl: Er solle entscheiden, welches seiner beiden Tiere er tötet, und lässt die Ratte und [[Cevere]] gegeneinander antreten. Die Ratte beißt [[Cevere]] ins Auge; er greift sie und zerquetscht sie in der Hand. Sie nickt einer vermummten Gestalt zu, die [[Cevere]] hinrichtet. [[ALWA]] starrt emotional zerstört in die Ferne.  
-  - Es folgt eine Abstimmung über sein Schicksal: vier Stimmen für sein Leben, sechs für seinen Tod.  
-  - [[Linda Swan]] wendet sich an [[Dianzu]]: Man brauche eine Sicherheit, um [[ALWA]] jederzeit töten zu können, und sie wolle [[Dianzu]] unter den Ihren wissen. Die Entscheidung liege bei ihm. Ließe er [[ALWA]] leben, werde man dafür sorgen, dass er selbst sich an nichts davon erinnern könne – und er werde wahrscheinlich nicht mehr wissen, wer sie sei.  
-  - [[ALWA]] gibt seinen letzten Willen ab: [[Cevere]] solle in reifen Bananen beigesetzt und [[Eli]] angemessen beerdigt werden.  
-  - Dann reißt [[Dianzu]] ihm das Herz heraus und diableriert ihn. [[ALWA]] wehrt sich bis zuletzt, und die Tat hinterlässt schwere Spuren: Sie reißt [[Dianzu]] einen dramatischen Teil seiner Menschlichkeit heraus. Wer ihn danach sieht, bemerkt: Etwas an [[Dianzu]] ist verändert.  
-  - Als es vorbei ist, nimmt noch eine der maskierten Gestalten die Maske ab: [[Einar]]. Er gibt sich [[Dianzu]] zu erkennen und fährt mit ihm zusammen weiter.  
+  - [[Dianzu]] und [[Linda Swan]] werden vom Lager zu einer Lichtung tiefer in der Wildnis geführt. Die [[Bahari]] sind bereits versammelt, als sie ankommen. Niemand erklärt, was geschehen wird.  
+  - In der Mitte der Lichtung steht ein **steinerner Altar**. Darauf liegt ein Körper unter einem schweren Tuch. Ringsum brennen Kerzen herunter, in Stein und Erde sind Zeichen geschnitten, Schalen mit Blut stehen mit erkennbarer Genauigkeit an ihren Plätzen.  
+  - [[Dianzu]] und [[Linda Swan]] nehmen ihre Plätze im Kreis ein. Die Stimmung ist ruhig, kontrolliert und endgültig. Etwa zehn Gestalten stehen maskiert um den Altar. Eine trägt keine Maske – [[Dianzu]].  
+  - [[Linda Swan]] sagt ihm, sie habe ein gutes Wort für [[ALWA]] eingelegt. Warum er ihr trauen solle? "Du solltest niemandem trauen." Dann fragt sie zurück, was [[ALWA]] ihm alles angetan habe.  
+
+  - **Der Altar**  
+    - Die Bahari schließen den Kreis. Eine maskierte Frau tritt vor, ruft **die Mutter** an und spricht von der Notwendigkeit des Urteils.  
+    - Mit dem letzten Wort greift sie nach dem Tuch und zieht es weg. Darunter liegt [[ALWA]], gepfählt und unbeweglich – seit der Vornacht, in der er auf dem Weg zu seinem Kanalisationsversteck überfallen wurde. [[Dianzu]] liest seine Anwesenheit hier nicht als Zufall, sondern als Folge.  
+    - Die Maskierte tritt näher und nimmt die Maske ab. Sie legt die Hand auf den Altar und wendet sich an den Kreis: "Der hier liegt, ist meiner. Mein Childe."  
+    - Sie wendet sich an [[Linda Swan]]: "Es war mein Spross, der dir Unrecht getan hat. Dafür bitte ich dich um Verzeihung." Sie senkt kurz den Kopf und richtet sich wieder auf.  
+    - Weiter: Von Blut und von Rechts wegen liege die Macht, ihn zu bestrafen oder zu vernichten, bei ihr. Heute trete sie dieses Recht ab. Sie legt [[Linda Swan]] den **Ritualdolch** in die Hände: "Ich übertrage dir meine Autorität als sein Erzeuger. Du wirst sein Schicksal entscheiden."  
+    - Sie macht dabei deutlich, dass sie ihm für ihren Teil noch eine letzte Chance geben würde – und dennoch für seine Bestrafung stimme.  
+    - [[Linda Swan]] stellt sich vor den Altar, den Dolch in der Hand: "[[ALWA]]. Für das, was du mir angetan hast. Für das, was du zugelassen hast. Für das, was du genommen hast. Ich würde dich gern vernichtet sehen."  
+    - Sie hebt den Dolch über [[ALWA]]s Brust. Ihre Hand hält inne.  
+    - Dann dreht sie sich langsam zu [[Dianzu]] und legt den Dolch in seine Hände: "Mein Liebster. Du kennst diesen Sünder besser als wir alle. Du bist neben ihm gegangen. Du hast ihm vertraut." Sie sucht seinen Blick: "Steh mit uns. Werde einer von uns. Und sprich das Urteil."  
+
+  - **Was Dianzu in diesem Moment zusammensetzt**  
+    - [[Dianzu]] nimmt den Dolch, und etwas rastet ein. "Was… was hat er dir angetan?"  
+    - [[Linda Swan]] sieht nicht [[ALWA]] an, sondern ihn: "Er hat mich holen lassen. [[ALWA]]. Er hat mich nicht selbst angefasst. Er hat es andere tun lassen. [[Jofrey]] war einer von ihnen." Mehr sagt sie dazu nicht; für sie ist [[Jofrey]] abgeschlossen.  
+    - Damit fällt für [[Dianzu]] alles an seinen Platz. Als er [[Linda Swan]] versehentlich gewandelt hatte, hatte er sich im Vertrauen an [[ALWA]] gewandt und ihn gebeten, auf sie aufzupassen – gerade vor solchen Gefahren (Nacht 9). Stattdessen hat [[ALWA]] sie holen lassen.  
+    - Während er den Dolch hält, kommen die Erinnerungen – nicht als ein Moment, sondern als Bruchstücke, die er seit Nächten mit sich trägt. Vor allem fällt ihm das Muster auf: Wo es eng wurde, zog [[ALWA]] sich in den Schatten zurück.  
+      - Beim [[Wallmart]]-Zwischenfall war er dabei und griff nicht ein; [[Thijs]] und [[Étienne]] gingen vor.  
+      - Bei der Nervenheilanstalt war er nicht sichtbar anwesend – wusste hinterher aber Bescheid, was drinnen geschehen war. [[Dianzu]] schließt daraus auf **Verdunkelung**, ohne es beweisen zu können.  
+      - Im [[Asylum]] kam er mehrfach mit und verschwand, sobald es gespannt wurde, um anschließend wieder aufzutauchen und das Vorgefallene zu kommentieren. [[Dianzu]] hat das als Im-Stich-Lassen erlebt.  
+      - Ihm fällt auch ein, wie [[Thijs]] ihn einmal direkt angegangen hat: "Wenn du schon da bist, dann tu auch was – statt hinterher zu erklären, was wir falsch gemacht haben."  
+    - Dazu die Mediensache. [[Serafin]] hatte ihm vom Lama-Skandal und vom Suizid des Models [[Julia Sunshine]] erzählt, als er ihn in sein neues Unleben einführte – als Beispiel dafür, wie schnell es finster geworden war. Der entscheidende Teil war [[ALWA]]s Anteil daran. Seither glaubt [[Dianzu]], dass Information Leben zerstören kann.  
+    - Und die Tracklist seines angeblichen neuen Albums, die in der Zeitung stand (Nacht 11). Er liest sie jetzt nicht mehr als Panne, sondern als Nachricht an ihn: Wir haben [[Linda Swan]], du tust, was wir sagen.  
+    - Am schwersten wiegen die drei Male, in denen er mit **Auspex** durch [[Linda Swan]]s Augen gesehen hat, als er sie nicht mehr erreichen konnte (Nacht 10–11). Das waren unmittelbare Wahrnehmungen, keine Vermutungen.  
+      - Beim ersten Mal sah er sie gefesselt, schreiend, gefoltert. [[ALWA]] war in diesem Moment nachweislich woanders – er war bei ihm. [[Dianzu]] hält ihn trotzdem für den Anstifter.  
+      - Beim zweiten Mal jagte sie mit anderen durch den Wald. Das schreibt er den [[Bahari]] zu, nicht [[ALWA]] – für ihn ist das der Moment ihrer Befreiung.  
+      - Beim dritten Mal sah er eine Ritualversammlung, verschlungene Körper, in der Mitte ein Menschenopfer. Das rechnet er [[ALWA]] nicht an; er hielt sie zu diesem Zeitpunkt bei den [[Bahari]] für sicher.  
+    - Zuletzt das Hotelzimmer am Abend der Explosion im [[Peacock Theater]] (Nacht 10), in dem er und [[Linda Swan]] ihr Wiedersehen feierten. Er fühlte sich beobachtet und glaubte kurz, [[ALWA]] in **Verdunkelung** verschwinden zu sehen – sicher ist er sich nicht. Dann fiel [[Linda Swan]] in Raserei und brachte noch ein "Flieh" heraus, bevor sie die Kontrolle verlor. Ob [[ALWA]] damit zu tun hatte, weiß er nicht. Dass er es nicht hatte, weiß er auch nicht.  
+
+  - **ALWA spricht**  
+    - [[Dianzu]] kann sich nicht entscheiden. Auf seinen Wunsch wird [[ALWA]] der Pflock aus der Brust gezogen – er will hören, was er zu sagen hat.  
+    - [[ALWA]] krampft, kommt zu sich und richtet den Blick auf [[Dianzu]].  
+    - [[Dianzu]]: "Hast du Linda holen lassen?"  
+    - [[ALWA]] leugnet es nicht: "Ja. Habe ich. Um dich zu schützen."  
+    - Er zieht gegen die Fesseln, die Stimme bitter: "Du bewegst dich durch diese Stadt wie ein betrunkener Elefant im Porzellanladen. Wo du hingehst, geht etwas kaputt. Wo du hingehst, muss ich hinter dir herräumen."  
+    - Dann: "Es ging nie um Macht. Es ging um [[Eli]]. Alles, was ich getan habe, habe ich für sie getan."  
+    - Und hart: "Aber jeder Nacht wird der Haufen Scheiße größer. Und du bist der, der ihn wachsen lässt."  
+    - [[Dianzu]] antwortet nicht.  
+    - Während die Worte nachhängen, beugt sich einer der Maskierten neben ihm vor. Ein Flüstern, leise und drängend: "Tu es." [[Dianzu]] erstarrt. Er kann die Stimme nicht zuordnen – sie ist ihm trotzdem beunruhigend vertraut.  
+
+  - **Die Entscheidung**  
+    - [[Dianzu]] senkt den Dolch: "Ich entscheide das nicht allein." Er wendet sich dem Kreis zu: Entscheiden solle die Versammlung.  
+    - Es wird nicht diskutiert und nicht argumentiert. Die [[Bahari]] antworten mit Schweigen, manche nicken, manche nicht. Sechs von zehn entscheiden für [[ALWA]]s Tod. Sie selbst stimmt nicht für den Tod – widerspricht der Entscheidung aber auch nicht.  
+    - Die maskierte Frau tritt wieder vor: "Die Mutter nimmt das Urteil an. Der Sünder ist verurteilt." Es gibt keine Berufung. Der Dolch geht zurück an [[Dianzu]].  
+    - [[ALWA]] sieht von Gesicht zu Gesicht. Er bettelt nicht.  
+
+  - **Letzte Worte und die Trennung der Bindungen**  
+    - Bevor der Pflock wieder hineingetrieben wird, hebt [[Dianzu]] die Hand: "Warte." Und: "Hast du noch etwas zu sagen?"  
+    - [[ALWA]]: "Kümmere dich um sie. Die Ratte. Und den Affen." Eine Pause, dann leiser: "Sie haben sich das nicht ausgesucht."  
+    - [[Dianzu]] antwortet nicht.  
+    - Bevor das Urteil vollstreckt wird, tritt die Maskierte vor. Sie wendet sich nicht an den Kreis, sondern an [[ALWA]]: "Bevor über dich gerichtet wird, wird geregelt, was dir gehört." Sie weist nach draußen, und aus dem Dunkel werden zwei Gestalten ins Licht gedrängt: die Ratte und [[Cevere]]. Beide sind aufgebracht und verwirrt und stemmen sich gegen einen Druck, den man nicht sieht.  
+    - Sie weiter: "Du hast sie an dich gebunden. Du hast sie benutzt. Jetzt werden sie für nichts davon einstehen." Sie stellt [[ALWA]] vor die Wahl, welches seiner beiden Tiere er tötet – und lässt ihn dann nicht wählen.  
+    - Ein einziger scharfer Befehl, und der Druck verschiebt sich. Die Tiere gehen aufeinander los. [[Cevere]] brüllt in seinem Käfig, panisch und rasend; die Ratte kreischt und schlägt mit unnatürlicher Wildheit um sich. Sie haben keine Wahl – sie werden gezwungen.  
+    - Der Kampf ist kurz und brutal. Die Ratte beißt [[Cevere]] ins Auge; er greift sie und zerquetscht sie in der Hand. Sie sieht nicht zu ihnen hin: "Deine Bindungen sind gebrochen." Dann nickt sie einer vermummten Gestalt zu, die [[Cevere]] hinrichtet, und tritt vom Altar zurück. Erst danach nickt sie [[Dianzu]] zu – das Urteil kann vollstreckt werden.  
+    - [[ALWA]] starrt emotional zerstört in die Ferne. Er gibt noch seinen letzten Willen ab: [[Cevere]] solle in reifen Bananen beigesetzt und [[Eli]] angemessen beerdigt werden.  
+
+  - **Das Ritual**  
+    - Der Kreis zieht sich zusammen. Der Dolch liegt wieder in [[Dianzu]]s Händen.  
+    - [[Linda Swan]] tritt dicht neben ihn, die Stimme fest und ohne Zögern: "Schneide es heraus."  
+    - [[Dianzu]] hält nur kurz inne, dann öffnet er [[ALWA]]s Brustkorb und nimmt das Herz heraus. Das Blut läuft ihm über die Hände, während er es hält.  
+    - [[Linda Swan]] beobachtet ihn genau: "Jetzt. Trink es leer."  
+    - [[Dianzu]] zögert ein zweites Mal, dann hebt er das Herz und trinkt.  
+    - Einer nach dem anderen treten die versammelten [[Bahari]] vor und trinken von [[ALWA]]s Körper. Dabei wird nicht gesprochen. Das Ritual geht weiter, bis nichts mehr zu holen ist.  
+    - [[ALWA]] wehrt sich bis zuletzt, und die Tat hinterlässt schwere Spuren: Sie reißt [[Dianzu]] einen dramatischen Teil seiner Menschlichkeit heraus. Wer ihn danach sieht, bemerkt: Etwas an [[Dianzu]] ist verändert.  
+    - [[ALWA]]s Körper fällt zusammen, leer an Blut und an Willen. Die Kerzen brennen nieder, der Kreis löst sich. [[Linda Swan]]: "Es ist vollbracht."  
+
+  - **Danach**  
+    - Was von [[ALWA]] bleibt, wird nach dem Brauch der [[Bahari]] behandelt. Das Blut wird von Stein und Erde gewaschen, die Zeichen werden getilgt, bis nichts mehr davon zu sehen ist. Die Kerzen werden gelöscht, der Ritualplatz wird schweigend abgebaut, und die Lichtung wird wieder still.  
+    - Als es vorbei ist, nimmt noch eine der maskierten Gestalten die Maske ab: [[Einar]]. Er gibt sich [[Dianzu]] zu erkennen – und damit ist auch klar, wessen Stimme ihm vorhin "Tu es" zugeflüstert hat. Die beiden fahren zusammen weiter.  
 
 - **Im Clubhaus der Night Lords**  
   - Treffpunkt ist das Clubhaus des [[Night Lords MC]], tief im Anarchengebiet. [[Dianzu]] und [[Einar]] fahren gemeinsam im [[Langschiff]] hin, direkt von der Lichtung. [[Serafin]] kommt getrennt.  
