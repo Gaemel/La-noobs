@@ -6,7 +6,7 @@
 
 - **Dianzu auf Blutsuche**  
   - [[Dianzu]] findet eine Nachricht von [[Linda Swan]], die sich mit ihm treffen will.  
-  - Der Hunger drängt. Beim [[Walmart]] wird er von der Gruppe übergewichtiger Stammkunden umringt, angespuckt und wieder hinausgedrängt, ohne etwas kaufen zu können. Die Vinothek hat geschlossen, [[Jeanette]] geht nicht ans Telefon – am Ende bleibt ihm nur seine letzte Schweineblut-Reserve zuhause.  
+  - Der Hunger drängt. Beim [[Wallmart]] meldet sich das Biest: Ihn überkommt der Zwang, einen der herumstehenden [[Butter Pounders]] zu dominieren, und er gibt ihm nach. Daraufhin umringt ihn die ganze Meute. Sie machen sich über seine schmächtige Figur lustig — er solle doch mal Butter kauen —, spucken ihn an und drängen ihn wieder hinaus, ohne dass er etwas kaufen kann. Die Vinothek hat geschlossen, [[Jeanette]] geht nicht ans Telefon – am Ende bleibt ihm nur seine letzte Schweineblut-Reserve zuhause.  
   - Ein Anruf: Ein [[Giovanni]] bietet an, die Security für Dianzus Benefizkonzert zu übernehmen – man wolle ja nicht, dass es zu dem einen oder anderen Unfall komme, bei einem Konzert könne schließlich viel passieren. [[Dianzu]] nimmt das Angebot für bare Münze und bedankt sich.  
   - [[Serafin]] warnt ihn am Telefon, dass dieser Nachname in Kreisen der [[Hecata]] häufig vorkommt.  
 
@@ -16,7 +16,7 @@
   - Bei einer Bestellung jubelt er [[Dianzu]] und [[Mac Master]] unbemerkt Peilsender unter.  
 
 - **Die Spur des Vermissten**  
-  - Über seine Dünnblüter-Kontakte in Santa Monica erfährt [[Thijs]] von einem Vermissten: [[Aaron Cordwell]], jung, heruntergekommen, möglicherweise drogenabhängig, seit zwei Nächten verschwunden. Ein Vampir-Bezug wird vermutet, der Auftraggeber bleibt unbekannt.  
+  - [[Nina Alvarez]] ruft an, eine Dünnblütige aus der Gruppe am [[Santa Monica Pier]]: Der Gruppe fehlt einer der ihren. [[Aaron Cordwell]], jung, heruntergekommen, möglicherweise drogenabhängig, seit zwei Nächten verschwunden. Ein Vampir-Bezug wird vermutet.  
   - An einem Abflussrohr am Strand findet er einen zerrissenen Schal mit Spuren dünnen Blutes, dazu Schleifspuren Richtung Kanalisation.  
   - Er ruft [[ALWA]] an, weil die Spur in Nosferatu-Gebiet führt. Das Gespräch verläuft zäh: [[ALWA]] weicht aus, [[Thijs]] wird lauter – "ich weiß, dass du was weißt, sag es mir" –, bekommt aber nur ein "dann stell eine richtige Frage" und legt schließlich frustriert auf. Er ist überzeugt, dass [[ALWA]] ihm etwas verschweigt.  
   - Er schärft seinen vier Informanten ein, nur Informationen zu sammeln und keine Dummheiten zu machen.  
