@@ -44,13 +44,22 @@
   - Und dann ist es vorbei, als wäre es nie geschehen. Es ist auch nicht geschehen: [[Numan Prince|Nu]] und [[Elowen]] haben es nur in einer **Vorahnung** gesehen. Sie stehen noch vor der Tür und haben einen zweiten Anlauf.  
 
 - **Vor dem Prinzen — der zweite Versuch**  
-  - Diesmal ist der Raum klar und wirklich. Die Vorstellung gelingt. [[Carter Blake|Prinz Carter Blake]] macht eine Ausnahme von seinem eigenen Dekret über Kinder ohne Erzeuger und überträgt [[Numan Prince|Nu]] das Erzeugerrecht über [[Hubbabubba|Hubba Bubba]].  
+  - Diesmal ist der Raum klar und wirklich. Diesmal geben sie nicht vor, Hubba Bubba sei [[Dianzu]]s Nachkomme, sondern sagen offen, dass sie nicht wissen, wer sein Erzeuger ist. Hoppla. Ob man da nicht eine Ausnahme machen könne?  
+  - [[Carter Blake|Prinz Carter Blake]] kommt auf das Dekret zu sprechen: Kindred, deren Erzeuger gestorben ist, bevor sie offiziell in die Gesellschaft aufgenommen wurden, sind vogelfrei und werden hingerichtet. Er hat es nach [[Sebastian LaCroix|LaCroix]]' Tod erneut erlassen, und man sieht ihm an, dass er mit sich ringt.  
+  - [[Elowen]] setzt ihren Charme ein. Man bekomme das bestimmt irgendwie hin. Nu habe Hubba Bubba schließlich aufgenommen, großgezogen und ihm die Regeln beigebracht — dann könne man doch auch das Erzeugerrecht auf ihn übertragen.  
+  - Der Prinz lässt sich überzeugen und erinnert an einen Präzedenzfall: Vor einiger Zeit sei eine ganze Gruppe Neulinge als Waisen aufgewacht, und die hätten die Aufgabe bekommen, binnen fünf Nächten Fürsprecher zu finden. Das Vorgehen halte er für gut. Strenger solle man trotzdem sein, denn einer aus dieser Gruppe habe der [[Camarilla]] riesige Probleme bereitet, und so etwas könne sich seine Regentschaft kein zweites Mal leisten.  
+  - Zwei aus derselben Gruppe hätten sich dagegen gut gemacht und seien inzwischen vorbildliche Mitglieder der Camarilla. Namen nennt er nicht, gemeint sind erkennbar [[Thijs]] und [[Serafin]].  
+    - Der eine habe sich trotz seiner kurzen Zeit als Geschöpf der Nacht als Unterstützung für den inzwischen schon zweiten Sheriff einen Namen gemacht. Bei der Jagd auf Caitiffs sei er einer der erfolgreichsten: ein zuverlässiger Bluthund, der sich auch aus schwierigen Lagen selbst wieder herausziehe und seine Aufträge stets zufriedenstellend erledige.  
+    - Der andere treibe die Ausdehnung des Camarilla-Gebiets voran. Er habe [[Therese Voerman]] das abgebrannte [[Altes Theater|Theater]] abgekauft. Seit dem Angriff und dem Brand war die Gegend neutrale Zone, aus der sich [[Anarchen]] und Camarilla nach Absprache heraushielten. Kaum sei diese Abmachung hinfällig geworden, habe er zugegriffen und das Gebiet wieder für die Camarilla beansprucht.  
+    - Er habe [[Maria Castigador|Sheriffin Maria]] abgestellt, ein Auge darauf zu haben. Dass sich dort Anarchen breitgemacht haben, sei ihm bekannt. Größere Auseinandersetzungen habe es nach seinen Informationen noch nicht gegeben, und die Gruppe sei jung und unerfahren. Er gehe davon aus, dass der Mann das schaffe. Und wenn nicht, habe man immerhin einen Grund, die Sheriffin vorbeizuschicken und eine Handvoll Anarchen zu richten — ein vergleichsweise kleiner Preis, auch wenn ihm der Mann ans Herz gewachsen sei. Er habe das Herz am rechten Fleck, und von seiner Sorte bräuchte die Camarilla mehr.  
+  - Am Ende macht der Prinz die Ausnahme und überträgt [[Numan Prince|Nu]] das Erzeugerrecht über [[Hubbabubba|Hubba Bubba]].  
   - Die Bedingungen: Hubba Bubba hat fünf Nächte Zeit, sich Fürsprecher zu suchen. Bis dahin haftet Nu für alles, was in dieser Zeit schiefgeht.  
   - Aus der Vision weiß Nu, dass der Prinz den Nachnamen „Prince“ als Spott über seinen eigenen Titel auffasst. Er kommt dem zuvor und stellt sich gleich als „New Morningstar“ vor. Für den Rest der Nacht bleibt es bei diesem einen Mal.  
   - Danach bittet der Prinz [[Elowen]] kurz unter vier Augen zu sich. Sie soll Grüße an [[Pyotr Tchaikovsky|Primogen Tchaikovsky]] ausrichten.  
 
 - **Auf dem Friedhof**  
-  - Dann folgen sie der Vorladung auf den Friedhof.  
+  - Dann folgen sie der Vorladung auf den Friedhof: [[Elowen]] in ihrer Limousine, [[Numan Prince|Nu]] und [[Hubbabubba|Hubba Bubba]] im Taxi.  
+  - Unterwegs zieht sich Elowen in der Limousine noch einmal um und steigt in eine weniger extravagante Variante ihres Outfits.  
   - Am Parkplatz und vor dem Mausoleum treiben sich junge Männer herum, die sich als [[Dianzu]] verkleidet haben — eine Folge seines Diss-Tracks. Sie rufen [[Elowen]] Sprüche hinterher („geiler Arsch“ und Ähnliches). Elowen ignoriert sie gekonnt.  
   - Das Innere des Mausoleums ist nicht hässlich, aber es ist auch nicht schön: nasskalt, düster, unheimlich, mit einem eigenen, morbiden Charme. Für [[Numan Prince|Nu]], dem als Toreador an Orten ohne Schönheit die Konzentration auf seine Kräfte schwerfällt, ist es genau der falsche Ort. Es wirkt, als sei der Raum genau dafür eingerichtet.  
 
