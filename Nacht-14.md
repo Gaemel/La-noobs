@@ -235,7 +235,7 @@
   - Der Mann, der er vor dieser Sache mit [[ALWA]] war, ist nicht ganz verschwunden. Aber er ist auch nicht ganz da. Woran es liegt, kann [[Dianzu]] nicht auseinandersortieren: ob da [[ALWA]] von innen mitredet, ob es das Biest ist, das in jedem von ihnen sitzt, oder ob einfach etwas an ihm selbst leiser geworden ist. Er merkt nur, dass er den Raum mit anderen Augen ansieht als noch vor ein paar Nächten.  
 
 - **Ein Geschenk mit Peilsender**  
-  - [[Gideon Poxwell]] hat den [[Blutstein]] fertig umgewandelt. Er übergibt ihn [[Linda Swan]] und geht. Was auf dem Tisch passiert, erträgt er nicht — er verlässt das Safehouse. Sie bedankt sich noch und steht damit in seiner Schuld.  
+  - [[Gideon Poxwell]] hat den [[Blutstein]] fertig umgewandelt. Er übergibt ihn [[Linda Swan]] samt einem Gegenstück, über das sie den Stein orten kann, und geht. Was auf dem Tisch passiert, erträgt er nicht — er verlässt das Safehouse. Sie bedankt sich noch und steht damit in seiner Schuld.  
   - [[Dianzu]] sieht ihn gehen und bleibt. Das ist der Moment, an dem er es selbst bemerkt: Da geht einer raus, weil er es nicht aushält, und er sitzt hier und hält es aus.  
   - [[Linda Swan]] überreicht ihm die Kette mit dem Kugelanhänger und eine Liebeserklärung, die sie ernst meint.  
   - [[Dianzu]] wird misstrauisch und setzt **Vorahnung** (*Auspex*) ein. Er sieht, dass [[Gideon Poxwell]] ihr den Anhänger gegeben hat. Dann zieht er ihn an.  

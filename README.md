@@ -5,3 +5,5 @@ Hier findet ihr die spielerfreundliche Fassung der Session-Logs unserer VtM5-Kam
 Diese Logs enthalten nur, was der Gruppe als Ganzes zum jeweiligen Zeitpunkt bekannt ist – geheime Einzelaktionen einzelner Charaktere sind bewusst nicht ausformuliert.
 
 Eine Datei pro Nacht, chronologisch nummeriert (`Nacht-1.md`, `Nacht-3.md`, …).
+
+Noch nicht fertig gespielte oder noch nicht nummerierte Nächte erscheinen vorab als `Vorab-<Titel>.md`. Sobald die Nacht abgeschlossen ist und ihre Nummer feststeht, wird daraus die reguläre `Nacht-N.md`.
