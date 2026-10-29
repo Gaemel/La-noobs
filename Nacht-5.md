@@ -85,8 +85,15 @@
   - Am Ghul-Zimmer ist ein Polizist anwesend, sie werden rausgebeten.  
   - Im Männerklo gibt [[ALWA]] [[Dianzu]] eigenes Blut, um die 800-Dollar-Schulden auszugleichen — [[Dianzu]] trinkt gut einen Liter.  
   - [[Dianzu]] lenkt den Polizisten ab und lässt sich von ihm porträtieren.  
-  - [[Serafin]] nutzt **Verdunkelung**, um das Ghul-Bett unbemerkt zum Aufzug zu schieben — im Aufzug kurze Begegnung mit einem Pärchen.  
-  - [[Einar]] kommt über die Treppe nach, gemeinsam holen sie den Ghul aus dem Zimmer und bringen das Bett unauffällig zu [[Einar]]s Pickup.  
+  - [[Serafin]] nutzt **Verdunkelung**, um das Ghul-Bett unbemerkt zum Aufzug zu schieben.  
+  - [[Einar]] kommt über die Treppe nach, gemeinsam holen sie den Ghul aus dem Zimmer.  
+  - [[Einar]] und [[Dianzu]] fahren allein im Aufzug nach unten. [[Einar]] grübelt vor sich hin, und sein Biest drängt nach oben. Ohne es zu merken, fährt er die Krallen aus und zieht tiefe Schrammen durch die Kabinenwand.  
+  - Unten wartet ein älteres Schweizer Ehepaar und will einsteigen. Als die Türen aufgehen, fällt sein Blick auf die Schrammen.  
+    - Die Frau: Um Himmels willen, was ist denn hier passiert?  
+    - [[Dianzu]]: Keine Ahnung, irgendwelche Teenager. War schon so, als wir eingestiegen sind. Echt schlimm.  
+    - Der Mann: Ja, ja, die Jugend von heute.  
+  - Zum Trost bieten die beiden [[Dianzu]] ein Stück Schweizer Schokolade an. Er steckt es sich sofort in den Mund und merkt erst dann, dass sein Körper nichts anderes als Blut mehr verträgt. Würgend behält er es im Mund und kaut mit Genießermiene weiter. Dann wollen sie ihm auch noch Käse andrehen.  
+  - Unten bringen sie das Bett unauffällig zu [[Einar]]s Pickup.  
 
 - **Werwolfjagd**  
   - Die Jagdgesellschaft teilt sich: [[Thijs]] mit mehreren Ghulen und [[Cyntia]] als Lockteam, [[Harald Strong]]s Gruppe zum Einkreisen.  

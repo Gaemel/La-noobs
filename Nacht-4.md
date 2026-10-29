@@ -22,7 +22,6 @@
 - **Thijs/Einar am Hintereingang, ALWAs Zusammenbruch**  
   - [[Thijs]] und [[Einar]] fahren zum [[Asylum]] und betreten es über den Hintereingang — sie treffen auf Jeanette und gehen mit ihr in den Mitarbeiterbereich.  
   - Drinnen eskaliert unterdessen ALWAs Panikattacke: Die anderen suchen nach ihm und treiben ihn aus dem Club vor die Tür. [[ALWA]] versucht, die Straße entlangzufliehen, wird jedoch von [[Étienne]] eingeholt und festgehalten. Ein Türsteher wird auf die Situation aufmerksam, lässt sich aber nicht bestechen. [[Étienne]] stülpt ALWA eine Tüte über den Kopf und lässt ihn los — ALWA reißt sie sich vom Kopf und verschwindet durch einen Gully in die Kanalisation.  
-  - **ALWA ist für den Rest der Nacht nicht auffindbar — niemand aus der Gruppe weiß, wo er ist oder was er tut.**  
 
 - **Dianzu wird rekrutiert**  
   - Serafin trifft im Theater auf Madam Rich, die ihm einen noch gepfählten Vampir zeigt — Dianzu, mit einem Pfahl in der Brust. Serafin entpfählt ihn; Dianzu erwacht mit enormem Hunger, und Serafin klärt ihn über sein neues Dasein als Vampir auf. Serafin bekommt zunächst allein das Recht, nach dem fünften Tag ein Veto gegen Dianzus Aufnahme in die Gruppe einzulegen — dieses Recht teilt er später mit dem Rest der Gruppe.  
@@ -32,7 +31,7 @@
   - Einar erfährt derweil von einem Polizeispitzel, dass in L.A. ein Pfarrer zusammengeschlagen und ans Kreuz genagelt wurde, was in der Stadt für Unruhen sorgt.  
 
 - **Katastrophe im Naturschutzgebiet**  
-  - [[Dianzu]] und [[Étienne]] fahren zum Naturschutzgebiet, um mit den Protestlern zu verhandeln und Henry das Angebot seines Sires [[Harald Strong]] zu unterbreiten. Dort treffen sie auf [[Cenris Black]], [[Glen Silver]], [[Kalessa Frank]] und [[Alex Carmody]]. [[Henry]] offenbart sich als Gangrel-Gestaltwandler.  
+  - [[Dianzu]] und [[Étienne]] fahren zum Naturschutzgebiet, um mit den Protestlern zu verhandeln und [[Callum]] das Angebot seines Sires [[Harald Strong]] zu unterbreiten. Dort treffen sie auf [[Cenris Black]], [[Glen Silver]], [[Kalessa Frank]] und [[Alex Carmody]]. [[Callum]] offenbart sich als Gangrel-Gestaltwandler.  
   - Plötzlich taucht ein riesiges, wolfsähnliches Wesen mit einem glühenden Auge auf. Die Vampire verfallen in **Furchtraserei** und fliehen, werden jedoch eingeholt — Kalessa Frank und ein weiterer Vampir werden getötet. Dianzu und Étienne, selbst von der Furchtraserei erfasst, rennen in Panik am wartenden Taxi vorbei, kehren aber um und werden aufgenommen. Aus der Ferne sehen sie noch, wie das Wesen einen weiteren Vampir zerreißt.  
 
 - **Gassen-Treffen & Krankenhaus-Zwischenfall**  

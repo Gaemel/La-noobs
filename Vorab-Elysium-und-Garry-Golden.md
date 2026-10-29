@@ -33,7 +33,7 @@
 - **Im Elysium**  
   - [[Elowen]] macht sich einen Spaß daraus, besonders anmutig an den Hotelangestellten vorbeizugehen. Gelingt es ihr, dass einer für einen Moment unprofessionell wird und sein Blick zu tief wandert, amüsiert sie das.  
   - Sie spricht einen Malkavianer an, den sie nicht kennt, einen Mann der Avantgarde. Sie hat eine Idee für ein Bühnenstück, das 72 Stunden dauern soll.  
-  - Dazu ein Gespräch mit [[Livia Bloom]], der Hüterin des Elysiums.  
+  - Dazu ein Gespräch mit [[Olivia Bloom]], der Hüterin des Elysiums.  
 
 - **Vor dem Prinzen — der erste Versuch**  
   - [[Numan Prince|Nu]] und [[Elowen]] werden mit [[Hubbabubba|Hubba Bubba]] zu [[Carter Blake|Prinz Carter Blake]] gerufen.  
