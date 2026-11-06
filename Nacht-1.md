@@ -28,6 +28,7 @@
 
 - **Neue Mission: LamaParty**  
   - [[Klaudia]] taucht auf und bittet die Gruppe, Kameras im Hotelzimmer von **Julia Sunshine** zu platzieren ([[LamaParty]]).  
+    - [[Klaudia]]: Damit das klar ist: Mein Erzeuger ist [[Garry Golden]], der Primogen der Nosferatu. Ich bin seine direkte Nachkommin. Ihr arbeitet hier also nicht für irgendwen.  
   - Die Gruppe zieht sich anschließend in ein Hotel zurück, um den Tag zu überstehen – [[Madam Rich]] bezahlt.  
 
 ---

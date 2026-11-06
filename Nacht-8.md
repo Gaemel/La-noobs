@@ -8,6 +8,7 @@
   - [[ALWA]] wacht in seinem Versteck auf und stellt fest, dass [[Eli]]s Leiche aus der Kühltruhe verschwunden ist. Die Überwachungsaufnahmen zeigen nur eine schwarz gekleidete Gestalt, die den Körper entfernt.  
   - Er füttert seinen Gorilla und macht sich auf den Weg zu [[Garry Golden]] durch die Kanalisation.  
   - [[Garry Golden]] fragt, ob ALWA wisse, wo [[Jofrey]] steckt – falls ja, solle er ihn zu Garry schicken. Er erwähnt ein Camarilla-Treffen im [[Elysium]] um 21 Uhr wegen möglicher Spannungen mit den Anarchen, die Regel, dass sich maximal drei Lasombra gleichzeitig in der Stadt aufhalten dürfen, und dass [[Aischa]] am ehesten beim Elysium-Treffen zu erreichen ist.  
+    - [[Garry Golden]]: Childer zeugen dürfen in dieser Stadt nur der Prinz und die Primogene. Und auch die sollten es mit den Cleopatras nicht übertreiben. Meine letzte ist gerade mal zwei Jahre her.  
 
 - **Der Anruf und der Überfall**  
   - [[Dianzu]] wacht im Hotelzimmer auf und bestellt sich per Smartphone Blut vom Asylum.  
@@ -32,6 +33,8 @@
 - **Ankunft im Elysium**  
   - [[ALWA]] und [[Garry Golden]] treffen frisch geduscht aus der Kanalisation ein.  
   - Zeitgleich kommen [[Thijs]], [[Dianzu]] und [[Jonny Nightshade]] – stinkend, in schwarzen Overalls – an und bekommen frische Kleidung.  
+  - Beim Umziehen erzählt [[ALWA]] den anderen nebenbei, was er unten bei Garry aufgeschnappt hat. Eine Cleopatra sei bei den Nosferatu ein Sterblicher, der sich zu viel auf sein Aussehen eingebildet hat und dem ein Nosferatu deshalb zur Strafe den Kuss gibt, damit er für immer so hässlich bleibt. Garrys letzte sei zwei Jahre her.  
+    - [[ALWA]]: Jetzt ratet mal, welches Ex-Model mit Titelbild wir kennen, das sich so gern „direkte Nachkommin des Primogens“ nennt.  
   - In der Hauptversammlung berichtet [[LaCroix]] über den Brand im [[Strong Büro]] und verdächtigt die Anarchen, insbesondere das Umfeld von [[Rote Sonja]]. [[Harald Strong]] hält das für möglich, hat aber keine Beweise.  
 
 - **Privataudienz bei LaCroix**  
