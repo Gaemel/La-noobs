@@ -2,7 +2,7 @@
 ### Sessions:: Session-Nummer offen  
 ### Tags:: #Tag  
 
-> Vorab-Fassung, Nächte-Nummer noch nicht vergeben (Rückstand bei den Nächten davor). Einzige Quelle ist der Braindump des Spielleiters, der Chronist war bei dieser Session nicht anwesend. Die Nacht ist noch nicht zu Ende gespielt.
+> Vorab-Fassung, Nächte-Nummer noch nicht vergeben (Rückstand bei den Nächten davor). Einzige Quelle sind zwei Braindumps des Spielleiters, der Chronist war bei beiden Sessions nicht anwesend. Die Nacht wurde in zwei Sessions gespielt; der zweite Teil (Violas Besuch bei Gideon, Serafins Gehstock, Flucht vom Friedhof, Praxis) stammt aus dem zweiten Braindump.
 >
 > Diese Fassung entspricht vollständig dem Haupt-Log — in dieser Session hält keine Figur etwas vor den anderen geheim.
 
@@ -22,6 +22,20 @@
   - [[Numan Prince|Nu]] (in Wahrheit [[Dianzu]]) hat den Tag bei [[Gideon Poxwell]] verbracht.  
   - Für den Abend steht ein Termin im [[Elysium]] an: [[Hubbabubba|Hubba Bubba]] soll dort offiziell vorgestellt werden. [[Gideon Poxwell]] ist anderweitig beschäftigt und bleibt fern.  
   - [[Numan Prince|Nu]] holt [[Hubbabubba|Hubba Bubba]] ab. [[Elowen]] kommt getrennt mit ihrer Limousine. Alle haben sich schick gemacht.  
+
+- **Eine Probe auf Anweisung von oben**  
+  - Kaum hat [[Numan Prince|Nu]] die Praxis verlassen, bekommt [[Gideon Poxwell]] Besuch: [[Viola Schneider]], die Bluthündin.  
+  - Sie legt einen Fetzen Stoff vor ihn, durchtränkt mit Blut. Er soll es untersuchen, und zwar sofort.  
+  - Für Rückfragen hat sie wenig übrig. Sie handle auf Anweisung der Sheriffin, sagt sie, und damit auf Anweisung des Prinzen. Sie will wissen, um was für eine Art Kindred es sich handelt.  
+  - Gideon fragt nach, und Stück für Stück rückt sie damit heraus, worum es eigentlich geht: ob das Blut von einem Caitiff stammt.  
+  - Gideon liest das Blut und erkennt, wessen es ist: Es ist das Blut von [[Thijs]].  
+  - Den Klan kann er nicht sicher bestimmen. Am ehesten, sagt er, Brujah. Genau sagen könne er es nicht, dafür brauche er Vergleichsproben.  
+  - Viola ist einverstanden und sagt ihm eine Vergleichsprobe zu.  
+  - Bevor sie geht, will Gideon noch wissen, ob er sich mit dieser Arbeit nicht gegen die Traditionen oder geltendes Recht stellt. Viola versichert ihm, es sei alles in Ordnung.  
+
+- **Im Theater**  
+  - [[Serafin]] arbeitet währenddessen weiter am Ersatz für seinen Gehstock: wieder eine verborgene Klinge, die sich entzünden lässt, eine Waffe gegen Vampire.  
+  - Mit der Technik kommt er kaum voran. Stattdessen verliert er sich darin, das Stück schön zu machen: filigrane Verzierungen, Proportionen, Entwürfe, wie es wirken soll. Darüber vergeht der größte Teil der Nacht.  
 
 - **Eine Einladung, die keine ist**  
   - Kaum betreten die drei den Kindred-Bereich des Hotels, steht [[Klaudia|Claudia Starlight]] hinter ihnen.  
@@ -86,4 +100,51 @@
 
 - **Dread Gaze**  
   - Zurück im Mausoleum: [[Numan Prince|Nu]] verweigert sich jetzt noch entschlossener. Er setzt **Dread Gaze** (*Präsenz*) gegen [[Garry Golden]] ein.  
-  - Hier endet die Session — ein Kampf steht unmittelbar bevor.  
+  - Es wirkt, sogar gegen den Primogen. [[Garry Golden]] und [[Hubbabubba|Hubba Bubba]] packt die Furcht, beide verlassen sofort die Gruft.  
+
+- **Flucht in die Menge**  
+  - [[Numan Prince|Nu]] folgt ihnen kurz darauf. Draußen sieht er Hubba Bubba die Treppe hinauf ins Freie rennen und dann einfach weiter, stur nach Süden. Von Garry ist nichts mehr zu sehen.  
+  - Nu fällt die Gruppe junger Männer am Eingang im Südwesten ein, die sich als [[Dianzu]] verkleidet haben. Er lässt seine Melodie laufen, legt die Kraft in seine Stimme und rappt seinen Song laut über den Friedhof (**Awe**, *Präsenz*). Es reicht gerade so. Drüben werden sie aufmerksam: „Hey, guck mal da hinten.“ — „Lass mal hingehen.“  
+  - Er geht auf sie zu. Es sind noch gut hundert Meter, und der Friedhof ist finster, schlecht beleuchtet, mitten in L.A. erstaunlich dunkel.  
+  - Aus der Richtung, in die Hubba Bubba gerannt ist, kommen Kampfgeräusche. Sie dauern nicht lange. Hubba Bubba schreit vor Schmerz auf.  
+  - Nu sucht trotzdem zuerst die Sicherheit in der Masse. Bei den Fans angekommen, bringt er den Ersten dazu, ihm sein Handy zu geben (**Compel**, *Beherrschen*).  
+  - Die anderen werden misstrauisch, umringen ihn und bedrängen ihn. Nu beschwichtigt sie: Stopp, Moment, das hier sei wirklich wichtig. Danach geben sie ihm ihre Handys.  
+  - Dann zieht er seine Maske ab und zeigt ihnen, wer er ist. Ab da tun sie, was er sagt.  
+  - Er schreibt zwei Zettel und achtet darauf, dass niemand mitlesen kann. Garry könnte unsichtbar direkt hinter ihm stehen.  
+  - Einen der Fans schickt er mit dem ersten Zettel zur Gruft. Darauf steht sinngemäß: Lass uns verhandeln. Sein Handy bekommt der Mann zurück.  
+  - Einem zweiten will er den anderen Zettel unbemerkt in die Tasche schieben. Der merkt es und liest: Im Notfall diese Nummer anrufen. Nu klappt den Zettel wieder zu, wirklich nur für den Notfall, und drückt ihn ihm mit seinem ganzen Charme in die Tasche.  
+  - Garry zeigt sich nicht. In der Gruppe getarnt, macht Nu sich auf den Weg zum Ausgang.  
+
+- **Hubba Bubba am Grabstein**  
+  - Auf halbem Weg packt ihn das Gewissen: Er lässt gerade seinen Nachkommen zurück. Nicht bei Garry. Er kehrt um und geht das Risiko ein.  
+  - Er findet Hubba Bubba an einen Grabstein gelehnt, zusammengesunken. Nu nimmt ihn über die Schulter, und gemeinsam mit den Fans schleppen sie ihn vom Friedhof.  
+  - Am Eingang kommt Hubba Bubba wieder zu sich. Was der ganze Aufriss mit den Leuten hier solle, will er wissen. Die Fans haben ihre Masken inzwischen wieder aufgesetzt.  
+  - Der Plan: alle zusammen zu [[Gideon Poxwell]] in die Praxis fahren und die Leute dort loswerden. Sie bestellen ein Großraumtaxi. Hubba Bubba redet auf dem Weg noch auf Nu ein, er solle die Leute wegschicken.  
+  - Bis auf den Boten zur Gruft fahren alle mit.  
+
+- **Fans vor der Praxis**  
+  - Vor der Praxis wird Nu von seinen Fans umringt. Es klingelt und klopft bei [[Gideon Poxwell]], und der stellt klar: nicht alle rein.  
+  - Gideon und Hubba Bubba bringen Nu dazu, die Leute nach Hause zu schicken. Das ist nicht leicht, sie wollen bei ihrem Idol bleiben, aber er schafft es.  
+  - Zum Abschied gibt es ein Selfie. Nu behält dabei die Maske auf, Gideon achtet darauf, dass von der Praxis nichts zu erkennen ist.  
+  - Dann gehen Gideon, Nu und Hubba Bubba hinein.  
+
+- **Der falsche Hubba Bubba**  
+  - Nu fängt an, Gideon zu erzählen, wo sie überall waren und was alles los war.  
+  - Hubba Bubba fragt dazwischen, ob sonst noch jemand im Haus sei. Wie es zum Beispiel mit Gregor stehe, ob der hier sei.  
+  - Die Frage macht Nu stutzig. Er sieht sich noch einmal um, mit allem, was seine Sinne hergeben (**Sense the Unseen**, *Auspex*), und sieht durch die Täuschung hindurch: Vor ihm steht nicht Hubba Bubba. Es ist [[Garry Golden]], in dessen Gestalt.  
+  - Nu lässt sich nichts anmerken und lenkt das Gespräch mit Gideon so, dass er vor Garry gut dasteht: Dass der Bennett-Auftrag schiefgegangen ist, sei nicht seine Schuld gewesen.  
+  - Hubba Bubba sagt, er müsse sich setzen, das sei gerade alles viel, und er habe ordentlich eingesteckt. Sie gehen in die Küche.  
+
+- **Das Stuhlbein**  
+  - Die Küche ist eng. Gideon steht in der Tür, vor ihm Nu, gut anderthalb Meter weiter Hubba Bubba am Tisch.  
+  - Hubba Bubba geht zu einem der Holzstühle, als wolle er sich setzen, bricht ein Stuhlbein ab und springt damit auf Nu zu.  
+  - [[Gideon Poxwell]] steht in der Tür und ist völlig perplex. Er tut nichts.  
+  - Den ersten Stoß weicht Nu souverän aus. Er wehrt sich nicht, sondern versucht Garry zu beschwichtigen: Er habe Sicherheiten hinterlegt. Das interessiert Garry nicht.  
+  - Garry hält dagegen: „Ich habe auch zwei Sicherheiten. Meine beiden Nachkommen.“  
+  - Gideon nutzt die kurze Pause, um zu beteuern, dass er mit der ganzen Sache nichts zu tun hat. Und ob man bitte nicht zu viel kaputt machen könne.  
+  - Garry sticht weiter mit dem Stuhlbein auf ihn ein.  
+  - Ein letztes Mal versucht Nu es mit **Dread Gaze** und verbrennt dafür sein letztes bisschen Blut. Garry hält stand. Getroffen wird stattdessen Gideon: Er rennt in Panik aus seiner eigenen Praxis.  
+  - Jetzt begreift er auch, dass der echte Hubba Bubba noch auf dem Friedhof liegt. Er hat ihn nicht gerettet. Seine Willenskraft, die sich gerade erst ein wenig erholt hatte, ist damit endgültig aufgebraucht.  
+  - Der Hunger brüllt in ihm. Das Biest hat Panik vor Garry und schreit ihn an, er solle aufgeben und fliehen, er habe keine Chance.  
+  - Und dann meldet sich [[ALWA]]: Du hast versagt. Du bist erledigt. Aber ich kann das noch retten. Ich hole uns aus diesem Schlamassel raus, und dann kann ich [[Eli]] retten. Nur mit mir hast du noch eine Chance.  
+  - Als das Stuhlbein in Nus Herz fährt, sieht [[Dianzu]] ein, dass es aussichtslos ist, und gibt die Kontrolle an ALWA ab.  
