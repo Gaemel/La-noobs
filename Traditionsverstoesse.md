@@ -62,14 +62,14 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 | Kindred | Klan | Belastbar | Auslegungssache | Nur böswillig | ??? | Schwerste Anklage |
 |---|---|---|---|---|---|---|
-| [[Dianzu]] | Toreador | 11 | 9 | 8 | 2 | 6. Tradition an einem der Ihren |
-| [[Thijs]] | Brujah | 7 | 4 | 11 | 1 | 1. Tradition (mehrfach, mit Leichen) |
+| [[Dianzu]] | Toreador | 11 | 9 | 5 | 2 | 6. Tradition an einem der Ihren |
+| [[Thijs]] | Brujah | 7 | 4 | 9 | 1 | 1. Tradition (mehrfach, mit Leichen) |
 | [[ALWA]] | Nosferatu | 6 | 4 | – | 6 | 1. Tradition — Blutbank-Vorfall im Krankenhaus (Nacht 6) |
-| [[Einar]] | Gangrel, Anarch | 4 | 1 | 6 | – | 6. Tradition an einem Mitglied der Camarilla |
+| [[Einar]] | Gangrel, Anarch | 4 | 1 | 5 | – | 6. Tradition an einem Mitglied der Camarilla |
 | [[Étienne]] | Tremere | 4 | 1 | 2 | – | Blutjagd ausgerufen |
 | [[Jonny Nightshade]] | Lasombra | 2 | 2 | 1 | – | 1. Tradition |
-| [[Gideon Poxwell]] | unbekannt | 1 | 9 | 4 | 3 | Mitwirkung an der 6. Tradition |
-| [[Serafin]] | Toreador | 1 | 6 | 8 | 1 | Gewalt gegen Kindred — Pfählungsversuch an einem der Ihren |
+| [[Gideon Poxwell]] | unbekannt | 1 | 9 | 3 | 3 | Mitwirkung an der 6. Tradition |
+| [[Serafin]] | Toreador | 1 | 6 | 5 | 1 | Gewalt gegen Kindred — Pfählungsversuch an einem der Ihren |
 | [[Madam Rich]] | Ventrue | – | 4 | 2 | 1 | Anstiftung zur 6. Tradition |
 | [[Elowen]] | Malkavianer | – | 1 | – | – | 1. Tradition — ein leergetrunkener Biker in der Polizeiakte |
 
@@ -129,12 +129,10 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 ### Nur mit bösem Willen
 
-- **[Nacht 3](Nacht-3.md)** *[gruppenwissen]* — Stiehlt bei [[Wallmart]] Weste und Rollschuhe, schlägt einem Mann auf einem Elektromobil die Waffe aus der Hand und kippt ihn um. Grober Unfug in Menschenmaß, ohne jede übernatürliche Spur.
 - **[Nacht 7](Nacht-7.md) — 2. Tradition** *[aktenkundig]* — Kackt in den Flur des [[Asylum]]s. In der Domäne von [[Therese Voerman]]. Respektlos, aber niemand hat je daraus etwas gemacht.
 - **[Nacht 11](Nacht-11.md) — 2. Tradition** *[aktenkundig]* — Schleicht sich per **Verdunkelung** in [[Mac Master]]s Lagerhalle. Wird sofort durchschaut und gut gelaunt begrüßt – Mac Master nimmt es ihm nicht übel.
 - **[Nacht 11](Nacht-11.md) — Vertrauensbruch** *[gruppenwissen]* — Jubelt [[Dianzu]] und [[Mac Master]] Peilsender unter. Derselbe Mann, der von allen anderen absolute Diskretion über seine Adresse verlangt. Keine Tradition, aber es sagt etwas.
 - **[Nacht 12](Nacht-12.md) — Gewalt gegen Kindred** *[aktenkundig]* — Überwältigt [[David Harker]] vor dessen Wohnhaus und treibt ihm einen Pfahl ins Herz. Er handelt im Auftrag [[Aischa]]s und mit [[Einar]]s ausdrücklichem Einverständnis – vorwerfen kann ihm das nur, wer einen von beiden dazu bringt, nicht mehr dazu zu stehen.
-- **[Nacht 14](Nacht-14.md) — Vertrauensbruch** *[aktenkundig]* — Benennt vor dem Prinzen [[Einar]] als den, der [[Mac Master]] getötet hat. Es ist die Wahrheit, und als Anwärter ist er zur Aussage verpflichtet – nur erklärt der Prinz daraufhin den [[Anarchen]] den Krieg.
 - **[Nacht 14](Nacht-14.md) — 6. Tradition (Vorsatz)** *[gruppenwissen]* — Kündigt [[Gideon Poxwell]] an, er wolle diablerieren, und lässt sich das Ritual erklären. Noch keine Tat – und auf dem naheliegenden Ziel liegt ohnehin eine Blutjagd, bei der auch die vollständige Vernichtung legitim ist.
 - **[Nacht 15](Nacht-15.md) — 2. Tradition** *[gruppenwissen]* — Räumt nach der Explosion das Blutlager des [[Weinladen]]s ab, so viel er tragen kann. Der Hausherr ist seit einer Nacht vernichtet, und wem der Laden jetzt gehört, hat noch niemand festgelegt.
 - **[Nacht 16](Nacht-16.md) — 4. Tradition** *[gruppenwissen]* — Gibt einem frisch gekauften Hund von seinem Blut und lässt ihn dann laufen. Ein Tier mit Vampirblut ist ein Ghul – nur fährt [[Sir Emmentaler]] ihn nach Hause und füttert ihn, im Stich gelassen ist er also nicht.
@@ -181,10 +179,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 ### Nur mit bösem Willen
 
 - **[Nacht 5](Nacht-5.md) — Etikette** *[aktenkundig]* — Aktiviert vor dem Gericht des Prinzen **Präsenz** und beginnt, seinen Bericht zu rappen. Unter Kindred, also kein Maskeradefall – nur peinlich. Der Hof merkt sich so etwas trotzdem.
-- **[Nacht 7](Nacht-7.md)** *[gruppenwissen]* — Flirtet einen Officer vor [[Lils Haus]] mit **Präsenz** weich, um an Ermittlungsstände zu kommen. Der Beamte erlebt ein charmantes Gespräch und nichts sonst.
 - **[Nacht 8](Nacht-8.md)** *[gruppenwissen]* — Bestellt trotz ausdrücklicher Warnungen per Smartphone Blut ins Hotel. Sorglos, und die Gruppe führt den Überfall darauf zurück – die Bestellung selbst bricht nichts.
-- **[Nacht 10](Nacht-10.md)** *[gruppenwissen]* — Trinkt an der Bar des Asylums eine „Bloody Mary" direkt von einer Angestellten. Im Asylum ist das geduldete Hausroutine.
-- **[Nacht 11](Nacht-11.md)** *[gruppenwissen]* — Lässt sich von einem [[Giovanni]] die Security für sein Benefizkonzert aufdrängen und bedankt sich dafür. Naiv, kein Bruch.
 - **[Nacht 13](Nacht-13.md)** *[aktenkundig]* — Trägt hinter dem Vorhang über **Melody** seine **Majestät** allein in der Stimme. Die vordersten Reihen fangen etwas davon auf und rasten aus, über die Leinwände reißt es die ganze Halle mit. Die größte Wirkung, die er je erzielt hat – und nichts sieht harmloser aus als ein Publikum, das bei einem Konzert ausflippt.
 - **[Nacht 13](Nacht-13.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Weist [[Einar]] in der Tiefgarage an, [[Gideon Poxwell]] notfalls zu pflocken, und versucht anschließend selbst, sich bei ihm zurückzuholen, was ihm fehlt. Unter Kindred, also kein Maskeradefall – und er war es, dem kurz zuvor zu viel abgenommen wurde.
 - **[Nacht 17](Nacht-17.md)** *[gruppenwissen]* — Bricht als [[Numan Prince|Nu]] per **Verdunkelung** ein Stück Holz aus dem [[Langschiff]], während zwei Polizisten den Wagen gerade abschleppen lassen. Niemand sieht ihn, und an einem Wikingerboot auf Rädern fällt eine fehlende Latte nicht auf.
@@ -260,10 +255,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 ### Nur mit bösem Willen
 
 - **[Nacht 10](Nacht-10.md)** *[gruppenwissen]* — Stemmt sich im [[Peacock Theater]] mit voller **Präsenz** gegen eine Massenpanik von Hunderten und lenkt die Menge zu den Seitenausgängen. Die größte Zeugenmenge der Chronik – aber Präsenz sieht aus wie ein Mensch, der die Nerven behält, und im brennenden Saal erst recht. Etliche Menschen überleben die Nacht nur deshalb.
-- **[Nacht 11](Nacht-11.md) — Loyalität** *[aktenkundig]* — Meldet [[Dianzu]]s Disstrack vor [[Madam Rich]], liefert [[Michael]] ans Messer und stimmt gegen [[Dianzu]]s Aufnahme. Kein Traditionsbruch – im Gegenteil. Aber die Gruppe nennt ihn seitdem nicht ohne Grund „Petze".
-- **[Nacht 12](Nacht-12.md) — 1. Tradition** *[gruppenwissen]* — Verletzt im Feuergefecht auf der East Los Angeles Interchange einen Wachmann mit einer seiner Wurfkarten am Auge, per **Geschwindigkeit** beschleunigt. Angespitzte Metallkarten sind eine Waffe, die auch ein Sterblicher werfen kann – an der Wunde ist nichts Auffälliges. Es geht ihm trotzdem nahe, und er macht trotzdem weiter.
-- **[Nacht 14](Nacht-14.md) — Vertrauensbruch** *[aktenkundig]* — Trägt dem Prinzen vor, [[Dianzu]] sei beteiligt gewesen und dessen Begleitung seien [[Anarchen]] gewesen, [[Einar]] namentlich. Als Anwärter ist er zur Aussage verpflichtet, und er sagt die Wahrheit – es ist trotzdem seine Aussage, aus der der Prinz einen Krieg macht.
-- **[Nacht 16](Nacht-16.md) — 1. Tradition** *[gruppenwissen]* — Wirft beim Gemälderaub Shuriken auf die Hinterreifen des Sprinters, bis einer trifft. Der Wagen schrammt dabei ein anderes Auto. Wurfsterne kann jeder Mensch werfen, und in der Wand des Laderaums steckt nichts Übernatürliches.
+- **[Nacht 16](Nacht-16.md) — Diebstahl an Kindred** *[gruppenwissen]* — Hilft [[Thijs]], ein Gemälde abzufangen, das [[Numan Prince|Nu]] für eine Voerman eskortiert, und wirft dabei Shuriken auf die Hinterreifen des Sprinters, bis einer trifft. Der Maskerade schadet das nicht, Wurfsterne kann jeder Mensch werfen. Angreifbar ist der Überfall selbst – nur hatte Thijs den Auftrag von einer Voerman.
 - **[Nacht 16](Nacht-16.md) — Vertrauensbruch** *[aktenkundig]* — Erzählt [[Gustavo Giovanni]], dass [[ALWA]] diableriert wurde und seine Seele bei [[Dianzu]] liegt, und legt nach, er glaube, ALWA habe seinerseits [[Giuseppe Giovanni]] diableriert. Belegen kann er beides nicht: Das Erste weiß er nur aus zweiter Hand, das Zweite ist sein eigener Schluss aus dem Weg vom Feuer zum Prinzen. Dazu bestätigt er, dass [[Gideon Poxwell]] die Überreste vom Sportplatz an sich genommen hat, und gibt dem Boten seine Nummer; im Gegenzug lässt die Familie seine Assistentin in Ruhe. Verraten hat er dabei weniger, als es klingt – der Bote stand ohnehin schon vor Gideons Praxis und fragte nach ihm, und auf [[Dianzu]] hatte der Prinz längst eine Blutjagd ausgerufen. Was bleibt: Er breitet einer fremden Familie eine Angelegenheit der [[Camarilla]] aus, samt einem Verdacht, der dem Urteil über [[Michael]] widerspricht.
 - **[Nacht 17](Nacht-17.md) — 1. Tradition** *[aktenkundig]* — Wird am [[Pennerbunker]] von zwei Polizisten mit einer Sturmhaube gestellt, die er per **Verdunkelung** so tarnt, dass hinterher keiner sie beschreiben kann. Zwei gestresste Beamte im Dunkeln, die sich an eine Maske nicht erinnern – das erklärt sich auch ohne Kindred.
 - **[Nacht 17](Nacht-17.md) — Etikette** *[gruppenwissen]* — Zwingt [[Thijs]] per **Beherrschen**, das gefundene Bild herauszugeben. Unter Kindred, also kein Maskeradefall – und Thijs hatte es nur behalten, um ihn zu ärgern.
@@ -295,7 +287,6 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 8](Nacht-8.md) — Absprache** *[gruppenwissen]* — Einigt sich mit [[Dianzu]] und [[Jonny Nightshade]], dem Prinzen die Sichtung von [[Nines Rodriguez]] zu verschweigen. Er selbst erfährt nie, dass die Absprache noch in derselben Nacht auffliegt.
 - **[Nacht 12](Nacht-12.md) — verbotener Kult** *[gruppenwissen]* — Gibt sich [[Dianzu]] auf der Lichtung als einer der Vermummten zu erkennen. Er stand also im Kreis, als [[ALWA]] gerichtet wurde. [[Garry Golden]] hatte eine Nacht zuvor klargestellt, dass der Kult der dunklen Mutter innerhalb der [[Camarilla]] verboten ist – Einar gehört nicht dazu, ihn bindet das Verbot nicht.
 - **[Nacht 12](Nacht-12.md) — Missachtung einer Anordnung des Prinzen** *[gruppenwissen]* — Trägt den Überfall auf [[Michael]]s Transport mit. Als Anarch ist er dem Prinzen nichts schuldig – vorhalten ließe es sich ihm nur, wenn jemand die Anarchen als Ganzes dafür haftbar machen wollte.
-- **[Nacht 13](Nacht-13.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Reißt [[Gideon Poxwell]] mit Gewalt von [[Dianzu]] los, als der beim Trinken die Kontrolle verliert. Steht hier nur der Vollständigkeit halber: Er beendet einen Übergriff, statt einen zu begehen.
 - **[Nacht 14](Nacht-14.md)** *[aktenkundig]* — Schießt sich mit dem [[Langschiff]] durch die Straßensperren des LAPD, [[Linda Swan]] als Schützin daneben. Eine Verfolgungsfahrt mit Schusswechsel, wie Menschen sie auch zustande bringen – und von Sperren, Schüssen und Granaten steht am Ende nichts in der Zeitung, die die Sache als Unfall im Weinlager abhandelt.
 
 ---
@@ -344,7 +335,6 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 - **[Nacht 14](Nacht-14.md) — Beihilfe zur 6. Tradition** *[gruppenwissen]* — Erklärt [[Thijs]] Ritual und Vorzüge der Diablerie, nachdem der angekündigt hat, es tun zu wollen. Auskunft, keine Tat – und wen [[Thijs]] im Sinn hat, sagt er nicht.
 - **[Nacht 15](Nacht-15.md) — Vertrauensbruch** *[aktenkundig]* — Verkündet im [[Last Round]] vor versammelten [[Anarchen]], dass [[Einar]], der Prinz und [[Dianzu]] bei der Explosion umgekommen sind, bevor der Hof selbst etwas bekanntgegeben hat. Verschwiegenheit hatte ihm niemand auferlegt.
-- **[Nacht 16](Nacht-16.md) — Vertuschung** *[gruppenwissen]* — Lässt [[Toby]] für [[Gregor Havitch]]s vergifteten Patienten einen gefälschten Obduktionsbericht schreiben und verbessert ihn persönlich. Ein vergifteter Sterblicher ist kein Maskeradefall – gefälscht ist nur ein Totenschein.
 - **[Nacht 17](Nacht-17.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Sein Hunger geht kurz mit ihm durch, und [[Elowen]] fängt sich eine Ohrfeige. Er fängt sich sofort und entschuldigt sich.
 
 ### ???
