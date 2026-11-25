@@ -6,8 +6,8 @@
 >
 > Am Ende steht die Gegenrechnung: wer die Traditionen geschützt hat oder es wenigstens versucht hat.
 
-**Ausgewertet bis:** Nacht 17
-**Grundlage:** die veröffentlichten Nacht-Logs dieses Repositories (`Nacht-1.md` – `Nacht-17.md`)
+**Ausgewertet bis:** Nacht 18
+**Grundlage:** die veröffentlichten Nacht-Logs dieses Repositories (`Nacht-1.md` – `Nacht-18.md`)
 
 ---
 
@@ -62,17 +62,19 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 | Kindred | Klan | Belastbar | Auslegungssache | Nur böswillig | ??? | Schwerste Anklage |
 |---|---|---|---|---|---|---|
-| [[Dianzu]] | Toreador | 11 | 9 | 5 | 2 | 6. Tradition an einem der Ihren |
-| [[Thijs]] | Brujah | 7 | 4 | 9 | 1 | 1. Tradition (mehrfach, mit Leichen) |
+| [[Dianzu]] | Toreador | 11 | 10 | 7 | 3 | 6. Tradition an einem der Ihren |
+| [[Thijs]] | Brujah | 8 | 5 | 11 | 1 | 1. Tradition (mehrfach, mit Leichen) |
 | [[ALWA]] | Nosferatu | 6 | 4 | – | 6 | 1. Tradition — Blutbank-Vorfall im Krankenhaus (Nacht 6) |
 | [[Einar]] | Gangrel, Anarch | 4 | 1 | 5 | – | 6. Tradition an einem Mitglied der Camarilla |
 | [[Étienne]] | Tremere | 4 | 1 | 2 | – | Blutjagd ausgerufen |
 | [[Jonny Nightshade]] | Lasombra | 2 | 2 | 1 | – | 1. Tradition |
-| [[Gideon Poxwell]] | unbekannt | 1 | 9 | 3 | 3 | Mitwirkung an der 6. Tradition |
-| [[Serafin]] | Toreador | 1 | 6 | 5 | 1 | Gewalt gegen Kindred — Pfählungsversuch an einem der Ihren |
+| [[Gideon Poxwell]] | unbekannt | 1 | 10 | 3 | 4 | Mitwirkung an der 6. Tradition |
+| [[Serafin]] | Toreador | 1 | 6 | 6 | 1 | Gewalt gegen Kindred — Pfählungsversuch an einem der Ihren |
+| [[Lord Henry]] | unbekannt | 1 | – | 1 | – | 1. Tradition — Flügel auf einem Taxidach |
 | [[Madam Rich]] | Ventrue | – | 4 | 2 | 1 | Anstiftung zur 6. Tradition |
+| [[Gideon Breaker]] | Hecata | – | 2 | 1 | – | 1. Tradition — ein umgebogener Kameramast |
 | [[Elowen]] | Malkavianer | – | 1 | – | – | 1. Tradition — ein leergetrunkener Biker in der Polizeiakte |
-
+| [[Haiku]] | Hecata | – | – | 1 | – | Gewalt gegen Kindred — ein Tritt in die Kniekehlen |
 ---
 
 ## [[ALWA]] — Nosferatu
@@ -119,6 +121,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 7](Nacht-7.md) — 1. Tradition** *[gruppenwissen]* — **Raserei** im fahrenden Taxi: rammt [[Ranjid]]s Kopf ins Lenkrad, der Wagen kracht in eine Laterne, anschließend trinkt er ihn vollständig aus. Ein Unfallfahrzeug mit einer ausgebluteten Leiche darin, mitten in der Stadt – Blutverlust ohne Blutlache erklärt kein Gutachter.
 - **[Nacht 11](Nacht-11.md) — 2. und 5. Tradition** *[aktenkundig]* — Schickt einen Dünnblüter-Informanten ins Gebiet der Night Lords, ohne zu fragen. [[Einar]] liefert den übel zugerichteten Spitzel am Strand ab und stellt einen Gefallen in Rechnung – die Anarchen haben es also sehr wohl als Übergriff gewertet.
 - **[Nacht 14](Nacht-14.md) — 2. Tradition** *[gruppenwissen]* — Dringt hinten in [[Mac Master]]s Lager ein, während [[Serafin]] vorn den Hausherrn beschäftigt, durchsucht die Räume und knackt im Büro einen Tresor hinter einem Gemälde – halb mit Diebeshandwerk, halb mit **Stärke**. Mit hinaus gehen Bargeld und mehrere Fläschchen, von denen er nicht weiß, was darin ist. Die Domäne eines Camarilla-Lieferanten, bestohlen in derselben Nacht, in der ihr Herr vernichtet wird.
+- **[Nacht 18](Nacht-18.md) — 1. Tradition** *[aktenkundig]* — Lässt [[Sir Emmentaler]] aus dem Auto einen Jogger anschießen, um zu prüfen, ob der Ghul ihm noch gehorcht, trinkt den Mann leer und stopft die Leiche in einen hohlen Baumstumpf. Ein Puma zerrt sie wieder heraus, ein Taxifahrer sieht sie am Straßenrand. Ein Erschossener ohne Blut im Körper erklärt sich nicht von selbst.
 
 ### Auslegungssache
 
@@ -126,6 +129,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 4](Nacht-4.md) — 1. Tradition** *[aktenkundig]* — Verbiegt im [[Strong Büro]] mit bloßer Hand den Lauf einer Schusswaffe, direkt vor der Wache, die sie hält. Unzweifelhaft übermenschlich – er tut es aber, um zu verhindern, dass [[ALWA]] erschossen wird, nachdem der den Zwischenfall selbst ausgelöst hat. Wer ihm das ankreidet, ist böswillig.
 - **[Nacht 6](Nacht-6.md) — Gewalt gegen Kindred** *[aktenkundig]* — **Raserei** im [[Last Round]]: rammt einem Anarchen die Faust durch den Bauch. Neun Anarchen ringen ihn nieder und nageln ihn für den Rest der Nacht an die Dartscheibe. Vor Ort geahndet, damit erledigt.
 - **[Nacht 12](Nacht-12.md) — 2. und 5. Tradition** *[gruppenwissen]* — Verteilt erneut Dünnblüter-Informanten im Anarchengebiet, diesmal auf der Suche nach [[David Harker]]. Anders als eine Nacht zuvor ruft er [[Einar]] vorher an – es geht nur niemand ran, und er macht trotzdem weiter. Dass [[Einar]] den Zugriff später ausdrücklich durchwinkt, entschärft die Sache, macht sie aber nicht ungeschehen.
+- **[Nacht 18](Nacht-18.md) — 2. und 5. Tradition** *[gruppenwissen]* — Schleicht sich in einen Wald, den die Wölfe dort als Gangrel-Gebiet beanspruchen, und holt [[Brian]] mitten aus einer Versammlung der [[Bahari]]. Hängt daran, ob man einem verbotenen Kult und einem Rudel ohne Sitz am Hof überhaupt eine Domäne zugesteht.
 
 ### Nur mit bösem Willen
 
@@ -138,6 +142,8 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 16](Nacht-16.md) — 4. Tradition** *[gruppenwissen]* — Gibt einem frisch gekauften Hund von seinem Blut und lässt ihn dann laufen. Ein Tier mit Vampirblut ist ein Ghul – nur fährt [[Sir Emmentaler]] ihn nach Hause und füttert ihn, im Stich gelassen ist er also nicht.
 - **[Nacht 16](Nacht-16.md) — Diebstahl an Kindred** *[gruppenwissen]* — Will mit [[Serafin]] ein Gemälde abfangen, das [[Numan Prince|Nu]] für eine Voerman eskortiert, bringt per **Verdunkelung** einen Tracker am Sprinter an, greift sich das Bild am Zielort und springt per **Geschwindigkeit** zur Tür. In der Halle sind in dem Moment nur Kindred, und das Bild lässt er wieder fallen. Den Auftrag hatte er selbst von einer Voerman – wer hier wen hintergeht, ist eine Familienangelegenheit.
 - **[Nacht 17](Nacht-17.md) — Vertrauensbruch** *[gruppenwissen]* — Lässt sich von [[Marcus Shaw|Markus]] Zugriff auf einen Peilsender geben, über den sich [[Serafin]] orten lässt, und taucht damit unangemeldet am [[Pennerbunker]] auf. Auf Nachfrage sagt er es ihm ins Gesicht – kein Traditionsbruch, nur schlechter Stil.
+- **[Nacht 18](Nacht-18.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Zerfetzt [[Lexy Sexy]] im Bahari-Wald, bis sie in Starre fällt. Die Wahl hieß: gegen sie oder gegen alle – und sie griff zuerst an.
+- **[Nacht 18](Nacht-18.md) — 4. Tradition** *[gruppenwissen]* — Gibt seinem Hund noch mehr Blut, bis ihm Fangzähne wachsen. Wenig später läuft das Tier zu den Wölfen über und fällt ihn an. Im Stich gelassen hat er ihn nicht, eher umgekehrt.
 
 ### ???
 
@@ -175,6 +181,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 15](Nacht-15.md) — 1. Tradition** *[aktenkundig]* — Setzt vor [[Gideon Poxwell]]s Praxis den **Schreckensblick** gegen fünf bewaffnete Biker ein, die daraufhin alle die Waffen fallen lassen und fliehen. Einen holt er ein, schmettert ihn gegen die Wand und trinkt auf offener Straße von ihm. Panik nach einer Schießerei erklärt sich von selbst – was die Entkommenen vom Biss gesehen haben, weiß niemand.
 - **[Nacht 15](Nacht-15.md) — 1. Tradition** *[aktenkundig]* — Trinkt mit [[Gideon Poxwell]] und [[Elowen]] einen gefangenen Biker leer, dessen Leiche anschließend offiziell an die Polizei geht. Der Blutverlust passt zur Blutspur bis zur Praxistür – solange niemand nachmisst, wie viel fehlt.
 - **[Nacht 17](Nacht-17.md) — Lüge vor dem Primogen** *[gruppenwissen]* — Lässt sich als [[Numan Prince|Nu]] von [[Garry Golden]] in den Klan aufnehmen, nennt [[Rita]] als Erzeugerin und zwei, drei Nächte als Alter und sagt brav die Gesetze auf. Hängt an derselben Frage wie in Nacht 15: ob die Blutjagd mit dem Prinzen erloschen ist – und daran, dass [[Rita]] für ihn einsteht.
+- **[Nacht 18](Nacht-18.md) — 1. Tradition** *[aktenkundig]* — Jagt als [[Numan Prince|Nu]] einem Taxifahrer per **Schreckensblick** einen solchen Schrecken ein, dass er schreiend davonrennt, und zerstört ihm vorher das Handy. Der Mann hatte gerade eine Leiche am Straßenrand gesehen – Panik erklärt sich da von selbst, ein Lord mit Flügeln auf dem Autodach weniger.
 
 ### Nur mit bösem Willen
 
@@ -183,11 +190,14 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 13](Nacht-13.md)** *[aktenkundig]* — Trägt hinter dem Vorhang über **Melody** seine **Majestät** allein in der Stimme. Die vordersten Reihen fangen etwas davon auf und rasten aus, über die Leinwände reißt es die ganze Halle mit. Die größte Wirkung, die er je erzielt hat – und nichts sieht harmloser aus als ein Publikum, das bei einem Konzert ausflippt.
 - **[Nacht 13](Nacht-13.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Weist [[Einar]] in der Tiefgarage an, [[Gideon Poxwell]] notfalls zu pflocken, und versucht anschließend selbst, sich bei ihm zurückzuholen, was ihm fehlt. Unter Kindred, also kein Maskeradefall – und er war es, dem kurz zuvor zu viel abgenommen wurde.
 - **[Nacht 17](Nacht-17.md)** *[gruppenwissen]* — Bricht als [[Numan Prince|Nu]] per **Verdunkelung** ein Stück Holz aus dem [[Langschiff]], während zwei Polizisten den Wagen gerade abschleppen lassen. Niemand sieht ihn, und an einem Wikingerboot auf Rädern fällt eine fehlende Latte nicht auf.
+- **[Nacht 18](Nacht-18.md)** *[gruppenwissen]* — Kommt als [[Numan Prince|Nu]] mit **Präsenz** am Türsteher des [[Asylum]] vorbei, obwohl der ihn wegen der Maske abweisen will. Sieht aus wie ein Mann, der gut reden kann.
+- **[Nacht 18](Nacht-18.md) — 4. Tradition** *[gruppenwissen]* — Legt einem gefangenen Templer in [[Gideon Poxwell]]s Keller eine Transfusion mit seinem eigenen Blut, damit er redet, und macht ihn damit zum Ghul. Einen Ghul zu erschaffen verbietet keine Tradition; Gideon findet es trotzdem keine Lösung.
 
 ### ???
 
 - **[Nacht 9](Nacht-9.md) — 4. Tradition** — Ein Gast in seinem Keller. **???**
 - **[Nacht 9](Nacht-9.md) — Erpressungsmaterial** — Ein Zimmer über dem Club, eine Kamera. **???**
+- **[Nacht 18](Nacht-18.md) — 3. Tradition** — **???**
 
 ---
 
@@ -259,6 +269,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 16](Nacht-16.md) — Vertrauensbruch** *[aktenkundig]* — Erzählt [[Gustavo Giovanni]], dass [[ALWA]] diableriert wurde und seine Seele bei [[Dianzu]] liegt, und legt nach, er glaube, ALWA habe seinerseits [[Giuseppe Giovanni]] diableriert. Belegen kann er beides nicht: Das Erste weiß er nur aus zweiter Hand, das Zweite ist sein eigener Schluss aus dem Weg vom Feuer zum Prinzen. Dazu bestätigt er, dass [[Gideon Poxwell]] die Überreste vom Sportplatz an sich genommen hat, und gibt dem Boten seine Nummer; im Gegenzug lässt die Familie seine Assistentin in Ruhe. Verraten hat er dabei weniger, als es klingt – der Bote stand ohnehin schon vor Gideons Praxis und fragte nach ihm, und auf [[Dianzu]] hatte der Prinz längst eine Blutjagd ausgerufen. Was bleibt: Er breitet einer fremden Familie eine Angelegenheit der [[Camarilla]] aus, samt einem Verdacht, der dem Urteil über [[Michael]] widerspricht.
 - **[Nacht 17](Nacht-17.md) — 1. Tradition** *[aktenkundig]* — Wird am [[Pennerbunker]] von zwei Polizisten mit einer Sturmhaube gestellt, die er per **Verdunkelung** so tarnt, dass hinterher keiner sie beschreiben kann. Zwei gestresste Beamte im Dunkeln, die sich an eine Maske nicht erinnern – das erklärt sich auch ohne Kindred.
 - **[Nacht 17](Nacht-17.md) — Etikette** *[gruppenwissen]* — Zwingt [[Thijs]] per **Beherrschen**, das gefundene Bild herauszugeben. Unter Kindred, also kein Maskeradefall – und Thijs hatte es nur behalten, um ihn zu ärgern.
+- **[Nacht 18](Nacht-18.md) — Vertrauensbruch** *[aktenkundig]* — Breitet [[Haiku]] von den [[Hecata]] die ganze Geschichte um [[Giuseppe Giovanni]], [[Michael]]s Urteil und [[Dianzu]]s Diablerie aus, nachdem er Nu kurz zuvor erklärt hat, das sei ein internes Problem der [[Camarilla]]. Die Hecata ermitteln ohnehin in der Sache, und vieles davon stand schon im Disstrack.
 
 ### ???
 
@@ -330,6 +341,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 15](Nacht-15.md) — 1. Tradition** *[aktenkundig]* — Wird am Krater beim Einsammeln von Knochen ertappt, lässt sich als unterzuckert zur Tribüne bringen und trinkt den hilfsbereiten Polizisten dort halb leer. Danach hängt er ihm eine Infusion an und übergibt ihn bewusstlos einem Kollegen. Bissspuren bleiben keine zurück, die Wunde leckt er wie jeder Kindred zu. Ein Polizist, der neben einem Arzt zusammenklappt, ist kein Rätsel – rätselhaft wird er erst, wenn im Krankenhaus jemand nachmisst, wie viel Blut ihm ohne jede Wunde fehlt.
 - **[Nacht 15](Nacht-15.md) — 1. Tradition** *[aktenkundig]* — Trinkt mit [[Numan Prince|Nu]] und [[Elowen]] einen gefangenen Biker leer, schlägt vor, er sei bei der versuchten Rettung verstorben, und meldet den Fall selbst der Polizei; die Leiche geht offiziell zur Obduktion. Der Blutverlust passt zur Blutspur bis zur Praxistür – solange niemand nachmisst, wie viel fehlt.
 - **[Nacht 16](Nacht-16.md) — Beihilfe zur 3. Tradition** *[gruppenwissen]* — Pfählt [[Dianzu]]s unerlaubte Nachkommen, steckt einem von ihnen einen [[Blutstein]] ein und lässt sie mit [[Numan Prince|Nu]] verschwinden. [[Serafin]] hatte ihm geraten, ehrlich zu sein, wenn die [[Camarilla]] kommt; er lässt sich stattdessen von [[Elowen]] die Erinnerung nehmen und weiß jetzt nur noch von einer leeren Kiste. Gezeugt hat er niemanden, und lügen kann er jetzt gar nicht mehr.
+- **[Nacht 18](Nacht-18.md) — Vertrauensbruch** *[aktenkundig]* — Erzählt [[Haiku]] von den [[Hecata]] ALWAs Vorgeschichte samt Opfer und Prozess und bietet ihr die Knochen vom Krater am Sportplatz zur Untersuchung an, auch die von [[Einar]]. Hängt daran, wem diese Überreste gehören, solange es keinen Prinzen gibt, der es sagen könnte.
 
 ### Nur mit bösem Willen
 
@@ -342,6 +354,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 - **[Nacht 12](Nacht-12.md) — Vertrauensbruch** — Ein Bericht, ein Auftraggeber, das gewünschte Ergebnis. **???**
 - **[Nacht 13](Nacht-13.md) — Vertrauensbruch** — Ein Geschenk, ein Dritter, ein Ahnungsloser. **???**
 - **[Nacht 14](Nacht-14.md) — Vertrauensbruch** — **???**
+- **[Nacht 18](Nacht-18.md)** — **???**
 
 *Vorgemerkt: Er hat in seiner ersten Nacht versucht, [[Thijs]] einen Blutstein anzudrehen, und ist gegen Gedächtnismanipulation resistent. Beides wird noch relevant — in Nacht 13 bereits beides.*
 
@@ -357,6 +370,45 @@ Nacht, Tradition und höchstens drei Stichworte.
 
 ---
 
+## [[Lord Henry]]
+
+*Steigt in Nacht 18 ein, ein Gentleman mit Butler, Jaguar und Flügeln. Gehört nach eigener Aussage weder zur Camarilla noch zu den Anarchen.*
+
+### Belastbar
+
+- **[Nacht 18](Nacht-18.md) — 1. Tradition** *[aktenkundig]* — Sitzt mit sichtbaren Flügeln auf dem Dach eines Taxis, während der Fahrer aussteigt. Der rennt kurz darauf schreiend davon – was er gesehen hat, nimmt er mit.
+
+### Nur mit bösem Willen
+
+- **[Nacht 18](Nacht-18.md)** *[gruppenwissen]* — Schickt den Wachpolizisten am [[Pennerbunker]] per **Beherrschen** in den Feierabend. Ein Beamter, der früher Schluss macht, wundert niemanden.
+
+---
+
+## [[Gideon Breaker]] — Hecata
+
+*Steigt in Nacht 18 mit [[Haiku]] ein. Lieutenant, wortkarg, und stärker, als Türen es aushalten.*
+
+### Auslegungssache
+
+- **[Nacht 18](Nacht-18.md) — 1. Tradition** *[aktenkundig]* — Biegt am [[Pennerbunker]] per **Stärke** einen Kameramast um 180 Grad. Das umgebogene Stahlrohr steht noch da – ob jemand glaubt, dass das Vandalen mit Werkzeug waren, ist die Frage.
+- **[Nacht 18](Nacht-18.md) — 1. Tradition** *[gruppenwissen]* — Schiebt vor [[Gideon Poxwell]]s Praxis ein Auto zur Seite, um aufs Dach zu kommen, und reißt dort das Schloss der Dachtür aus der Verankerung. Nachts, ohne bekannte Zeugen – und die Tür hat er nie ersetzt.
+
+### Nur mit bösem Willen
+
+- **[Nacht 18](Nacht-18.md)** *[gruppenwissen]* — Wirft den flüchtenden Bikern eine Schnapsflasche gut zweihundert Meter hinterher. Getroffen hat er nicht, gesehen hat es auch keiner.
+
+---
+
+## [[Haiku]] — Hecata
+
+*Steigt in Nacht 18 ein, im Auftrag ihrer Familie auf ALWAs Spur.*
+
+### Nur mit bösem Willen
+
+- **[Nacht 18](Nacht-18.md) — Gewalt gegen Kindred** *[gruppenwissen]* — Tritt [[Gideon Poxwell]] an dessen eigener Tür unsichtbar in die Beine und droht ihm, seine Hand zu zerdrücken. Er fällt nicht einmal – und sie sagt später, er habe angefangen, als er sie aufschneiden wollte.
+
+---
+
 ## Verdienste um die Traditionen
 
 Die Gegenrechnung. Hier steht, wo jemand die Traditionen geschützt hat, vor allem die Maskerade –
@@ -367,13 +419,15 @@ gemessen daran, was die Gruppe davon weiß, nicht daran, wie es am Ende wirklich
 
 | Kindred | Gelungen | Immerhin versucht |
 |---|---|---|
-| [[Serafin]] | 3 | 2 |
+| [[Serafin]] | 4 | 4 |
+| [[Dianzu]] | 3 | – |
 | [[ALWA]] | 3 | 1 |
 | [[Gideon Poxwell]] | 2 | 2 |
 | [[Elowen]] | 2 | – |
-| [[Dianzu]] | 1 | – |
 | [[Einar]] | 1 | – |
+| [[Lord Henry]] | 1 | – |
 | [[Thijs]] | – | 1 |
+| [[Gideon Breaker]] | – | 1 |
 
 ### [[Serafin]]
 
@@ -384,11 +438,14 @@ gemessen daran, was die Gruppe davon weiß, nicht daran, wie es am Ende wirklich
 - **[Nacht 10](Nacht-10.md)** — Stemmt sich im [[Peacock Theater]] mit **Präsenz** gegen die Massenpanik und lenkt Hunderte zu den Seitenausgängen. Etliche Menschen überleben, die es sonst nicht hätten.
 - **[Nacht 17](Nacht-17.md)** — Holt [[Leonardo De Loria|Leonardo]] mit einem „Stopp!“ aus der Raserei, bevor das vielköpfige Wesen auf offener Straße weiter wütet, und meldet den Vorfall danach selbst bei [[Veronic|Veronix]], die die Presse ruhig hält.
 - **[Nacht 17](Nacht-17.md)** — Zerstört [[Thijs]]' Kamera, auf der neben Polizisten eine Gestalt wie eine Wasserleiche zu sehen ist.
+- **[Nacht 18](Nacht-18.md)** — Löscht in [[Dianzu]]s Villa den Teppich, den [[Hubbabubba|Hubba Bubba]] in Panik vor seinem eigenen Feuerzeug in Brand gesetzt hat.
 
 **Immerhin versucht**
 
 - **[Nacht 16](Nacht-16.md)** — Fragt als Erster nach, wer für den Maskeradebruch verantwortlich war, und ob man ihnen das abgekauft hat.
 - **[Nacht 17](Nacht-17.md)** — Tarnt seine Sturmhaube per **Verdunkelung**, damit die Polizei ihn nicht beschreiben kann. Das wirkt nur halb: Man merkt, dass etwas seltsam ist.
+- **[Nacht 18](Nacht-18.md)** — Zieht den leergetrunkenen Jogger vom Straßenrand in den Wald, bevor die Polizei kommt. Hinterlässt dabei allerdings eine riesige Blutspur.
+- **[Nacht 18](Nacht-18.md)** — Kappt am [[Pennerbunker]] mit Wurfkarten die Kamerakabel. Gideon rennt trotzdem mitten durchs Bild, bevor alle aus sind.
 
 ### [[ALWA]]
 
@@ -426,6 +483,8 @@ gemessen daran, was die Gruppe davon weiß, nicht daran, wie es am Ende wirklich
 **Gelungen**
 
 - **[Nacht 8](Nacht-8.md)** — Ruft nach dem Überfall im Hotel einen Leichen-Aufräumdienst und zerstört sein Handy; die Gruppe löscht die SD-Karten aller Kameras in der Nähe.
+- **[Nacht 18](Nacht-18.md)** — Zerstört als [[Numan Prince|Nu]] das Handy des Taxifahrers, der gerade die Polizei rufen will.
+- **[Nacht 18](Nacht-18.md)** — Fängt als [[Numan Prince|Nu]] den frisch gewandelten [[Hubbabubba|Hubba Bubba]] ein, bevor der in seiner Panik draußen Aufsehen erregt, und nimmt ihn unter seine Fittiche.
 
 ### [[Einar]]
 
@@ -433,11 +492,23 @@ gemessen daran, was die Gruppe davon weiß, nicht daran, wie es am Ende wirklich
 
 - **[Nacht 6](Nacht-6.md)** — Zerstört nach [[Lil]]s Befreiung die Fesselstühle im Krankenhaus.
 
+### [[Lord Henry]]
+
+**Gelungen**
+
+- **[Nacht 18](Nacht-18.md)** — Schickt den Wachpolizisten am [[Pennerbunker]] heim, bevor die Gruppe den abgesperrten Tatort betritt, und rät, die Leiche am Waldrand verschwinden zu lassen, bevor die Polizei eintrifft.
+
 ### [[Thijs]]
 
 **Immerhin versucht**
 
 - **[Nacht 4](Nacht-4.md)** — Verbiegt im [[Strong Büro]] den Lauf einer Schusswaffe, damit [[ALWA]] nicht erschossen wird. Ein Vampir, der eine Kugel wegsteckt, wäre schlimmer gewesen – nur ist ein verbogener Lauf auch nicht unauffällig.
+
+### [[Gideon Breaker]]
+
+**Immerhin versucht**
+
+- **[Nacht 18](Nacht-18.md)** — Dreht am [[Pennerbunker]] die Kameramasten weg, damit niemand aufgezeichnet wird. Dass der umgebogene Mast selbst auffällt, ist der Haken daran.
 
 ---
 
