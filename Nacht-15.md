@@ -330,7 +330,7 @@
 
 - **Blutlesungen**  
   - Es wird ein Taxi gerufen. Gideon ruft [[Thijs]] an. Thijs hat einen Auftrag, sie wollen sich morgen treffen.  
-  - Bei Gideon geben ihm Elowen und Nu Blut, damit er ihre Erzeuger bestimmen kann.  
+  - Bei Gideon geben ihm Elowen und Nu Blut, damit er ihre Erzeuger bestimmen kann. Elowen möchte im Gegenzug auch einmal von seinem kosten, und Gideon lässt sie.  
     - [[Gideon Poxwell]]: Probe eins, Elowen. Generation identisch mit meiner. Name: Elowen Space. Blutmacht gering. Erzeugerin: [[Elena Zantrovitch]]. Klansmarker eindeutig, [[Malkavianer]].  
     - [[Gideon Poxwell]]: Probe zwei. Generation identisch mit meiner. Name: Norbert Nussknacker. Blutmacht gering. Erzeugerin: [[Rita]]. Klansmarker [[Nosferatu]]. Keine Blutsbande nachweisbar, kein Hinweis auf Diablerie. Resonanz: Gewalt.  
 

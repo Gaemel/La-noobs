@@ -360,7 +360,7 @@
     - [[Numan Prince|Nu]]: Warum liegt hier Stroh?  
     - [[Brian]]: Sind Sie ein Freund von Taste?  
     - [[Numan Prince|Nu]]: Ja, ich glaub schon.  
-  - Nu zieht Brian die Zwangsjacke aus. Elowen kotzt einen Regenbogen, dann sieht sie Moses im Aufzug. Brian steht ohne Zwangsjacke da, Elowen schaut entgeistert, und Nu ist ziemlich zerfetzt. Darunter sieht man graue Haut.  
+  - Nu zieht Brian die Zwangsjacke aus. Elowen kotzt einen Regenbogen, dann sieht sie Moses im Aufzug. Brian steht ohne Zwangsjacke da, Elowen schaut entgeistert, und Nu ist ziemlich zerfetzt. Darunter sieht man graue Haut voller Pusteln und Beulen.  
     - [[Gideon Poxwell]]: Ich denke, es ist Zeit für Schadensbegrenzung. Wir sollten sie pfählen und vorerst verstecken.  
     - [[Numan Prince|Nu]]: Ich würde gern weiterleben.  
     - [[Gideon Poxwell]]: Wir müssen entscheiden, ob wir sie im Zweifel ausliefern oder verstecken.  

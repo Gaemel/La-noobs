@@ -1,0 +1,925 @@
+## [[2023.06.15]] - **Der Bahari-Wald und die brennenden Schwerter (öffentliches Wissen)**  
+### Sessions:: [[Session 24]] [[Session 25]] [[Session 26]]  
+### Tags:: #Tag  
+
+> Diese Fassung entspricht weitgehend dem Haupt-Log. Herausgenommen sind ein Blutbefund, den nur Gideon kennt, der Inhalt eines Briefs an Gideon, eine Absprache hinter Hubba Bubbas Auftauchen und ein Gespräch zwischen Gideon und Nu unter vier Augen samt dem, was danach geschieht. Dass Nu in Wahrheit Dianzu ist, war damals ein Geheimnis, ist inzwischen aber allen bekannt.
+
+- **Erwachen in der Praxis**  
+  - [[Gideon Poxwell]] wacht auf und stellt seinen Wecker aus. Als Erstes sieht er sich um, ob [[Haiku]] noch irgendwo ist, die ihm und Nu in Nacht 17 ungesehen gefolgt ist. Er entdeckt niemanden. Dann heilt er die Wunden der Vornacht.  
+  - Auch [[Numan Prince|Nu]] wacht auf.  
+  - Gideon sucht [[Toby|Tobi]]. Der ist gerade erst wieder in die Praxis gekommen. Die Ersatzleiche, die er in Nacht 17 für die Polizei besorgt hat, statt ihr den Torso von [[Dominik Cox]] zu geben, ist inzwischen abgeholt worden.  
+    - [[Toby|Tobi]]: Sie ist abgeholt worden. Ich habe mein Bestes gegeben, ich hoffe, das geht so durch. Wir sollten uns aber recht bald die beiden für die Zweitmeinung ansehen.  
+
+- **Die beiden Zerfetzten**  
+  - Gideon nimmt sich die zwei Leichen vor, die seit Nacht 17 für ein Zweitgutachten in der Praxis liegen. Es sind die Toten vom [[Santa Monica Pier]], derentwegen [[Garry Golden]] Nu in Nacht 17 losgeschickt hat.  
+    - [[Gideon Poxwell]]: Fall eins. Männlich, ausgeweidet, Thorax eröffnet, Organe teilweise separat in Behältnissen. Befund deckt sich mit dem Erstbericht.  
+    - [[Gideon Poxwell]]: Fall zwei. Männlich, multiple Rissverletzungen. Todesursache akutes Organversagen infolge der Entnahme. Das Verletzungsmuster ist mit menschlicher Einwirkung nicht vereinbar.  
+  - In den Wunden findet er **Fellreste**. Er tütet sie ein und schickt sie ins Labor.  
+  - Beim Kosten des Bluts merkt er, dass etwas Übernatürliches darin ist (**Blutmagie**). Drei Stunden lang führt er Rituale durch. Am Ende steht fest: Mindestens einer der beiden war mit Sicherheit ein **Ghul**.  
+
+- **Ein Anruf bei den Giovanni**  
+  - Nu geht [[Dianzu]]s Telefonbuch durch und stößt auf die Nummer eines [[Alberto Giovanni]]. Er ruft an.  
+    - [[Alberto Giovanni]]: Giovanni.  
+    - [[Numan Prince|Nu]]: Guten Abend. Hier ist Nu. Ich will gar nicht lange stören, aber ich habe herausgefunden, dass der Nachkomme von einem der Ihren getötet wurde. Ist Ihnen das bekannt?  
+    - [[Alberto Giovanni]]: Worauf wollen Sie hinaus?  
+    - [[Numan Prince|Nu]]: Ich dachte mir, Sie haben bestimmt genauso viel Interesse wie ich daran herauszufinden, was da passiert ist.  
+    - [[Alberto Giovanni]]: Sie stehen vermutlich gerade vor der Tür des Dr. Poxwell.  
+    - [[Numan Prince|Nu]]: Ja. Ich möchte helfen.  
+    - [[Alberto Giovanni]]: Und wie gedenken Sie, damit umzugehen?  
+    - [[Numan Prince|Nu]]: Ist das denn ein Problem? Wollen Sie den Täter finden?  
+    - [[Alberto Giovanni]]: Wenn Sie unserem Agenten unter die Arme greifen, werden wir uns erkenntlich zeigen.  
+    - [[Numan Prince|Nu]]: Ich wollte nur sichergehen, dass das kein gewolltes Ereignis war.  
+    - [[Alberto Giovanni]]: Wir sind der Klan des Todes, Herr Prince. Wenn einer der Unseren stirbt, erfahren wir davon. Mich interessiert eher, woher Sie es wissen.  
+    - [[Numan Prince|Nu]]: Ach, man hört so dies und das.  
+    - [[Alberto Giovanni]]: Gehen Sie davon aus, dass Sie beobachtet werden. Wir melden uns, wenn es nötig ist.  
+
+- **Nu im Asylum**  
+  - Nu fährt auf Gideons Scooter zum [[Asylum]]. Am Eingang sagt er dem Türsteher, er habe etwas Wichtiges mit [[Therese Voerman|Therese]] zu besprechen.  
+    - Türsteher: Runter mit der Maske. Der Maskenball ist vorbei. Maske runter.  
+  - Nu setzt **Präsenz** ein, und der Türsteher lässt ihn trotzdem durch.  
+  - An der Theke kommt er mit dem Barkeeper ins Gespräch.  
+    - [[Numan Prince|Nu]]: Schön, mal wieder hier zu sein. Früher hat's mir hier richtig gut gefallen. Ich muss mit Therese sprechen.  
+    - Barkeeper: Dann viel Glück.  
+    - [[Numan Prince|Nu]]: Warum? Falscher Laden?  
+    - Barkeeper: Das Management hat gewechselt.  
+    - [[Numan Prince|Nu]]: Madam Voerman?  
+    - Barkeeper: [[Jeanette Voerman|Jeanette]] wäre da. Nur als Tipp: Madam Therese erwähnen Sie besser gar nicht.  
+    - [[Numan Prince|Nu]]: Haben die beiden sich verstritten?  
+    - Barkeeper: Die streiten sich immer. Dazu möchte ich nichts sagen.  
+    - [[Numan Prince|Nu]]: Ich wette, sie hat mich sowieso schon gesehen. Dann warte ich in einem der Separees.  
+    - Barkeeper: Eine [[Bloody Mary]]?  
+    - [[Numan Prince|Nu]]: Gern.  
+  - Nu zieht sich in ein Separee zurück. Kurz darauf kommt Jeanette.  
+    - [[Numan Prince|Nu]]: Hallo. Ich bin Nu, Numan Prince.  
+    - [[Jeanette Voerman|Jeanette]]: Ah, der mit dem lustigen Namen.  
+    - [[Numan Prince|Nu]]: Genau der.  
+    - [[Jeanette Voerman|Jeanette]]: Ich würd deinen Nachnamen nicht so rumerzählen. Die meisten Cams stören sich an so was, und meine Leute hätten ihren Spaß damit. Leg dir einen neuen Namen zu. „The Boot“ oder so.  
+    - [[Numan Prince|Nu]]: Ich bin ehrlich mit dir: Ich hatte eigentlich gedacht, ich treffe hier deine Schwester. Ich weiß, das ist gerade kein gutes Thema.  
+    - [[Jeanette Voerman|Jeanette]]: Was willst du denn von der Schlampe? Die hat sich von diesem Rapper so richtig durchficken lassen und ihm hinterher auch noch das Video gezeigt.  
+    - [[Numan Prince|Nu]]: Das war wohl ein richtiger Draufgänger.  
+    - [[Jeanette Voerman|Jeanette]]: Der war gerade mal ein paar Tage alt. Und was wolltest du von ihr?  
+    - [[Numan Prince|Nu]]: Ich merk halt, dass sich gerade viel ändert. Das kenn ich aus der Modelwelt: Es gibt immer Leute, die ein bisschen über einem stehen. Ich überleg noch, auf welche Seite ich mich stelle. Ich will die Sicherheit, dass ich irgendwo nützlich bin.  
+    - [[Jeanette Voerman|Jeanette]]: Mein Tipp: Schnapp dir irgendeine Camhure und misch sie richtig auf. Mach dir einen Namen. Wenn du bei den [[Anarchen]] Respekt hast, hast du auch ihren Schutz. Erst letztens haben drei meiner Stammgäste einen in eine dunkle Ecke gejagt und aufgemischt. [[Tank]] und so.  
+    - [[Jeanette Voerman|Jeanette]]: Am besten schnappst du dir einen von den Jungen. Eigentlich ein netter Junge, aber es gibt Gerüchte, dass er mit den Cams rumhängt.  
+    - [[Numan Prince|Nu]]: Ein Kind?  
+    - [[Jeanette Voerman|Jeanette]]: Oder du holst dir so eine reiche Bitch, eine [[Ventrue]]. Richtig eklig.  
+    - [[Numan Prince|Nu]]: Man tut, was man kann. Vorher hat man mir gesagt, es wär gut, sich mit der Cam gutzustellen.  
+    - [[Jeanette Voerman|Jeanette]]: Bei der Cam ist es immer dasselbe. Du musst buckeln, außer du bist ganz oben. Trickle-down, nur dass da immer die Scheiße runterfällt.  
+    - [[Numan Prince|Nu]]: Und die Cam fasst die Anarchen dann nicht an?  
+    - [[Jeanette Voerman|Jeanette]]: Fangzähne sammeln, das ist ein richtig gutes Ding. Beim letzten Krieg …  
+  - Das Gespräch kommt auf den Prinzen.  
+    - [[Numan Prince|Nu]]: Hast du 'ne Ahnung, was mit dem neuen Prinzen ist?  
+    - [[Jeanette Voerman|Jeanette]]: Ich hoffe, die ersetzen den bald. Der hat 'ne richtig große Zielscheibe am Arsch.  
+    - [[Numan Prince|Nu]]: Und ist es bestätigt, dass der alte weg ist?  
+    - [[Jeanette Voerman|Jeanette]]: Sicher sein kann man sich nie, die lügen und betrügen ständig. Aber der Nächste, der sich hinstellt und sagt „Ich bin der Prinz“, kriegt richtig eine rein. Im Backstabbing sind die richtig gut. Schwingt sich einer der [[Primogene]] auf, verraten sie ihn aus Versehen. Und egal, was du tust: Trau niemals einem dreckigen [[Tremere]].  
+    - [[Numan Prince|Nu]]: Und du bist auch bei den Anarchen?  
+    - [[Jeanette Voerman|Jeanette]]: Ich hatte drei Tage lang eine Blutjagd am Hals. Die können mir gar nichts.  
+  - Die Blutjagd hatte Prinz LaCroix in Nacht 11 ausgerufen.  
+    - [[Numan Prince|Nu]]: Ich werd über deine Worte nachdenken.  
+    - [[Jeanette Voerman|Jeanette]]: Und wenn du meine Schwester siehst, schieß ihr einfach ins Gesicht.  
+    - [[Numan Prince|Nu]]: Was ist denn da passiert? Ihr wart doch mal nicht so zerstritten.  
+    - [[Jeanette Voerman|Jeanette]]: Ganz früher, ja. Aber dann war sie immer Papas Liebling. Sie durfte immer bei ihm im Bettchen schlafen und ich nicht. Ich hab sie rausgeschmissen. Die wär sowieso bei den Ventrue oder den Tremere viel besser aufgehoben. Die hat bestimmt schon mal diableriert.  
+    - [[Numan Prince|Nu]]: Ich weiß nicht, ob du was davon hättest, wenn ich mich dir erkenntlich zeige.  
+    - [[Jeanette Voerman|Jeanette]]: Du könntest den Mörder meines Vaters töten.  
+    - [[Numan Prince|Nu]]: Hast du einen Namen?  
+    - [[Jeanette Voerman|Jeanette]]: Ja. Therese.  
+    - [[Numan Prince|Nu]]: Ich glaub, dafür bin ich noch nicht stark genug.  
+    - [[Jeanette Voerman|Jeanette]]: Sie hat sich kürzlich ein Bild anfertigen lassen. Da hab ich extra Leute hingeschickt, aber die haben versagt. Wenn du das Bild irgendwann siehst, bring's mir. In Fetzen.  
+    - [[Numan Prince|Nu]]: Hat es noch einen anderen als einen symbolischen Wert?  
+    - [[Jeanette Voerman|Jeanette]]: Alles hat nur einen symbolischen Wert.  
+    - [[Numan Prince|Nu]]: Würde es sie schwächen?  
+    - [[Jeanette Voerman|Jeanette]]: Möglicherweise.  
+    - [[Numan Prince|Nu]]: Weißt du, wo es ist?  
+    - [[Jeanette Voerman|Jeanette]]: Ich hatte das Kind beauftragt, es zu holen. Aber die dreckige Camhure hat es vermutlich nicht mal probiert.  
+  - Gemeint ist [[Thijs]], den Jeanette in Nacht 16 auf das Gemälde angesetzt hat. Nu hat es in derselben Nacht selbst eskortiert.  
+    - [[Numan Prince|Nu]]: Vielleicht hab ich Informationen, die dich interessieren könnten. Ich kann sie dir als Zeichen unserer Freundschaft geben, wenn wir in Kontakt bleiben und ich mein Standing bei den Anarchen nachhaltig verbessern kann. Ich brauch irgendeine Form von Sicherheit.  
+    - [[Jeanette Voerman|Jeanette]]: Du redest fast wie eine Camhure. Wenn die Informationen was wert sind, wird's sich sicher für dich lohnen.  
+    - [[Numan Prince|Nu]]: Ich weiß, wo das Bild ist. Es wurde dort weggeschlossen.  
+    - [[Jeanette Voerman|Jeanette]]: Wenn du zufällig mal da vorbeikommst und es mitbringen könntest …  
+    - [[Numan Prince|Nu]]: Wer ist eigentlich der Anführer der Anarchen?  
+    - [[Jeanette Voerman|Jeanette]]: Weißt du, wie Anarchie funktioniert? Ich bin der [[Baron]] von Santa Monica, und [[Isaac Abrams|Abrams]] ist der von Hollywood. Wenn du was jagen willst, geh nach Hollywood. Wenn du einen Ventrue oder einen dreckigen Tremere an die Hauswand nagelst, ist das was. Aber wenn's dir nur darum geht, zu zeigen, was du draufhast, dann hol dir halt einen [[Toreador]].  
+    - [[Jeanette Voerman|Jeanette]]: Und nur so ein kleiner Tipp: Die meines Klans wirken oft schutzlos. Aber es gibt einen Grund, warum die [[Banu Haqim]] den doppelten Preis verlangen, wenn sie einen von uns jagen sollen.  
+    - [[Numan Prince|Nu]]: Von welchem Klan bist du denn?  
+    - [[Jeanette Voerman|Jeanette]]: Das findest du schon noch selbst raus.  
+    - [[Numan Prince|Nu]]: War 'ne gute Unterhaltung.  
+    - [[Jeanette Voerman|Jeanette]]: Nimm in Zukunft am besten den Hintereingang.  
+
+- **Gideon und Tobi**  
+  - Währenddessen bespricht Gideon mit Tobi ein neues Vorhaben.  
+    - [[Gideon Poxwell]]: Im Blut der Studenten zeigen sich unterschiedliche Effekte, die ich untersuchen möchte. Dafür brauche ich genauere Angaben zu ihrem körperlichen und geistigen Zustand.  
+    - [[Toby|Tobi]]: Sollen wir eine Doppelblindstudie machen? Wie teilen wir die Gruppen auf, nach Fakultät?  
+    - [[Gideon Poxwell]]: Ich verkoste blind und teile dir mit, ob ich etwas herausschmecke. Stell mir bitte beschriftete Blutproben hin.  
+    - [[Gideon Poxwell]]: Zweitens, die Masken. Sind sie bereits eingetroffen?  
+    - [[Toby|Tobi]]: Ja, gestern schon. Unterm Tresen steht ein Karton. Draufgeschrieben hab ich „Elon“, wegen dem Inhalt.  
+  - Dann warnt Gideon ihn.  
+    - [[Gideon Poxwell]]: Vor einigen Tagen hatten wir einen Gast im Keller, der etwas gewalttätig wurde und den ich kurzerhand beruhigen musste. Er ist leider vorzeitig abgereist, bevor ich mit ihm sprechen konnte. Falls hier jemand auftaucht, seid bitte vorsichtig. Er und seine Freunde schienen recht gewaltbereit, und ich mache mir Sorgen um euch.  
+  - Gemeint ist der Biker der [[Iron Serpents]] aus Nacht 15.  
+    - [[Toby|Tobi]]: Jetzt, wo du's sagst: Gestern, als du mit deinem Praktikanten und der Katzenlady weg warst, war die Tätowierte wieder da. Sie meinte, man müsse jetzt Flagge bekennen. Ist das auch eine von den Studentinnen?  
+  - Mit der Katzenlady meint Tobi [[Elowen]], mit der Tätowierten [[Livia Jara]].  
+    - [[Gideon Poxwell]]: Sie hat mit meinem Spezialprojekt zu tun. Ich würde mich von ihr fernhalten, aber sie scheint nicht allzu gefährlich zu sein.  
+    - [[Toby|Tobi]]: Sieht sie aber nicht aus.  
+    - [[Gideon Poxwell]]: Findest du? Ich sollte wohl noch ein paar Bücher über soziale Kompetenz lesen. Wenn du mir da etwas vorbereiten könntest, wäre das hervorragend.  
+    - [[Toby|Tobi]]: Ich mache Ihnen Bilder von Gesichtern mit den dazugehörigen Emotionen.  
+    - [[Gideon Poxwell]]: Das wäre perfekt.  
+    - [[Toby|Tobi]]: Ich glaube, Ihr Praktikant ist wieder da.  
+  - Nu kommt herein und hört noch das Ende des Gesprächs.  
+    - [[Toby|Tobi]]: Ich möchte Ihnen nicht zu nahe treten, aber warum tragen Sie eine Maske?  
+    - [[Numan Prince|Nu]]: Warum liegt hier Stroh?  
+    - [[Toby|Tobi]]: Wegen der Mäuse.  
+  - Gideons Telefon klingelt.  
+    - Polizei: Hallo, hier ist die Polizei.  
+    - [[Gideon Poxwell]]: Hier Gideon Poxwell. Wie kann ich Ihnen helfen?  
+    - Polizei: Es geht um einen frischen Mord. In einem verwandten Fall sind Sie als Zweitgutachter eingetragen. Unser eigentlicher Ansprechpartner ist im Urlaub. Hätten Sie spontan Zeit, sich den Tatort anzusehen?  
+    - [[Gideon Poxwell]]: Können Sie mir etwas darüber erzählen?  
+    - Polizei: Es geht um die Serie von Zerfleischungen. Ob Mord oder Unfall, wissen wir noch nicht. Es wäre gut, wenn sich das ein Profi ansieht, bevor die Kollegen daran herumstümpern. Wir müssen wissen, ob wir es an die Mordkommission weitergeben.  
+    - [[Gideon Poxwell]]: Das sollte möglich sein.  
+    - Polizei: Dann sperren wir den Tatort für Sie ab.  
+    - [[Gideon Poxwell]]: Sehr gut. Ich bringe auch den Leichenwagen für die Nachuntersuchung mit.  
+  - Der Tatort ist eine Gasse ganz in der Nähe von Serafins Wohnung.  
+
+- **Ein Schrei in der Gasse**  
+  - [[Serafin]] tüftelt zu Hause an seiner Feuerlanze und hat eine Idee, wie er sie verbessern kann.  
+  - Auf dem Telefon findet er einen entgangenen Anruf von 14:30 Uhr. Er ruft zurück, aber niemand nimmt ab.  
+  - Dann hört er ganz in der Nähe einen Schrei, der plötzlich abbricht. Er geht nachsehen und findet in einer Gasse eine zerfetzte Leiche. Sie blutet noch, das Blut ist nicht geronnen.  
+  - Serafin ruft die Polizei.  
+    - [[Serafin]]: Guten Abend. Ich habe soeben jemanden schreien hören, und hier liegt ein Toter.  
+    - Polizei: Bitte bleiben Sie vor Ort. Wir schicken einen Streifenwagen.  
+  - Der Streifenwagen kommt. Ein Polizist steigt aus.  
+    - [[Officer Johnson]]: Officer Johnson. Wir wurden wegen eines Gewaltverbrechens gerufen. Haben Sie das am Telefon gemeldet?  
+    - [[Serafin]]: Ja.  
+    - [[Officer Johnson|Johnson]]: Was können Sie mir erzählen?  
+    - [[Serafin]]: Es gab einen Schrei.  
+    - [[Officer Johnson|Johnson]]: Haben Sie irgendjemanden gesehen?  
+    - [[Serafin]]: Nein.  
+    - [[Officer Johnson|Johnson]]: Wo trifft man Sie tagsüber an?  
+    - [[Serafin]]: Ich arbeite Nachtschicht.  
+    - [[Officer Johnson|Johnson]]: Dann bitte Ihre Telefonnummer.  
+
+- **Nu erstattet Bericht**  
+  - Zurück in der Praxis erzählt Nu Gideon, was er erlebt hat.  
+    - [[Numan Prince|Nu]]: Yo, hier ist grad so viel passiert, ich hab 'ne Menge zu erzählen.  
+    - [[Gideon Poxwell]]: Was denn?  
+    - [[Numan Prince|Nu]]: Ich hab bei 'nem Giovanni angerufen. Der hat gesagt, der, den du obduziert hast, wurde nicht von ihnen beseitigt. Und wir tun ihnen 'nen Gefallen, wenn wir seinen Mörder finden. Ach ja, und der Tank von deinem Roller ist leer.  
+    - [[Gideon Poxwell]]: Dann werde ich einen Mitarbeiter zum Tanken schicken müssen.  
+    - [[Gideon Poxwell]]: Allerdings unterliegst du einem kleinen Missverständnis. Die „Leiche“, die du meinst, ist ein Vampir in Starre. Er ist noch nicht tot und kann jederzeit wieder geheilt werden.  
+  - Gemeint ist der Torso von [[Dominik Cox]] aus Nacht 17.  
+    - [[Numan Prince|Nu]]: Sollen wir das den Giovanni sagen?  
+    - [[Gideon Poxwell]]: Ich halte es für sinnvoll, zunächst ein angemessenes Gespräch zu dritt mit ihm zu führen. Erst danach sollten wir seiner Familie mitteilen, dass es ihrem vermutlich jüngsten Mitglied doch noch gut geht. Ich hatte vor Kurzem, in deiner Anwesenheit, eine eher negative Begegnung mit seiner Familie. Was man dort gegen mich hatte, ist mir nicht ganz klar. Mithilfe des unerwarteten Nosferatu sind wir jedoch offensichtlich im Unfrieden auseinandergegangen. Hier ist also Vorsicht geboten. Ich möchte nicht in einen weiteren unnötigen Streit geraten, der mich von meiner Forschung abhält.  
+  - Gideon meint den Besuch von [[Gustavo Giovanni]] in Nacht 16, den [[Gregor Havitch]] mit gebrochener Schulter in sein Auto geworfen hat.  
+    - [[Numan Prince|Nu]]: Muss dir leider sagen: Am Telefon meinten die, sie wissen genau, wo ich steh. Die beobachten mich, wie ich den Fall aufkläre. Keine Ahnung, wie die das machen.  
+  - Da sieht Nu für einen Augenblick [[Haiku]] im Spiegel. Er dreht sich um, dort steht niemand. Als er wieder in den Spiegel schaut, ist sie auch dort verschwunden.  
+    - [[Numan Prince|Nu]]: Da ist schon wieder Haiku.  
+    - [[Gideon Poxwell]]: Möglicherweise hat Haiku ja etwas mit den Giovanni zu tun. Sollten Sie anwesend sein, werte Dame, könnten Sie unser kleines Missverständnis ja aufklären.  
+  - Es kommt keine Antwort.  
+    - [[Numan Prince|Nu]]: Ich war auch im [[Asylum]], wollte Therese treffen, hab aber [[Jeanette Voerman|Jeanette]] erwischt. Die hat mir 'ne Alternative gezeigt, falls ich nicht zur Cam will. Ich weiß noch nicht, mit wem ich mich gutstelle. Aber das klären wir, wenn die anderen Probleme gelöst sind.  
+    - [[Numan Prince|Nu]]: Ich hab jedenfalls für beide Seiten interessante Infos, falls ich mich mal entscheide. Aber noch bin ich neutral, glatt wie 'n Aal. Wer nach mir greift, greift ins Leere, jedes Mal.  
+    - [[Gideon Poxwell]]: Aale sind, nebenbei bemerkt, keineswegs neutral. Es handelt sich um ausgesprochene Räuber.  
+    - [[Gideon Poxwell]]: Aber ich verstehe. Ich selbst habe mich noch kaum damit befasst. Es erschien mir trivial und eine bloße Ablenkung von den wichtigen Themen des Unlebens.  
+    - [[Numan Prince|Nu]]: Du hast also keine Präferenz?  
+    - [[Gideon Poxwell]]: Mit den Zwängen der [[Camarilla]] bin ich nicht einverstanden. Grundsätzlich sollte jeder tun und lassen und vor allem forschen können, was er möchte. Absolutes Chaos ist jedoch ebenso wenig erstrebenswert.  
+    - [[Numan Prince|Nu]]: Du bist also 'ne Camhure.  
+    - [[Gideon Poxwell]]: Ich mag geordnete Strukturen. Aber Freiheit ist ein Gut, das man verteidigen muss.  
+    - [[Numan Prince|Nu]]: Du bist also selbst noch unentschlossen. Du bist nun mal mein Freund und gerade auch mein Stiefvater. Ich will am Ende nicht allein dastehen. Ich will mit meiner Familie in derselben Gruppe das Nichtleben genießen.  
+    - [[Gideon Poxwell]]: Darüber müssen wir in aller Ruhe nachdenken und diskutieren. Jetzt sollten wir aber zum Tatort aufbrechen.  
+  - Gideon holt den Karton unter dem Tresen hervor.  
+    - [[Gideon Poxwell]]: Für solche Anlässe habe ich ein paar Masken besorgt. Such dir eine aus, die dir gefällt, und ich erzähle dir mehr über die Person.  
+    - [[Numan Prince|Nu]]: Hast du zufällig eine von diesem Rapper?  
+    - [[Gideon Poxwell]]: Nein. Aber hier ist eine ganz hervorragende von Dr. Karl Brandt. Die Masken stammen aus einem Film, der die Verbrechen der nationalsozialistischen Ärzteschaft aufarbeitet. Brandt war Hitlers Leibarzt und Hauptangeklagter im Nürnberger Ärzteprozess. Medizinisch eine Schande, handwerklich jedoch erstklassig gearbeitet.  
+
+- **Am Tatort**  
+  - [[Detlef]], Gideons Mitarbeiter für die Transporte, fährt Gideon und Nu mit dem Leichenwagen zur Gasse. Die Polizei hat abgesperrt.  
+    - Polizist: Ihr seid also die Spusi. Donut?  
+    - [[Numan Prince|Nu]]: Kein Donut, Officer, ich bin auf Diät. Für Zucker ist's bei mir zu spät.  
+  - Leiser, nur für Gideon:  
+    - [[Numan Prince|Nu]]: Bei mir zählt nur, was flüssig durch die Venen geht.  
+    - Polizist: Falls Sie den Zeugen noch brauchen, der ist gleich hier um die Ecke. Hey, Deputy, hol mal den Zeugen.  
+  - Gideon untersucht den Tatort und verteilt Fähnchen und Hütchen.  
+    - Deputy (zu Serafin): Haben Sie noch mal kurz Zeit? Wo waren Sie zur Tatzeit?  
+    - [[Numan Prince|Nu]] (leise): Wer bin ich eigentlich?  
+    - [[Gideon Poxwell]]: Du bist doch offensichtlich Dr. Brandt.  
+    - [[Numan Prince|Nu]]: Faszinierend.  
+    - [[Gideon Poxwell]]: In der Tat. Dr. Brandt, in der Tat.  
+  - Der Zeuge ist [[Serafin]].  
+    - [[Serafin]]: Ah, Dr. Poxwell.  
+    - [[Gideon Poxwell]]: Ah, natürlich. Serafin.  
+    - [[Numan Prince|Nu]]: So sieht man sich wieder.  
+  - In der Blutlache sieht Nu, wie sich [[Haiku]] darin spiegelt.  
+    - [[Numan Prince|Nu]]: Haiku, können wir uns nicht mal unterhalten?  
+  - Er blickt auf, dann wieder in die Lache.  
+    - [[Numan Prince|Nu]]: Da oben ist sie wieder.  
+    - [[Gideon Poxwell]]: Ich sehe niemanden.  
+  - Gideon nimmt sich den Zeugen vor.  
+    - [[Gideon Poxwell]]: Sie sind also der Zeuge. Was können Sie mir berichten?  
+    - [[Serafin]]: Viel mehr gibt es leider nicht. Ich hörte einen Schrei, bog um die Ecke, und da lag er.  
+    - [[Gideon Poxwell]]: Können Sie abschätzen, wie lange nach der Tat Sie eingetroffen sind?  
+    - [[Serafin]]: Wenige Minuten. Zwei, vielleicht.  
+    - [[Gideon Poxwell]]: Muss es sich demnach um einen sehr schnellen Menschen oder um ein Tier gehandelt haben?  
+    - [[Serafin]]: Ich war etwa zwei Minuten danach hier. Aber ich habe noch nie gesehen, dass ein Mensch einen anderen derart auseinandernimmt.  
+    - [[Numan Prince|Nu]]: Sieht fast so aus, als hätt ein Wolf den angefallen.  
+    - [[Gideon Poxwell]]: Wie umfangreich ist denn deine Erfahrung auf diesem Gebiet?  
+    - [[Serafin]]: Am besten lädst du mich einmal auf einen Kaffee ein. Manche Dinge bespricht man besser unter uns.  
+    - [[Gideon Poxwell]]: Weshalb, erschließt sich mir zwar nicht, aber das lässt sich einrichten.  
+  - Gideon lädt die Leiche in den Wagen.  
+    - Polizist: Wenn Sie die gerade einladen: Wir brauchen eine Bestätigung, dass Sie sie mitnehmen.  
+  - Gideon erledigt die Formalitäten für die Beweiskette.  
+    - Polizist: Dann rufen wir den Tatortreiniger. Schöne Nacht noch.  
+  - Alle fahren zur Praxis. Serafin wird dazu eingeladen.  
+
+- **Kaffee unter Kindred**  
+  - Gideon und Detlef laden die Leiche aus und bringen sie hinein. Gideon bietet Serafin einen Kaffee an, und Serafin nimmt an. Gideon kocht ihn in der Küche.  
+    - [[Serafin]]: Dir ist klar, dass die Lupines existieren.  
+    - [[Gideon Poxwell]]: Mir ist klar, dass Wölfe existieren.  
+    - [[Serafin]]: Werwölfe.  
+    - [[Gideon Poxwell]]: Ja.  
+    - [[Serafin]]: Deine Einschätzung?  
+    - [[Gideon Poxwell]]: Es wäre unprofessionell, voreilige Schlüsse zu ziehen. Möchten Sie mich bei der Obduktion unterstützen?  
+    - [[Serafin]]: Dahingehend bin ich nicht veranlagt.  
+  - Gideon obduziert. Er kostet das Blut, und dabei geht sein Hunger mit ihm durch. Das Opfer ist ein sterblicher **Ghul**, sein Blut hat keine Resonanz, und es fehlt viel davon.  
+    - [[Gideon Poxwell]]: Es scheint sich um einen Ghul zu handeln.  
+    - [[Serafin]]: Ja, gerade scheint es da einigen Tumult zu geben. Einen Krieg mit den [[Anarchen]].  
+    - [[Gideon Poxwell]]: Sie gehören also zur [[Camarilla]].  
+    - [[Serafin]]: Zu den Anarchen gehöre ich jedenfalls nicht. Am liebsten wäre ich parteilos. Überhaupt scheinen die Leute hier meine moralischen Überzeugungen nicht zu teilen.  
+    - [[Gideon Poxwell]]: Welche moralischen Überzeugungen meinen Sie?  
+    - [[Serafin]]: Mord ist nicht in Ordnung.  
+    - [[Gideon Poxwell]]: Mord an Menschen, an Tieren, oder im Allgemeinen?  
+    - [[Serafin]]: Im Allgemeinen.  
+    - [[Gideon Poxwell]]: Auch an Tieren?  
+    - [[Serafin]]: Wenn es sich vermeiden lässt.  
+    - [[Gideon Poxwell]]: Das stelle ich mir in Verbindung mit der Nahrungsaufnahme äußerst schwierig vor.  
+    - [[Serafin]]: Es gibt Fragen, die sind zu persönlich.  
+    - [[Gideon Poxwell]]: Und wenn sie bereits tot sind?  
+    - [[Gideon Poxwell]]: Gibt es noch weitere Dinge, die Ihrer Moral widersprechen?  
+    - [[Serafin]]: Natürlich gäbe es vieles auszusetzen am Verhalten so mancher Verwandter. Ich weiß schließlich auch, was der ständige Hunger mit einem macht.  
+  - Das ist Gideon ebenfalls aufgefallen.  
+    - [[Serafin]]: Aber immerhin lassen sich die einfachsten Dinge vermeiden, etwa Ghule.  
+    - [[Gideon Poxwell]]: Ja. Ghule.  
+    - [[Serafin]]: Genau das ist es ja. Einen Ghul zu erschaffen ist schlimmer, als jemanden zu zwingen. Es ist eine Abhängigkeit.  
+    - [[Gideon Poxwell]]: Ich habe selbst bereits darüber nachgedacht, wie man den armen Ghulen helfen könnte. Hätten Sie Interesse, mich dabei zu unterstützen, einen Ghul von seinen Zwängen zu befreien?  
+    - [[Serafin]]: Das ist schwierig. Die Gesellschaft der Nacht betrachtet Ghule als Verlängerung ihrer Herren. Beihilfe zur Freiheit eines Ghuls käme einem Diebstahl gleich. Zumindest würde die Camarilla es so sehen.  
+    - [[Gideon Poxwell]]: Mir ist bewusst, welche Gefahren das birgt. Aber manchmal muss man altruistisch handeln, um den eigenen moralischen Werten zu entsprechen.  
+    - [[Serafin]]: Natürlich. Nur befinden wir uns anscheinend gerade im Krieg mit den Anarchen, auch wenn diese Entscheidung nicht bei uns da unten lag, sondern bei denen da oben. Ich verspüre keine große Lust, mich mit anderen anzulegen, nur weil wieder andere es für hilfreich und wichtig halten.  
+    - [[Gideon Poxwell]]: Ich habe den Eindruck, dass Sie hier zweideutige Signale senden. Sie stehen zur Camarilla und zugleich gegen ihre Haltung.  
+    - [[Serafin]]: Ich lebe nach dem Motto: Es ist ein Geben und Nehmen, Dr. Poxwell.  
+
+- **Master Billy holt Verstärkung**  
+  - [[Thijs]] kommt nach Hause. Die Wohnung ist ziemlich unordentlich, das Sofa ganz besonders. [[Sir Emmentaler]] liegt daneben und schläft, im Keller bellt der Hund.  
+  - Thijs lässt den Hund heraufkommen. Der scheißt erst mal auf den Boden.  
+  - Thijs trinkt von Sir Emmentaler. Der ist voller Lippenstift und Knutschflecken und wacht nur sehr langsam auf.  
+    - [[Thijs]]: Alter, was ist denn hier passiert? Wieso sieht's hier so aus?  
+    - [[Sir Emmentaler]]: [[Paulina Vasileva|Paulina]] war gestern die ganze Nacht da, ja, und ähm …  
+    - [[Thijs]]: Haben Sie Blut von der getrunken?  
+    - [[Sir Emmentaler]]: Öh, das weiß ich nicht so genau. Ich habe ihr Schoki angeboten, aber sie wollte nicht. Sie wollte lieber mich vernaschen.  
+    - [[Thijs]]: Und, hattet ihr Spaß?  
+    - [[Sir Emmentaler]]: Ein Kavalier genießt und schweigt.  
+    - [[Thijs]]: Sie hören sich wieder viel mehr an wie sonst.  
+    - [[Thijs]]: Sie müssen mich noch wohin fahren.  
+    - [[Sir Emmentaler]]: Wo soll es denn hingehen, Master Billy?  
+  - Thijs gibt dem Hund von seinem Blut und trinkt dann auch von ihm.  
+  - Dann ruft er Serafin an.  
+    - [[Thijs]]: Hallooooo, halloooo, hallo, hallooooo! Wollt nur sagen: Die Brian-Mission startet jetzt.  
+  - Sir Emmentaler trägt ein T-Shirt mit Schweizer Flagge und hat Schokolade und Käse dabei. Mit dem Hund fahren sie zur letzten GPS-Position, an der Dianzu nach dem Konzert verloren gegangen war.  
+  - Sir Emmentaler fährt in der Gegend herum und wartet, bis er gebraucht wird. Thijs ist sich nicht mehr sicher, ob Sir Emmentaler nach der Nacht mit Paulina noch auf ihn hört. Er stellt ihn auf die Probe.  
+    - [[Thijs]]: Können Sie mit 'ner Waffe umgehen?  
+    - [[Sir Emmentaler]]: Ja, natürlich.  
+    - [[Thijs]]: Sehen Sie den da hinten? Schießen Sie.  
+  - Sir Emmentaler schießt.  
+    - [[Sir Emmentaler]]: Oh. Dann habe ich den wohl fast totgeschossen. Soll ich noch einen Krankenwagen rufen?  
+    - [[Thijs]]: Nein. Verschwinden Sie jetzt.  
+  - Thijs gibt dem Hund noch mehr Blut, dann trinkt er den Passanten leer. Der Hund sieht inzwischen deutlich aggressiver aus und hat Fangzähne bekommen. Thijs befiehlt ihm, sich unauffällig zu verhalten.  
+  - Er durchsucht die Leiche, nimmt das Geld mit und wirft den Toten in einen Baum.  
+  - Dann geht er mit **Verdunkelung** Richtung GPS-Punkt und sagt [[Marcus Shaw|Markus]] Bescheid, dass er Unterstützung haben will.  
+
+- **Besuch an der Tür**  
+  - Es klopft. Gideon öffnet, draußen steht Nu mit der Maske.  
+    - [[Gideon Poxwell]]: Ah, Dr. Brandt. Kommen Sie doch herein.  
+  - Es klopft noch einmal. Diesmal steht ein muskulöser Mann vor der Tür.  
+    - Muskulöser Mann: Erbitte Zutritt. Habe beobachtet: maskierte Person, gibt sich als Gideon aus, hat Ihre Wohnung betreten. Gefährlich.  
+    - [[Gideon Poxwell]]: Sie müssen Dr. Brandt meinen. Aber keine Sorge, er praktiziert seit den Vierzigern nicht mehr.  
+  - Gideon will ihn abweisen. Da tritt ihm jemand von hinten in die Beine. Es ist [[Haiku]], die keiner hat kommen sehen. Gideon ist ziemlich überrascht, fällt aber nicht.  
+    - [[Haiku]]: Die Hände eines Heilers sind kostbar, Doktor. Es wäre schade, wenn man sie zerdrückt.  
+  - Gideon ist weder beeindruckt noch unbeeindruckt.  
+    - [[Numan Prince|Nu]]: Yo, warum belästigt ihr den Herrn Doktor so?  
+  - Nu setzt **Präsenz** ein (Dread Gaze). Der Mann und Haiku rennen panisch davon.  
+    - [[Numan Prince|Nu]]: Was wollten die eigentlich von dir?  
+    - [[Gideon Poxwell]]: Was genau sie wollten, ist mir nicht klar. Sie waren jedoch ausgesprochen unhöflich.  
+  - Draußen schiebt der Mann ein Auto vor das Haus.  
+    - [[Serafin]]: Dr. Poxwell, ist da gerade eine Ihrer Leichen aufgewacht?  
+    - [[Gideon Poxwell]]: Die Dame verfolgt uns seit dem Friedhof. Nu hat sie mehrfach im Spiegel gesehen, ich bedauerlicherweise nicht.  
+  - Der Rückverweis gilt Nacht 17.  
+  - Über das Auto steigen der Mann und Haiku aufs Vordach und von dort aufs Flachdach. Die Tür zum Treppenhaus ist abgeschlossen. Der Mann will sie sanft öffnen und reißt dabei mit **Stärke** das Schloss aus der Verankerung.  
+  - Gideon geht nach oben. Er sieht niemanden und will die Tür schließen, aber sie geht nicht mehr richtig zu.  
+  - Inzwischen steht Haiku am Haupteingang.  
+    - [[Haiku]]: Ich komme in Frieden. Ich möchte mit Serafin sprechen. Sie kennen mich bereits, als Herrn Giovanni. Da trug ich ein anderes Gesicht.  
+    - [[Serafin]]: Aha.  
+  - Das war im Park in Nacht 17.  
+    - [[Haiku]]: Hat sich Ihr Zorn gelegt?  
+    - [[Serafin]]: Ja. Der Kleinwüchsige hat ein ausgesprochenes Talent, mich zur Weißglut zu bringen.  
+    - [[Haiku]]: Helfen Sie mir, es den anderen zu sagen: Ich will nicht, dass hier jemand zu Schaden kommt. Der Starke, den Sie gesehen haben, geht an meiner Seite. Er trägt, was ich nicht tragen soll.  
+    - [[Serafin]]: Ich kenne den Doktor noch nicht sehr lange. Aber da Sie ihn bereits kennen, wird er sicherlich darüber hinwegsehen.  
+    - [[Haiku]]: Er hat mich belästigt, als wir uns zum ersten Mal begegnet sind. Er wollte sehen, was unter meiner Haut liegt.  
+    - [[Serafin]]: Dann ist das also Rache?  
+  - In Nacht 17 wollte Gideon ihre Physiologie untersuchen.  
+    - [[Haiku]]: Fühlen Sie sich unwohl, Nu? Darf ich Sie knechten?  
+    - [[Numan Prince|Nu]]: Dafür würd ich mir 'ne andere Person aussuchen.  
+  - Gideon kommt die Treppe herunter. Serafin bekommt eine SMS von [[Madam Rich]]: Er soll zu bestimmten GPS-Koordinaten kommen.  
+    - [[Gideon Poxwell]]: Ich wollte Sie nicht angreifen. Sie verfügen lediglich über eine sehr interessante Anatomie, die man untersuchen sollte.  
+    - [[Haiku]]: ALWAs Name folgt Ihnen, Doktor. Wenn es Ihnen recht ist, gehen wir den Weg gemeinsam. Oder wir stehen uns wenigstens nicht im Weg.  
+    - [[Gideon Poxwell]]: Ein bemerkenswerter Mann.  
+    - [[Haiku]]: Erzählen Sie mir mehr.  
+  - Gideon erzählt ihr ALWAs Vorgeschichte.  
+
+- **Ein Ventrue an der Tür**  
+  - Es klingelt. Vor der Tür steht [[Edric Ashford]]. Er ist kurz angebunden und sichtlich genervt, dass er das hier persönlich erledigen muss.  
+    - [[Edric Ashford]]: Wie kann es sein, dass der Camarilla noch immer kein Ghul vorliegt, über den man Sie erreicht? Es ist unter meiner Würde, ich sage es daher nur einmal. Wegen der angespannten Lage fordert die Camarilla von gewissen Mitgliedern Beiträge zur Versorgung der Unseren. Ab heute zwanzig Liter frisches Blut pro Nacht, gut verträglich. Wir gehen davon aus, dass Sie zustimmen. Hinterlegen Sie an geeigneter Stelle, welchen Ghul wir kontaktieren können. Das nächste Mal kommen unsere Ghule. Die erste Lieferung ist morgen um diese Uhrzeit fällig.  
+  - Damit dreht er sich um und geht.  
+  - Hinter ihm taucht der muskulöse Mann auf und stellt seinen Fuß in die Tür. Gideon lässt ihn nur unter einer Bedingung herein: Er muss die Dachtür ersetzen. Der Mann nickt einmal knapp und tritt ein.  
+    - Muskulöser Mann: [[Gideon Breaker|Lieutenant Gideon Breaker]].  
+
+- **ALWAs Geschichte**  
+  - Für persönliche Berichte über ALWA verweist Gideon an Serafin.  
+    - [[Serafin]]: Ja, es ist wahr, ich kannte ALWA persönlich. ALWA wurde, wie ich, wie Thijs, Madam Rich und Étienne, gemeinsam in die Gesellschaft der Nacht aufgenommen. Vor gut zwei Wochen brannte hier ganz in der Nähe ein Opernhaus nieder. Was immer dort geschehen sein mag, wir sind dort erwacht und gehören seither zur Gesellschaft der Nacht.  
+    - [[Gideon Poxwell]]: Und wie ging es dann weiter?  
+    - [[Serafin]]: Die Camarilla brachte uns in ein Theater. Dort eröffnete man uns, wir hätten fünf Nächte, um fünf Fürsprecher zu gewinnen, sonst würden wir sterben. Die Gruppe ist nahezu sofort zerfallen. ALWA hat sich abgesetzt. Und wie du unschwer erkennen kannst, atme ich noch.  
+  - Gideon prüft das nach.  
+    - [[Gideon Poxwell]]: Nein. Sie atmen nicht mehr.  
+    - [[Haiku]]: Und ALWA war einer von ihnen?  
+    - [[Serafin]]: Alles Weitere unter uns.  
+    - [[Haiku]]: Doktor, wissen Sie, wessen Blut an Alfons' Händen klebt? Gibt es Namen?  
+    - [[Gideon Poxwell]]: Selbstverständlich weiß ich darüber etwas. Sie hieß [[Maggie Tailor]].  
+    - [[Haiku]]: Ich wusste nichts davon. Sie haben mir sehr geholfen.  
+    - [[Numan Prince|Nu]]: Hat er diableriert?  
+    - [[Haiku]]: Ich will keine falschen Worte in die Welt setzen. Worte bleiben.  
+    - [[Numan Prince|Nu]]: Und dieser Dianzu, war der böse?  
+    - [[Serafin]]: Ja. Ein Diablerist.  
+    - [[Gideon Poxwell]]: Korrekt, Dianzu war ein Diablerist. Ob ALWA einer war, kann ich nicht mit Sicherheit sagen. Es gab jedoch eine Verhandlung darüber, ob ALWA oder [[Michael]] einen gewissen [[Giuseppe Giovanni]] diableriert hat. ALWA wurde freigesprochen, Michael als Diablerist überführt und schuldig gesprochen.  
+  - Das Urteil fiel in Nacht 11.  
+    - [[Gideon Poxwell]]: Könnten Sie mir bei meiner Blutsituation behilflich sein?  
+    - [[Haiku]]: In Zukunft werde ich Ihnen helfen. Aber ich werde keinem unschuldigen Wesen schweren Schaden zufügen.  
+    - [[Numan Prince|Nu]]: Vielleicht ziehen wir 'ne Blutspende-Aktion auf. Mit unseren Ghulen.  
+    - [[Gideon Poxwell]]: Du hast einen Ghul?  
+    - [[Numan Prince|Nu]]: Nein.  
+    - [[Gideon Poxwell]]: Am Ort der Explosion habe ich Überreste gefunden. Sofern es sich nicht um Dianzu handelt, bin ich bereit, sie Ihnen zu übergeben. Auch [[Einar]] darf untersucht werden. Immerhin wusste er von ALWAs Diablerie.  
+  - Gemeint ist die Explosion aus Nacht 15. Dass Einar Bescheid wusste, schließt Gideon erst jetzt: In Nacht 13 hatte Thijs ihn beim Gehen gewarnt, Dianzu und Einar hätten unten im Keller über eine Diablerie gesprochen.  
+    - [[Serafin]]: Einar WUSSTE das?  
+    - [[Gideon Poxwell]]: Ja.  
+  - Haiku nimmt das Angebot an.  
+
+- **Vor der Tür**  
+  - Gideon geht die Überreste holen. Draußen reden Serafin, Haiku und Breaker weiter, und Nu stößt dazu.  
+    - [[Serafin]]: Kennen Sie die Abmachung, deretwegen Sie hier sind? Nein? Dann helfe ich Ihrem Gedächtnis auf die Sprünge. Vor gut einer Woche fand ein Treffen zwischen Hecata und Camarilla statt, bei dem [[Giuseppe Giovanni]] auf tragische Weise ums Leben kam. Zuvor hatten Giuseppe und ein Freund von mir, [[Michael]], sich geprügelt. Wir konnten die beiden rechtzeitig trennen. Doch im nächsten [[Elysium]], als man Giuseppe den Pflock zog, zerfiel er zu Staub, und seither geht man von einer Diablerie aus.  
+    - [[Serafin]]: Michael wurde verdächtigt, und ich glaube nicht, dass es so geschehen ist. ALWA war es, der Giuseppe allein zum Prinzen gebracht hat, während ich Michael in Sicherheit brachte. Ein [[Tremere]] hat sich Michaels Seele angesehen und befunden, er habe diableriert. Denselben Blick warf er auf ALWA und befand, ALWA habe es nicht getan. Man erklärte den Tremere zur unabhängigen Partei. Drei Personen hätten das feststellen können, und alle stimmten gegen meinen Vorschlag, eine wahrhaft unabhängige Person zu wählen. Deshalb halte ich Michael für unschuldig.  
+    - [[Serafin]]: Was zwischen ALWA und [[Dianzu]] vorgefallen ist, weiß ich nicht. Aber am Ende hat Dianzu ALWA diableriert. Kurz darauf starb Dianzu bei einer Explosion, bei der auch der Prinz, [[Einar]] und Dianzus Nachkomme [[Linda Swan|Linda]] umkamen.  
+  - Serafin fasst damit die Nächte 10 bis 15 zusammen. Dass Dianzu ALWA diableriert hat, weiß er von Thijs aus Nacht 13.  
+  - Nu hört zu und verzieht unter der Maske keine Miene.  
+    - [[Haiku]]: Das macht den Faden viel verworrener. Was wäre Ihr nächster Schritt?  
+    - [[Serafin]]: ALWAs Wohnung haben wir uns bereits angesehen. Als Nächstes würde ich mir Dianzus Wohnung ansehen. Leider bin ich spät dran für einen Folgetermin und muss gehen.  
+    - [[Serafin]] (zu Nu): Es ist ein Camarilla-internes Problem. Ich rate dir davon ab mitzukommen. Ich würde mir ernste Vorwürfe machen.  
+    - [[Numan Prince|Nu]]: Soll ich mitkommen?  
+    - [[Serafin]]: Wenn du mitkommst, gehörst du endgültig zur [[Camarilla]].  
+    - [[Numan Prince|Nu]]: Ja, dann komm ich mit. Wer zögert, verpasst den Hit.  
+    - [[Serafin]]: Das ist eine ernste Entscheidung.  
+  - Damit bekennt sich Nu vor Zeugen zur Camarilla.  
+
+- **Der Ketamin-Mann**  
+  - Gideon ist zurück.  
+    - [[Haiku]]: Doktor, haben Sie irgendwo Blut auf Lager?  
+    - [[Gideon Poxwell]]: Ich habe einige Leichen, die die Camarilla vermutlich für unzureichend hielte. Auf anderes Blut kann ich angesichts der künftigen regelmäßigen Lieferungen derzeit leider nicht verzichten.  
+    - [[Haiku]]: Sie sind doch Arzt.  
+    - [[Gideon Poxwell]]: In der Tat. Ich habe Medizin studiert und mich auf Hämatologie und Pathologie spezialisiert, und zwar mit einer Arbeit über …  
+    - [[Haiku]]: Haben Sie einen Drogenabhängigen?  
+    - [[Gideon Poxwell]]: Es gibt jemanden, der an einer Ketaminvergiftung verstorben ist, falls Sie das meinen.  
+    - [[Haiku]]: Mhm.  
+    - [[Gideon Poxwell]]: Darf ich fragen, welche Ansprüche Sie haben, damit ich Ihnen genügen kann?  
+    - [[Haiku]]: Dann kosten wir den Ketamin-Mann. Er träumt noch.  
+
+- **Knochen ohne Fessel**  
+  - Gideon bringt ein vorbildlich beschriftetes Beutelchen mit Knochen und Splittern. Sie gehen ins Zimmer, und alle sehen sich erst einmal nach unsichtbaren Personen um. Gideon legt die Tüte auf den Tisch.  
+    - [[Haiku]]: An diesen Knochen hängt nichts mehr. Keine Seele, keine Fessel. Können Sie sie untersuchen?  
+    - [[Gideon Poxwell]]: Das habe ich bereits getan und nichts Außergewöhnliches festgestellt. Ich entnehme Ihren Worten, dass sich darin keine Spur befindet, die uns weiterhelfen könnte?  
+    - [[Haiku]]: Nein.  
+
+- **Im Bahari-Wald**  
+  - Thijs hört in der Ferne seltsames Geschaue und Gerede, das er nicht versteht. Er nimmt sein Fernglas und sieht Leute.  
+  - Eine SMS von Serafin kommt: Er ist unterwegs.  
+  - Thijs schleicht näher heran. Er sieht sechs Personen, die meisten tragen Masken. Bis auf die Masken sind alle nackt.  
+    - Vier Maskierte stehen um ein Gebilde aus Steinen, die mit Zeichen versehen sind.  
+    - Abseits steht [[Brian]] und wippt wild hin und her.  
+    - Daneben steht eine Frau mit einem Stachelhalsband, an dem einer der Maskierten sie festhält.  
+  - Thijs hat keine Ahnung, was die da machen, aber es fühlt sich nicht gut an.  
+  - Er schleicht sich unentdeckt bis zu Brian, der nicht sehr gesund aussieht, packt ihn und ist mit **Geschwindigkeit** (Blink) weg.  
+  - Hinter sich hört er jemanden „Was war das?“ rufen, dann jault ein Wolf. Er blinkt noch einmal weiter, hört aber, dass er verfolgt wird.  
+  - Im Laufen trinkt er von Brian. Da übernimmt sein Tier: Er bleibt stehen und trinkt, bis er satt ist. Brian bleibt danach einfach am Boden liegen.  
+  - Als Thijs wieder zu sich kommt, stehen um ihn herum zwei Wölfe und zwei nackte Frauen mit Masken.  
+    - Frau: Oh, den Kleinen kenn ich doch.  
+  - Thijs fährt seine Krallen aus (**Gestaltwandel**) und macht sich groß.  
+    - [[Thijs]]: Ich will den hier nur mitnehmen, dann bin ich wieder weg.  
+  - Die Frau pfeift.  
+    - Frau: Fiffi, komm her.  
+  - Die Frau mit dem Stachelhalsband kommt angekrochen. Es ist [[Lexy Sexy]].  
+    - Frau: So, meine Kleine. Das hast du aber ganz schön gut gemacht.  
+  - Thijs erkennt die Frau mit der Maske.  
+    - [[Thijs]]: [[Linda Swan|Linda]]? Was machst du hier?  
+    - [[Linda Swan|Linda]]: Du hast mich also erkannt.  
+    - [[Thijs]]: Die Frage ist: Was machst du hier?  
+    - [[Linda Swan|Linda]]: Eigentlich mochte ich dich. Aber jetzt kann ich dich nicht mehr gehen lassen. Hier ist der Deal: Wir geben dir eine klitzekleine Prüfung auf. Wenn du sie bestehst, lassen wir dich nicht nur gehen, wir nehmen dich sogar in unsere Gemeinschaft auf.  
+    - [[Thijs]]: Ohne Erklärung, was das heißen soll …  
+    - [[Linda Swan|Linda]]: Eigentlich wollten wir gerade ein Aufnahmeritual machen.  
+    - [[Thijs]]: Mit dem Hund?  
+    - [[Linda Swan|Linda]]: Genau. Und das können wir jetzt minimal abändern.  
+    - [[Thijs]]: Ich will Brian. Und mit dem will ich einfach gehen.  
+    - [[Linda Swan|Linda]]: Du kannst ihn gern haben. Du musst ihn nur in dich aufnehmen.  
+    - [[Thijs]]: Und was hab ich davon?  
+    - [[Linda Swan|Linda]]: Dann bist du einer von uns und frei zu gehen.  
+    - [[Thijs]]: Lebt [[Einar]] noch?  
+    - [[Linda Swan|Linda]]: Nicht, dass ich wüsste.  
+    - [[Thijs]]: Wie hast du die Explosion überlebt?  
+    - [[Linda Swan|Linda]]: Lass das mal meine Sorge sein.  
+    - [[Thijs]]: Ich tret auf keinen Fall eurem Klan bei.  
+    - [[Linda Swan|Linda]]: Du hast eine letzte Chance. Von euch dreien wird am Ende dieser Nacht nur noch einer unter uns weilen. Die anderen beiden werden zerstört.  
+  - Gemeint sind Thijs, Brian und Lexy.  
+    - [[Brian]]: Pokémon setzt Drachenblut ein!  
+    - [[Lexy Sexy|Lexy]]: Mhmhmhm. Mhmhmh.  
+    - [[Linda Swan|Linda]]: Also, letzte Chance. Du kämpfst gegen die beiden, oder gegen uns alle.  
+    - [[Thijs]]: Die wollt ich eh plattmachen.  
+  - Er zieht seine zwei Pflöcke.  
+    - [[Thijs]]: Ist die schon von Geblüt?  
+    - [[Linda Swan|Linda]]: Natürlich. Schon länger.  
+  - Lexy greift an. Thijs wehrt sich und verwundet sie schwer, er zerfetzt sie regelrecht, bis sie in Starre fällt.  
+    - Die Maskierten (klatschend): Und jetzt bring es zu Ende!  
+  - Stattdessen blinkt Thijs zu einem der Maskierten und verpasst ihm eine. Darauf gehen alle auf ihn los. Linda packt ihn, aber er kann sich gut wehren, und bevor die anderen ihn erreichen, blinkt er wieder weg.  
+  - Er flieht. Zwei Verfolger in Menschengestalt hängt er ab, zwei Wölfe aber bleiben ihm auf den Fersen. Die Wölfe jaulen, und vor ihm antwortet sein Hund.  
+  - Einem Wolf läuft er davon, der zweite holt auf. Da kommt ihm sein Hund entgegengerannt und greift ihn an. Thijs stürzt, und der Wolf ist heran.  
+  - Thijs geht auf den Wolf los. Der zweite Wolf kommt näher, in der Ferne tauchen Scheinwerfer auf. Gemeinsam drücken die Wölfe ihn zu Boden, dann ist Linda da und pfählt ihn.  
+
+- **Gideons Merkzettel**  
+  - Gideon notiert sich, was zu tun ist: mit Tobi über hirntote Subjekte sprechen, Blut einsammeln lassen, im Pennerbunker nach Büchern suchen, die Türklinken gegen Ghule sichern.  
+
+- **Elowen kehrt zurück**  
+  - Es klopft. Gideon öffnet, und vor der Tür steht [[Elowen]]. Sie sieht wie immer umwerfend aus: Zu ihrem Blazer trägt sie lange schwarze Handschuhe, ein Fashion-Statement, das perfekt zum Rest passt.  
+    - [[Gideon Poxwell]]: Wo warst du?  
+    - [[Elowen]]: Oh, ich bin jetzt zu Hause. Ich weiß gar nicht, wo ich war. Waren wir nicht auf dem Friedhof, und dann im Wald, und am See, mit den Schwänen und dem Hirsch? Es ist so viel passiert. Lass mich noch mal anfangen. Oder reingehen.  
+  - Lautlos, trotz der Stöckelschuhe, stolziert sie mit katzenhafter Anmut herein. Haiku und Breaker, die gerade die Treppe herunterkommen, halten einen Moment lang inne.  
+    - [[Elowen]]: Siehst du die auch?  
+    - [[Gideon Poxwell]]: Ja.  
+    - [[Elowen]] (zu Haiku): Du schon wieder. Seid ihr jetzt zusammen?  
+    - [[Haiku]]: Ich suche, was von ALWA übrig ist. Der Doktor hilft mir dabei.  
+    - [[Elowen]]: Ich hab was Gigantisches zu erzählen. Ihr wart doch dabei, oder?  
+  - Und sie erzählt.  
+    - [[Elowen]]: Da war ein See auf dem Friedhof. Am Ufer zwei junge Schwäne, fast gleich. Sie schwimmen oft Seite an Seite, der eine schaut zum Himmel, der andere ins Wasser. Ein Jäger kommt. Der eine Schwan schlägt mit den Flügeln und schützt den anderen. Der Jäger schießt. Am nächsten Tag sind die Schwäne verschwunden. Und am Morgen danach erzählt man sich von einem Schwan, der auf dem See schwimmt, und von einem zweiten, nur als Spiegelbild, drüben im Dickicht.  
+    - [[Elowen]]: Dann kam ein Hirsch. Er herrschte über den Rand des Waldes, wachsam. An seiner Seite ein Schakal, flink und freiheitsliebend, aber immer unter dem Auge des Königs. Der Schakal läuft davon, er will frei sein. Er verliert etwas, kein Fleisch, kein Glied, einen Teil von sich. Bis der Hirsch erscheint, größer und kälter. „Willst du es zurück?“ Der Schakal senkt den Kopf wie ein Diener. Und aus dem Geweih des Königs fällt ein Puzzleteil.  
+    - [[Elowen]]: Ein kleiner goldbrauner Welpe im Wald. Vier Wölfe treten aus dem Schatten. Sie umkreisen ihn, bis seine Bewegungen stocken, erst sanft, dann drängender. Tief im Wald warten zwei andere Welpen. Der kleine Welpe wird gegen sie geführt. Er kämpft. Am Ende bleibt nur der Atem der Wölfe, und der vergisst.  
+    - [[Elowen]]: In den Gassen einer schlafenden Stadt lebten vier warme Katzen. Stimmen und Milch, eine kleine Welt, sicher und vertraut. Dann kommt ein Falke, aus Glas und kaltem Licht. Er trägt keinen Hunger, sondern einen Plan. Er schlägt zu und zerfetzt das Fell der Großen. Ein grauer Wolf findet die Kleinen und nimmt sie mit in einen Wald aus Schatten. Er lehrt sie, wie man jagt. Der Älteste bleibt für immer. Der Falke kehrt zurück, als Wolf. In seinem Schatten stirbt der alte Wolf. Vier Katzen zogen aus dem Nest, das es nicht mehr gab. Seitdem miauen keine Katzen mehr.  
+  - Gideon kann sich an nichts davon erinnern. Er erzählt ihr stattdessen, was in dieser Nacht los war.  
+
+- **Blut für die Camarilla**  
+  - Gideon bespricht mit Tobi die neue Lage: Sie müssen Blut liefern, sie brauchen hirntote Subjekte, und Tobi soll das Blut übergeben. Tierblut ist bestellt.  
+    - [[Toby|Tobi]]: Die erste Blindverkostung können wir noch heute Nacht machen.  
+  - [[Haiku]] geht derweil Fentanyl-Abhängige jagen.  
+  - Gideon untersucht die kaputte Dachtür und stellt fest, dass Breaker sie tatsächlich zerstört hat. Auf seinen Merkzettel kommt: Türklinke.  
+
+- **Ein Lord auf dem Autodach**  
+  - Serafin sitzt mit Nu im Taxi Richtung Wald. Er hört etwas. Neben sich sieht er Nus pockenzerfressenen Arm.  
+  - Im Scheinwerferlicht ragt am Straßenrand ein Körper aus einem hohlen Baumstumpf. Ein Puma hat ihn ein Stück herausgezerrt und verschwindet im Unterholz.  
+    - Taxifahrer: Scheiße, da liegt 'ne Leiche! Ich ruf die Bullen!  
+  - Serafin steigt aus. Auf dem Dach des Taxis sitzt ein älterer Herr, gut gekleidet, mit prächtigem, gepflegtem Bart. Er sieht aus wie ein englischer Lord, und auf seinem Rücken sind Flügel.  
+  - Nu jagt dem Taxifahrer mit **Präsenz** einen Schrecken ein. Der rennt panisch davon, und Nu zerstört sein Handy.  
+    - [[Lord Henry]]: Ihr habt mein Interesse geweckt, meine Herren. Ihr beide könntet mir überaus nützlich sein, so wie Ihr hier steht.  
+  - Nu stellt sich vor und küsst die Siegelringe an seiner Hand.  
+    - [[Numan Prince|Nu]]: Und was ist Ihr Anliegen, Mylord?  
+    - [[Serafin]]: Es ist nicht das erste Mal, dass wir uns begegnen. Warum seid Ihr hier?  
+    - [[Lord Henry]]: Das vermag ich Euch nicht zu sagen. Aber womöglich finden wir es gemeinsam heraus. Wäre das nicht ganz entzückend?  
+    - [[Numan Prince|Nu]]: Was ist hier denn passiert?  
+    - [[Lord Henry]]: Auch das, fürchte ich, vermag ich Euch nicht zu sagen.  
+  - Das erste Mal war in Nacht 17, als Lord Henry Tanks Leute von Serafin abgebracht hat.  
+  - Serafin sieht sich die Leiche an: ein Jogger, aus nächster Nähe erschossen.  
+    - [[Serafin]]: Hm. Thijs wäre sicherlich nicht so verantwortungslos, ihn hier einfach liegen zu lassen.  
+  - Nu erinnert sich, dass er in diesem Wald schon einmal war.  
+    - [[Numan Prince|Nu]]: Hier war ich schon mal. Da bin ich mit [[Rita]] rumspaziert.  
+    - [[Serafin]]: Wer ist Rita?  
+    - [[Numan Prince|Nu]]: Meine Mutter. Meine Erzeugerin.  
+    - [[Lord Henry]]: Ich kenne sie lediglich als eine recht mächtige Nosferatu-Dame. Sie ist mir auch schon ein, zwei Mal in die Quere gekommen, wie man so sagt.  
+    - [[Numan Prince|Nu]]: Yo, Mylord, was läuft mit meiner Mutter? Rita ist kein Snack, Rita ist kein Futter.  
+    - [[Lord Henry]]: Und weshalb, wenn ich fragen darf, seid Ihr hier?  
+    - [[Serafin]]: Ich soll hier einen Bekannten treffen. Ein kleinwüchsiges Kind.  
+    - [[Lord Henry]]: Mir ist zu Ohren gekommen, Ihr steht nicht sonderlich gut mit der Camarilla. Und Ihr, Nu, seid noch sehr frisch. Und nun sucht Ihr hier einen Jungen? Höchst bemerkenswert.  
+    - [[Serafin]]: Ja. Etwa acht Jahre alt.  
+    - [[Serafin]]: Warum ist der Fahrer eigentlich schreiend weggerannt?  
+    - [[Numan Prince|Nu]]: Na ja, ich hab sein Handy zerstört.  
+    - [[Serafin]]: Dann haben wir etwa fünfzehn Minuten, bis die Polizei kommt.  
+    - [[Lord Henry]]: Nun, so schafft die Leiche doch einfach fort, und wir haben kein Problem, wenn die Constables eintreffen. Sagt, meine Herren, ist das etwa die erste Leiche, die Ihr verschwinden lassen müsst? Habt Ihr das denn nie geübt?  
+    - [[Numan Prince|Nu]]: Was sollen wir denn machen, sie in Stücke reißen?  
+    - [[Lord Henry]]: Das ist das Erste, was Euch in den Sinn kommt? Ihr seid doch ein Zauberer, mein Bester. Könnt Ihr sie nicht einfach verschwinden lassen?  
+    - [[Numan Prince|Nu]]: Serafin, kannst du bitte, bitte die Leiche verschwinden lassen? Ich bin überzeugt, das kannst du besonders gut.  
+    - [[Lord Henry]]: Ihr gefallt mir, junger Mann.  
+  - Serafin zieht die Leiche in den Wald und hinterlässt dabei eine riesige Blutspur. Nu versucht es auch und zerrt sie in die Böschung.  
+    - [[Numan Prince|Nu]]: Lord Henry, wohin des Weges nun?  
+  - Serafin geht Richtung Treffpunkt. Nu folgt ihm mit **Verdunkelung**, und Lord Henry fliegt über ihnen.  
+
+- **Siebzehn Wölfe**  
+  - Am Treffpunkt entdeckt Lord Henry eine Spur im Wald. Gerade noch sehen sie einen Wolf im Dickicht verschwinden. Im Wald bemerkt Serafin einen Hund, der aussieht wie der von Thijs, und er vermutet, dass er es ist.  
+  - Dann nähert sich etwas, leise, aber unmenschlich.  
+    - [[Lord Henry]]: Eine größere Gruppe Tiere kommt auf uns zu. Gefahr, meine Herren.  
+  - Er steigt höher. Ein Rudel aus siebzehn Wölfen tritt heraus und knurrt Serafin an. Serafin setzt sich hin.  
+  - Lord Henry spricht mit den Wölfen (**Tierhaftigkeit**).  
+    - [[Lord Henry]]: Haltet ein. Was sucht ihr?  
+  - Einer der Wölfe verwandelt sich in einen muskulösen Mann.  
+    - [[Serafin]]: Einen Kleinwüchsigen. Etwa acht Jahre alt.  
+    - Wolfsmann: Den haben wir zurückgeschickt, in die Stadt. Das hier ist Gangrel-Gebiet.  
+    - [[Serafin]]: Wie lange ist es her, dass Ihr ihn fortgeschickt habt?  
+    - Wolfsmann: Vielleicht eine halbe Stunde. Und jetzt verschwindet.  
+    - [[Lord Henry]]: Auf bald. Auf einen schönen Vollmond.  
+  - Serafin schreibt Madam Rich: Wir haben Furries getroffen, die meinen, Thijs sei sofort wieder raus.  
+
+- **Im Jaguar**  
+    - [[Lord Henry]]: Ich habe, nur am Rande, alles über Eure kleine Gesellschaft mitverfolgt. Und die Zeitungen gelesen, selbstverständlich.  
+    - [[Serafin]]: Es freut mich, dass es Euch amüsiert hat.  
+  - Lord Henry klatscht zweimal in die Hände und ruft damit seinen Butler herbei.  
+    - [[Serafin]]: Der Kleine, den wir suchen, hatte auch einen Butler. Er nannte ihn Sir Emmentaler.  
+    - [[Serafin]]: Wie sehr seid Ihr eigentlich in diese ganze Politik verstrickt?  
+    - [[Lord Henry]]: Ist das nicht eine ganz herrliche Sommernacht? Ich bin aus eigenem Interesse hier.  
+    - [[Serafin]]: Ihr gehört also weder zur Camarilla noch zu den Anarchen?  
+    - [[Lord Henry]]: Ich bin recht frei in dem, was ich tue. Und gerade sehne ich mich nach ein wenig Unterhaltung.  
+  - Ein alter Jaguar fährt vor. Der Butler öffnet Lord Henry die Tür, und Serafin darf mitfahren.  
+    - [[Lord Henry]]: Waren wir nicht einmal zu dritt?  
+    - [[Serafin]]: Ihr seid der Erste, der sich weder zur Camarilla noch zu den Anarchen bekennt. Das interessiert mich. Wie habt Ihr das möglich gemacht?  
+    - [[Lord Henry]]: Darüber möchte ich nicht sprechen, mein Bester.  
+    - [[Serafin]]: Ihr habt mir nun schon zweimal ausgeholfen.  
+  - Da klopft Nu ans Fenster.  
+    - [[Lord Henry]]: Da seid Ihr ja. Wir hatten Euch schon vermisst.  
+    - [[Numan Prince|Nu]]: Ich bin den anderen noch hinterhergelaufen, hab aber nix mehr rausgefunden.  
+    - Butler: Wohin darf es gehen, Mylord?  
+    - [[Lord Henry]]: In die Stadt. Zu Dr. Poxwell.  
+
+- **Ein Lord stellt sich vor**  
+  - Es klopft bei Gideon. Der Butler kündigt [[Lord Henry]] an, beide stellen sich vor, und Gideon führt den Gast ins Gästezimmer.  
+    - [[Lord Henry]]: Welch eine entzückende Dame.  
+    - [[Elowen]]: Ich bin Elowen, Sir.  
+    - [[Lord Henry]]: Ich kannte einmal eine Elowen. Aber die war bei Weitem nicht so hübsch wie Ihr. Sehr angenehm.  
+  - Der Butler wartet im Auto.  
+    - [[Lord Henry]]: Ich bin lediglich als Begleitung dieses Herrn hier.  
+    - [[Gideon Poxwell]]: Ich hoffe, deine Erledigungen sind erfolgreich abgeschlossen?  
+    - [[Serafin]]: Ich hätte Thijs treffen sollen. Er hat mich versetzt.  
+    - [[Gideon Poxwell]]: Wo habt ihr euren neuen Freund kennengelernt?  
+    - [[Serafin]]: Lord Henry hat uns auf dem Weg dorthin aufgesucht.  
+    - [[Lord Henry]]: Hier sind ja so viele Personen. In welchem Verhältnis stehen Sie denn zueinander?  
+  - Serafin stellt vor:  
+    - [[Serafin]]: Dr. Poxwell, Herr des Hauses, neu in unserer Gruppe.  
+    - [[Gideon Poxwell]]: Ha. Ich bin Teil der Gruppe.  
+    - [[Serafin]]: Numan Prince habt Ihr bereits kennengelernt. Haiku, Hecata. Und der Herr dort, ebenfalls Hecata. Und Sie kenne ich noch nicht.  
+    - [[Elowen]]: Elowen.  
+    - [[Lord Henry]]: Welch eine anregende Runde. Ich möchte mich keineswegs vordrängen, fahren Sie nur fort.  
+    - [[Gideon Poxwell]]: Weshalb sind Sie hier?  
+    - [[Lord Henry]]: Wissen Sie, wenn man so reich ist wie ich, wird es auf Dauer doch recht langweilig. Ich verspürte das Bedürfnis, nicht nur zu lenken, sondern mittendrin zu sein. Seit mehreren Wochen lese ich nun die Zeitung, und es geschehen spannende Dinge, die mich sehr interessieren und von denen ich mir selbst ein Bild machen möchte.  
+    - [[Serafin]]: Herr Dr. Poxwell, Lord Henry hat Flügel.  
+  - Gideon möchte sie sofort untersuchen.  
+    - [[Lord Henry]]: Es sind keine echten Flügel, mein Bester. Und selbst wenn sie es wären: Ich gedenke nicht, mich von einem Quacksalber betasten zu lassen, der womöglich noch ein Tremere ist.  
+    - [[Gideon Poxwell]]: Bedauerlich. Verstehe ich das richtig, dass Sie an unseren Unternehmungen teilnehmen möchten?  
+    - [[Serafin]]: Thijs fehlt noch.  
+    - [[Gideon Poxwell]]: Wo ist er euch denn abhandengekommen? Wir befinden uns gerade mitten in einer spannenden Untersuchung zu ALWA. Ich möchte zum Pennerbunker.  
+    - [[Lord Henry]]: Ich hörte, er sei eine Ratte gewesen.  
+    - [[Haiku]]: Dort wurde Blut vergossen. Die Polizei wird noch dort sein.  
+    - [[Gideon Poxwell]]: Ein besonders guter Grund, dafür zu sorgen, dass die Polizei nichts findet.  
+    - [[Serafin]]: Ich würde lieber einer frischen Spur folgen.  
+    - [[Gideon Poxwell]]: Wohin möchtet ihr denn?  
+    - [[Serafin]]: Zu Dianzus Wohnung.  
+  - Am Ende fahren alle zu ALWAs Pennerbunker.  
+
+- **Bücher, Bücher, Bücher**  
+  - Der Pennerbunker ist mit Flatterband abgesperrt, ein Polizist bewacht den Tatort.  
+  - Lord Henry geht zu ihm und sagt ihm mit **Beherrschen**, er solle Feierabend machen. Der Polizist macht Feierabend.  
+  - Alle sehen sich nach Kameras um.  
+    - [[Haiku]]: Viele Augen hier. Glasaugen.  
+  - Gideon ist entsetzt.  
+    - [[Numan Prince|Nu]]: Hat jemand 'nen EMP dabei?  
+    - [[Haiku]]: Ich habe Hunger.  
+  - Serafin gibt ihr seine letzte Weinflasche.  
+  - Dann macht jeder die Kameras auf seine Art unbrauchbar. Serafin durchtrennt von der Parkbank aus, wo er mit Lord Henry wartet, mit Wurfkarten die Kabel. Breaker packt einen Mast und biegt das Rohr mit **Stärke** um 180 Grad, sodass die Kamera in die Gegenrichtung schaut.  
+  - Gideon zieht eine Maske auf und verbirgt sich unter seinem Kittel. Er will als Erster im Bunker sein, sieht einen Weg und läuft los, bevor alle Kameras ausgeschaltet sind. Dabei geht sein Tier mit ihm durch: Er rennt mitten durchs Kamerabild direkt in den Bunker und packt ihn die nackte Panik.  
+  - Breaker folgt ihm. Gideon zieht die Tür hinter sich zu, Breaker öffnet sie wieder. Gideon hat sich in eine Ecke verkrochen.  
+    - [[Lord Henry]]: Würden Sie mich bitte hereinbitten?  
+    - [[Serafin]]: Es ist nicht mein Haus.  
+    - [[Lord Henry]]: Wem gehört es denn?  
+    - [[Serafin]]: Einem Toten.  
+  - Dann ist niemand mehr da, der ihm den Eintritt verwehren könnte. Lord Henry tritt ein.  
+    - [[Haiku]]: Hier hat man den Sohn von Giuseppe gefunden. [[Dominik Cox]].  
+    - [[Lord Henry]]: Und was suchen wir hier?  
+    - [[Gideon Poxwell]] (aus der Ecke): Ich bin gar nicht da.  
+    - [[Serafin]]: Sind wir fertig?  
+  - Gideon verschwindet. Lord Henry, Nu und Elowen durchsuchen den Bunker.  
+  - Elowen findet drei Bücher: ein „Necromanticum“, eine Geschichte der Adelsfamilien Transsilvaniens und eines über Koldunismus.  
+    - [[Lord Henry]]: Koldunismus. Ein Spezialgebiet der Meinen.  
+  - Er nimmt die Bücher an sich, und Elowen fällt auf, wie hastig er das tut.  
+  - Breaker zieht Gideon den Tisch weg, unter dem der sich verkrochen hat. Gideon rennt hinaus, kommt zurück, greift sich ein paar beliebige Medizinbücher und nimmt sie mit.  
+    - [[Haiku]]: Alles in Ordnung, Doktor?  
+    - [[Gideon Poxwell]]: Ich kann mir das nicht erklären. Bücher, Bücher, Bücher. Möglicherweise hat Lord Henry etwas gefunden.  
+  - Vor dem Pennerbunker:  
+    - [[Haiku]]: Hat irgendjemand etwas entdeckt, das kein Medizinbuch ist?  
+    - Alle (hüstelnd): Lord Henry.  
+    - [[Lord Henry]]: Ich habe Bücher gefunden, die nicht an diesen Ort gehören, und werde sie an einen Ort bringen, an den sie gehören.  
+    - [[Gideon Poxwell]]: Was für Bücher haben Sie gefunden?  
+    - [[Lord Henry]]: Es sind Bücher, die für die Augen meines Klans bestimmt sind.  
+    - [[Serafin]]: Dann hat ALWA sie wohl [[Voivod Tzareck]] gestohlen. ALWA hat ihn unter anderem bestohlen.  
+  - Das war in Nacht 3.  
+    - [[Lord Henry]]: Ich kannte ihn.  
+    - [[Serafin]]: Mein Beileid.  
+    - [[Numan Prince|Nu]]: Wen kannten Sie?  
+    - [[Lord Henry]]: Ich hätte nicht gedacht, dass es hier so spannend wird. Und was habt Ihr mit diesem ALWA noch zu schaffen?  
+  - Gideon, Serafin und Haiku wollen herausfinden, ob ALWA Giuseppe diableriert und Michael die Schuld zugeschoben hat.  
+    - [[Serafin]]: Wenn wir zu Dianzu wollen, müssen wir durch eine Gated Community.  
+
+- **Durchs Tor**  
+  - Alle fahren Richtung Dianzus Villa. Elowen fährt bei Lord Henry mit und mustert ihn die ganze Fahrt über. Nu tippt unterwegs etwas in sein Handy und schreibt jemandem.  
+  - In Hollywood steht eine Wache am Tor der Gated Community. Serafin redet sich durch. Der Butler zeigt etwas vor, und Lord Henry wird durchgewunken.  
+
+- **Dianzus Villa**  
+  - Dianzus Anwesen ist groß und prächtig: ein Bungalow mit vielen Glasfenstern, Pool und Garten. Einige der großen Fenster sind bereits zerbrochen.  
+  - Serafin will, dass Breaker die Tür mit seiner Kraft aufbricht.  
+    - [[Serafin]]: Gideon, würdest du nachsehen, ob die Türen verschlossen sind?  
+  - Antworten tut Gideon Poxwell.  
+    - [[Gideon Poxwell]]: Aber natürlich.  
+  - Er prüft: verschlossen. Durch eines der kaputten Fenster käme man ohnehin hinein, aber Nu klingelt erst einmal. Niemand macht auf. Also tippt er einen Code ein, und die Tür geht auf.  
+    - [[Gideon Poxwell]]: Wie hast du das gemacht?  
+    - [[Numan Prince|Nu]]: Ich hab in Mutters Notizen ein paar Daten gelesen und die ausprobiert.  
+    - [[Serafin]]: Welches Datum war es denn?  
+    - [[Numan Prince|Nu]]: Der 14.7.  
+  - Serafin erkennt Dianzus Geburtstag. Dass Nu ausgerechnet den kennt, kommt ihm merkwürdig vor.  
+    - [[Lord Henry]]: Gibt es einen Besitzer?  
+    - [[Numan Prince|Nu]]: Der ist leider verstorben.  
+    - [[Lord Henry]]: DIESER AUCH? Was um alles in der Welt tun wir hier eigentlich?  
+    - [[Serafin]]: Der wurde gesprengt.  
+    - [[Lord Henry]]: Oh, den mochte ich. Der war oft in der Zeitung.  
+    - [[Numan Prince|Nu]]: Traurige Zeiten. Mutter hat ihn gemocht.  
+  - Serafin macht sich eine Notiz.  
+  - Alle gehen hinein und sehen sich um. Lord Henry findet eine zerbrochene goldene Schallplatte. Das ist die, in die Gideon in Nacht 13 hineingebissen hat. Außerdem finden sie:  
+    - Demotapes über ALWA, mit verschiedenen Arbeitstiteln,  
+    - einen Notizblock,  
+    - einen Lageplan des Studios,  
+    - Schweineblut, von dem Nu direkt trinkt.  
+
+- **Hubba Bubba**  
+  - Ein Auto fährt vor, und [[Hubbabubba|Hubba Bubba]] kommt zur Tür herein.  
+    - [[Numan Prince|Nu]]: Hey Bubba, was geht? Bin großer Fan, kein Witz. Deine Hooks gehen rein wie ein Blitz.  
+    - [[Hubbabubba|Hubba Bubba]]: Ah, Sie wurden mir angekündigt, der Boss wollte Sie unter Vertrag nehmen.  
+  - Dann fällt sein Blick auf Lord Henry. Er hat einen Zipfel der Flügel erhascht.  
+    - [[Hubbabubba|Hubba Bubba]]: Und Sie da, proben Sie für 'nen Horrorfilm? Was machen Sie alle hier?  
+    - [[Numan Prince|Nu]]: Dein Boss hatte doch was mit ALWA zu tun.  
+    - [[Hubbabubba|Hubba Bubba]]: Ja. Mit dem hier.  
+  - Er lässt den Disstrack laufen.  
+    - [[Numan Prince|Nu]]: Meine Mutter war gut mit Dianzu, er hat ihr geholfen. Und die hier wollen rausfinden, was mit ALWA und mit Dianzu passiert ist.  
+  - Hubba wird allen vorgestellt und flirtet mit Elowen. Er erwähnt, dass oben auf dem Schrank etwas Gutes zu trinken steht, und kippt einen Schnaps. Sofort fängt er an, Blut zu kotzen.  
+  - Gideon untersucht ihn: kein Herzschlag.  
+    - [[Lord Henry]]: Willkommen in einer anderen Welt, junger Mann.  
+    - [[Numan Prince|Nu]]: Brauchst du was zu trinken?  
+  - Hubba trinkt von Nu.  
+    - [[Gideon Poxwell]]: Dürfte ich vielleicht auch einmal kosten?  
+  - Nu will nett sein und lässt ihn.  
+  - Serafin stiehlt derweil im Keller Wein.  
+    - [[Hubbabubba|Hubba Bubba]]: So wie ihr reagiert … seid ihr alle von Geblüt?  
+    - [[Numan Prince|Nu]]: Ja.  
+    - [[Hubbabubba|Hubba Bubba]]: Ja, gut, also, ich bin noch ganz frisch.  
+    - [[Numan Prince|Nu]]: Wer ist denn dein Vater?  
+    - [[Hubbabubba|Hubba Bubba]]: Ist nicht so wichtig.  
+    - [[Numan Prince|Nu]]: Ist es nicht Dianzu?  
+    - [[Hubbabubba|Hubba Bubba]]: Nö. Wenn's nix Wichtiges mehr gibt, muss ich wieder.  
+    - [[Lord Henry]]: Erzähl uns doch, was du uns noch nicht erzählt hast.  
+    - [[Hubbabubba|Hubba Bubba]]: Ja, also, ähm, gut. Wir können uns ja vertrauen. Wir zählen bis drei, und jeder sagt seinen Erzeuger. Eins, zwei, drei: Lexy.  
+  - Außer ihm sagt niemand etwas.  
+    - [[Numan Prince|Nu]]: Lexy? Ach nein. Oh, das find ich interessant. Cool zu wissen.  
+    - [[Haiku]]: Dann wirst du uns ja alles sagen, was es hier noch zu finden gibt.  
+    - [[Numan Prince|Nu]]: Hilfst du uns, die Sache mit ALWA zu untersuchen? Gibt's hier noch Hinweise?  
+    - [[Hubbabubba|Hubba Bubba]]: Ja, also … wir haben lange darüber geredet, er und ich. Die waren ja Freunde, ALWA und er. Er hat echt damit gehadert. Aber irgendwann hat er gemerkt, dass ALWA ihn nur ausnutzt und hintergeht. Das ging ihm richtig nah. Wisst ihr, was beim Konzert wirklich passiert ist? Dass er da gar nicht richtig erschossen wurde? Und dann kamen diese Security-Leute, die Giovanni heißen. Und ich bin ehrlich gesagt froh, dass Lexy das mit mir gemacht hat, meine ganze Hand war gebrochen, die konnte ich nicht mehr bewegen. Und sonst … keine Ahnung. Ich fühl mich grad wie auf'm heißen Stuhl. Kann nicht mal jemand anders was erzählen? Du siehst doch ganz nett aus, Elowen.  
+    - [[Elowen]]: Äh, ich bin noch ganz neu.  
+    - [[Hubbabubba|Hubba Bubba]]: Vielleicht dann deine Telefonnummer?  
+    - [[Numan Prince|Nu]]: Hat Dianzu dir erzählt, warum er ALWA umgebracht hat?  
+    - [[Hubbabubba|Hubba Bubba]]: Ja. ALWA hatte ihn verraten, das zuerst mal. Und trotzdem hat er gehadert, der hatte richtig ein schlechtes Gewissen. So wie ich's verstanden hab, wurde er gezwungen. Die Bahari haben ihn in so 'nen Wald verschleppt, da lag ALWA aufgebahrt für ein Ritual, und sie haben gesagt: Du tötest ihn für seine Sünden. ALWA war da eh schon verloren, verstehst du? Es hieß, er oder ich. Und ALWA hatte ihm ja selbst schon übel mitgespielt. Er fand's nicht gut. Aber er musste es halt machen.  
+    - [[Serafin]]: Wer sind die Bahari?  
+    - [[Hubbabubba|Hubba Bubba]]: Irgend so ein komischer Kult. Die beten irgendwen an. Da waren so Leute dabei, der Wikinger, eine namens Rita, eine Klaudia, ein George, so 'n Wolfsmensch oder Werwolf oder so, und so ein hässlicher Rattenmensch. Und dann mussten ALWAs Viecher gegeneinander kämpfen, so 'n Gorilla und 'ne Ratte. Und danach musste er ALWA leertrinken, und die haben seine Leiche verbrannt. Ich war nicht dabei, ich kenn das nur, wie er's erzählt hat. Er musste sich das von der Seele reden, ALWA war ja irgendwie sein Freund. Stell dir das mal vor. Und dann noch das mit dem Anschlag. Und irgendwas mit 'ner Blutbank, und Tote, und Polizei.  
+  - Das Ritual war in Nacht 12, das Konzert in Nacht 13.  
+    - [[Numan Prince|Nu]]: Und Dianzu stand da einfach so vor Gericht?  
+    - [[Lord Henry]]: Dir ist bewusst, dass du in großer Gefahr schwebst, mein Junge?  
+    - [[Serafin]]: Glaubst du, wir haben vorhin diesen Wolfsmann getroffen?  
+    - [[Numan Prince|Nu]]: Warum ist er in Gefahr?  
+    - [[Lord Henry]]: Wenn er nicht vergisst, was er eben erzählt hat, ist er gefährdet.  
+    - [[Numan Prince|Nu]]: Mir kannst du zumindest vertrauen.  
+  - Bubba gibt Nu seine Karte.  
+    - [[Lord Henry]]: Wenn du an die falschen Leute gerätst …  
+    - [[Hubbabubba|Hubba Bubba]]: Es gibt ja so zwei Gruppen. Die Camarilla und die Anarchen.  
+    - [[Serafin]]: Das Gute ist, die sind gerade beide damit beschäftigt, sich gegenseitig auseinanderzunehmen.  
+    - [[Hubbabubba|Hubba Bubba]]: Können wir dann wenigstens noch einen smoken?  
+  - Er macht sein Feuerzeug an. Beim Anblick der Flamme packt ihn die Panik vor dem Feuer (Rötschreck): Er lässt es fallen und rennt weg. Der Teppich fängt Feuer. Serafin löscht ihn rechtzeitig.  
+  - Nu fängt Bubba ein, bevor er Aufsehen erregt.  
+    - [[Numan Prince|Nu]]: Hey Bubba. Mutter hat mir aufgetragen, auf Dianzus Kinder aufzupassen. Du bist nicht direkt sein Kind, aber ich pass auf dich auf und nehm dich unter meine Fittiche.  
+
+- **Schüsse aus dem Vorbeifahren**  
+  - Motorräder fahren vor. Breaker nimmt die Schnapsflasche vom Schrank. Nu und Elowen ahnen beide (**Auspex**), dass gleich geschossen wird, und dann geht es auch schon los. Gideon wird leicht getroffen, Haiku schwer.  
+  - Die Motorräder rasen davon. Auf den Jacken sind Schlangensymbole, dieselben wie bei den Bikern in Gideons Praxis in Nacht 15: die [[Iron Serpents]].  
+  - Breaker wirft ihnen die Schnapsflasche hinterher. Sie fliegt unglaublich weit und holt die Davonfahrenden fast ein, schlägt aber erst gut zweihundert Meter entfernt auf, ohne zu treffen.  
+
+- **Sieben Biker**  
+  - Die Nacht ist nebelverhangen. Lord Henry verabschiedet sich.  
+    - [[Lord Henry]]: Meine Herren, die Pflicht ruft. Ich muss aufbrechen.  
+  - Er breitet seine Flügel aus, steigt auf und ist binnen Sekunden im Nebel verschwunden.  
+  - Gideon rennt ins Haus, Breaker und Serafin gehen in den Keller. Auch die anderen verziehen sich ins Haus.  
+  - Die Motorradfahrer kommen zurück und parken neben dem Haus. Etwa sieben Biker kommen bewaffnet herein.  
+    - Biker: Kommt raus, ihr kleinen Huren!  
+    - [[Gideon Poxwell]]: Was wollt ihr?  
+    - Biker: Wir wollen nur reden.  
+    - [[Gideon Poxwell]]: Eure Taten strafen euch Lügen.  
+  - Etwas schlägt auf, man hört Gerangel. Serafin zieht eine Anonymous-Maske aus seinem Zauberhut und setzt sie auf. Gideon holt eine Dr.-House-Maske aus seiner Tasche, eine der Tarnmasken aus Tobis Karton.  
+  - Gideon späht die Treppe hinauf und sieht jemanden in Lederjacke. Oben wird hitzig diskutiert.  
+    - Biker: Blake, du dreckige Camhure, geh aus dem Weg! Wir haben gar kein Problem mit dir. Vielleicht die Tage mal. Geh aus dem Weg, das dauert auch nicht lange.  
+    - [[Carter Blake]]: Nein. Das hier ist mein Gebiet, und ich als Primogen eures Klans befehle euch, zu verschwinden.  
+    - Biker: Dreckige Camhure! Die nutzen dich doch nur aus. Du bist 'ne Schande für deinen Erzeuger!  
+  - Noch mehr Gepöbel, eine kurze Rangelei. Ein dumpfes Klatschen, einer der Biker geht zu Boden. Dann Ruhe.  
+    - [[Carter Blake]]: Wir sind alle von einem Klan, das muss nicht eskalieren. Ich weiß, ihr habt Probleme mit der Cam. Aber ich sage euch: Man kann die Strukturen nur von innen verändern. [[Rusty]], bei dir habe ich noch einen Gefallen gut, du erinnerst dich. Verschwindet von hier. Für diese Nacht keine weiteren Kampfhandlungen. Ich bin guter Dinge, dass wir morgen alles geklärt bekommen. Es wäre sinnlos, hier Brujah-Blut zu vergießen.  
+    - [[Rusty]]: Ah, morgen. Da wählen sie deinen neuen Meister? Welcher Ventrue wird's denn diesmal? Für heute ziehen wir uns aus Hollywood zurück.  
+  - Die Motorräder fahren ab.  
+
+- **Carter Blakes Bitte**  
+    - [[Carter Blake]]: Ich glaube, die Luft ist rein. Ihr könnt rauskommen.  
+    - [[Gideon Poxwell]]: Wir wurden einander noch nicht vorgestellt. Ich bin Gideon Poxwell.  
+    - [[Carter Blake]]: Entschuldigt meinesgleichen. Ihr kennt das Temperament, unser Blut gerät etwas leichter in Wallung. Wenn ich das richtig deute, seid ihr Teil der Camarilla, oder arbeitet für sie.  
+    - [[Gideon Poxwell]]: In der Tat.  
+    - [[Carter Blake]]: Ich bin selbst ein Kritiker. Wir brauchen junges Blut wie euch. Falls ihr es noch nicht wisst: Morgen wird ein Interimsprinz gewählt. Die Chancen, dass ihr ein Stimmrecht habt, sind zwar äußerst gering. Trotzdem ist es gut, wenn auch die Jüngeren der Gesellschaft der Nacht ihre Aufwartung machen und wir das nicht den Alten, Eingestaubten und dem Klan der Blaublütigen überlassen. Wer weiß, vielleicht steht ja der neue Prinz vor euch. Ich glaube es zwar nicht.  
+    - [[Carter Blake]]: Schließt euch früh zusammen, ihr Jungen. Bildet Coterien. Allein seid ihr Futter für die Älteren, gemeinsam haltet ihr sie in Schach. Und glaubt nicht, man müsse alles einreißen wie die Anarchen und dann im Vakuum etwas Neues bauen. Man kann die Camarilla von innen reformieren.  
+    - [[Carter Blake]]: Die Gründung der Camarilla war im Grunde gut gedacht, nur falsch umgesetzt. Denkt an die Gründung dieses Landes: ein Ort, an dem jeder gleich ist und die gleichen Möglichkeiten hat. Nimmt man diesen Freiheitsgedanken, den amerikanischen Traum, und verbindet ihn mit dem, was die Camarilla ursprünglich sein sollte, dann hat man das, worauf ich hinarbeite.  
+    - [[Carter Blake]]: Sitzt wieder ein Ventrue auf dem Thron, halte ich es für nahezu ausgeschlossen, dass wir den Krieg noch abwenden. Ich vertrete den Klan, der unter den Anarchen am weitesten verbreitet ist. Außerdem gilt mein Erzeuger, Nines, weithin als Anführer der Anarchen und genießt hohes Ansehen. Unser Verhältnis ist gerade etwas angespannt, das gebe ich zu. Aber vielleicht hat ja jemand den Schneid, mich vorzuschlagen, als Signal an die Anarchen, dass auch die niederen Klans Gehör finden.  
+    - [[Carter Blake]]: Ich weiß, gerade für die Jüngeren braucht das Mut. Aber wenn einer von euch es wagt, meinen Namen in den Ring zu werfen, wäre ich sehr dankbar und würde mich erkenntlich zeigen. Machen wir uns nichts vor: Ich gehe davon aus, dass der nächste Prinz Voerman heißen wird. Aber wenn die Anarchen sehen, dass auch einer der Ihren eine Chance hat … Darum bitte ich euch: Erscheint morgen im Elysium und nennt meinen Namen.  
+    - [[Gideon Poxwell]]: Ein äußerst gefährliches Angebot, das Sie da unterbreiten.  
+    - [[Carter Blake]]: Gefährlich? Von welcher Gefahr sprecht Ihr genau?  
+    - [[Gideon Poxwell]]: Ich habe noch kein besonderes Ansehen, werde aber bereits von der Camarilla bedrängt.  
+    - [[Carter Blake]]: Gehen die Repressalien von der Camarilla aus?  
+    - [[Gideon Poxwell]]: Ja.  
+    - [[Carter Blake]]: Dann ist es umso wichtiger, das Joch der Unterdrückung von innen zu zerschlagen.  
+    - [[Serafin]]: Dass Nines Euer Vater ist, macht es sehr schwierig.  
+    - [[Carter Blake]]: Das ist korrekt. Aber ich habe es geschafft, als Angehöriger eines Klans, der der Camarilla fremd ist, als Primogen anerkannt zu werden.  
+    - [[Serafin]]: Wenn Ihr tatsächlich Ambitionen auf den Prinzentitel habt, wird man Euch bestimmt ein Blutband vorwerfen.  
+    - [[Carter Blake]]: Einem Prinzen das vorzuwerfen, gilt gemeinhin als tödlich. Eine Prüfung vor oder nach der Wahl könnte aber stattfinden. Sie einzufordern kostet Schneid. Doch wenn herauskommt, dass man nicht der Einzige ist, der so denkt, kann das einiges an Ansehen bringen. Wenn euch das beschäftigt, fasst euch ein Herz und fordert, dass die Blutsbande von unabhängiger Stelle geprüft werden.  
+    - [[Carter Blake]]: Ich würde mich gern weiter mit euch unterhalten, aber ich gehe davon aus, dass bald die Sicherheitskräfte eintreffen.  
+    - [[Gideon Poxwell]]: Wie kann man Sie erreichen?  
+  - Blake hält einen QR-Code hoch.  
+    - [[Serafin]]: Wo findet das Ereignis statt?  
+  - Blake nennt die Adresse. Nu winkt und fotografiert den QR-Code.  
+    - [[Carter Blake]]: Wenn ich richtig informiert bin, sind auch diplomatische Kontakte anwesend. Auch diese sind herzlich eingeladen. Vor unseren Freunden von den Hecata haben wir keine Geheimnisse.  
+  - Dann springt Blake davon.  
+
+- **Die erste Tür rechts**  
+  - Gideon geht in den Keller, erste Tür rechts. Bei Dianzu ist das seit jeher die Tür, hinter die man besser nicht schaut.  
+    - [[Gideon Breaker|Breaker]]: Verzeihung. Mir wurde kürzlich mitgeteilt: Türen eintreten unerwünscht.  
+    - [[Hubbabubba|Hubba Bubba]]: Hey, ihr müsst schleunigst weg! Und ich hab doch gesagt, ihr wollt nicht wissen, was hinter der Tür ist.  
+    - [[Gideon Poxwell]]: Ausnahmsweise darfst du mir bei dieser Tür behilflich sein.  
+  - Gideon tritt noch einmal dagegen, bekommt sie aber nicht auf. Breaker öffnet sie mühelos und bricht dabei die Klinke ab.  
+  - Dahinter liegt ein Spielzimmer der eindeutigen Sorte. Gideon durchsucht es zwei Minuten lang nach brauchbaren Instrumenten. Erst später fällt ihm auf, dass die vermeintlichen Arztutensilien eher für Doktorspiele gedacht sind.  
+
+- **Zeugen**  
+  - Wegen der Schüsse ist inzwischen die Polizei da. Serafin und Gideon gehen hinten hinaus und werden unabhängig voneinander kontrolliert.  
+    - Polizist: Entschuldigung, haben Sie vor ein paar Minuten gesehen, was hier passiert ist?  
+    - [[Officer Thompkins]]: Zeugenaufnahme. Dürfte ich kurz Ihre Personalien haben?  
+  - Serafin nennt einen falschen Namen und gibt an, hier in der Nachbarschaft zu wohnen.  
+    - [[Officer Thompkins|Thompkins]]: Haben Sie etwas gesehen?  
+    - [[Serafin]]: Ja. Motorradfahrer.  
+    - [[Officer Thompkins|Thompkins]]: Hatten die einen Aufnäher auf der Jacke?  
+  - Serafin beschreibt den Aufnäher und hinterlässt eine Telefonnummer, die nicht seine ist.  
+    - [[Officer Thompkins|Thompkins]]: Wunderbar, danke schön. Wir kommen morgen auf Sie zu.  
+  - Ein anderer Polizist hält Gideon an.  
+    - Polizist: Was sind Sie denn noch so spät unterwegs?  
+  - Gideon tut so, als nehme er Kopfhörer aus den Ohren.  
+    - [[Gideon Poxwell]]: Wie bitte?  
+    - Polizist: Wir brauchen Ihre Kontaktdaten.  
+    - [[Gideon Poxwell]]: Gregory House. Ich bin Privatarzt und betreue einen Klienten ein paar Häuser weiter. Termine bitte über mein Sekretariat.  
+  - Er nennt eine Nummer, unter der ihn garantiert niemand erreicht.  
+    - Polizist: Gehen Sie jetzt ins Bett? Dann kommen wir morgen auf Sie zu.  
+    - [[Gideon Poxwell]]: Ja, ich bitte darum.  
+  - Gideon flaniert weiter.  
+
+- **Eine Nachricht vom Primogen**  
+  - Jemand klopft Gideon auf die Schulter. Es ist Nu.  
+    - [[Numan Prince|Nu]]: Ich hab grad von meinem Primogen so 'ne Nachricht gekriegt. Ich glaub, die ist für dich. Hier steht: „Bei dir kommt morgen tagsüber die Inquisition vorbei. Wenn du ihr zuvorkommen willst: Sie haben ihre Basis in einer Lagerhalle an diesen GPS-Koordinaten.“ Die Inquisition, sind das die mit den Hexen und dem Scheiterhaufen und so?  
+    - [[Gideon Poxwell]]: Ungefähr, ja.  
+    - [[Numan Prince|Nu]]: Und hier steht noch: In deiner Praxis liegt irgendwo ein Brief, wie du dich für die Warnung erkenntlich zeigen kannst. Wenn du dich daran hältst, gibt's wohl keine negativen Konsequenzen für dich. Du sollst ihn lesen und danach vernichten.  
+    - [[Numan Prince|Nu]]: Sollen wir die anderen suchen?  
+    - [[Gideon Poxwell]]: Das wäre in dieser Situation angebracht.  
+    - [[Numan Prince|Nu]]: Und wie finden wir die jetzt?  
+
+- **Telefonate**  
+  - Serafin wird angerufen.  
+    - Sekretariat: Hallo, hier das Sekretariat von Frau Voerman. Sie möchte sich noch heute mit Ihnen treffen, wegen eines Anwesens.  
+    - [[Serafin]]: Ja, ich habe noch Zeit. Am besten sofort.  
+    - Sekretariat: In zwanzig Minuten hätte sie für eine Viertelstunde Zeit. Ich schicke Ihnen einen Fahrer.  
+  - Serafin nennt seinen Standort.  
+  - Gideon ruft Serafin an.  
+    - [[Gideon Poxwell]]: Es gibt da ein paar Geistliche, um die wir uns kümmern müssten.  
+    - [[Serafin]]: Ja, aber ich habe jetzt einen Termin, eine halbe Stunde.  
+    - [[Gideon Poxwell]]: Perfekt. Dann treffen wir uns danach dort.  
+  - Er nennt den Treffpunkt. Serafin lässt sich zu seinem Termin mit [[Therese Voerman]] fahren.  
+  - Gideon ruft Thijs an, der ist nicht erreichbar. Also ruft er [[Rita]] an.  
+    - [[Gideon Poxwell]]: Hallo. Ich habe gehört, ein kleiner Freund könnte sich bei euch aufhalten. Seine Hilfe könnte ich an diesen Koordinaten gut gebrauchen, bei einem kleinen religiösen Problem. Außerdem habe ich von Lexys Nachkommen so einiges erfahren. Ich glaube, der Gefallen, den du mir schuldest, ist größer als gedacht.  
+  - Mit dem kleinen Freund meint er Thijs.  
+  - Dann ruft Gideon Haiku an. Sie steht direkt hinter ihm, es gibt eine gewaltige Rückkopplung. Gideons Handy fällt herunter und bekommt einen Sprung. Breaker ist auch da.  
+    - [[Gideon Poxwell]]: Habt ihr mitbekommen, was Nu erzählt hat?  
+    - [[Haiku]]: Ja.  
+    - [[Gideon Poxwell]]: Die Inquisition ist ziemlich gut darin, Informationen zu sammeln. Möglicherweise weiß sie mehr über ALWA.  
+    - [[Haiku]]: Ich gehe nicht freiwillig ins Feuer.  
+    - [[Gideon Poxwell]]: Ich auch nicht.  
+  - Elowen ist die ganze Zeit mit **Verdunkelung** neben ihnen hergegangen. Sichtbar wird sie erst, als sie lautlos auf das Handy tritt und ihren spitzen, schmalen Absatz mitten hineintreibt. Seitdem fehlt dem Handy die Leertaste. Gideon hebt es auf.  
+    - [[Gideon Poxwell]]: Dann sind wir uns ja einig: Wir müssen zu diesen Koordinaten.  
+    - [[Haiku]]: Ich will nichts wissen, was die Inquisition weiß.  
+    - [[Gideon Breaker|Breaker]]: Ich komme mit.  
+  - Haiku kommt widerwillig mit.  
+
+- **Die Lagerhalle**  
+  - Die Gegend ist heruntergekommen, die Lagerhalle hat drei Zugänge: vorne, hinten und über das Dach.  
+  - Gideon fragt einen Drogendealer und einen Obdachlosen aus, erfährt aber nichts.  
+  - Haiku fängt eine Ratte und trinkt sie aus. Dann geht sie zu dem Obdachlosen.  
+    - Obdachloser: Die spenden gutes Essen. Aber da drin? Da würd ich nicht reingehen.  
+  - Gideon ruft Elowen an, die inzwischen wieder ihrer eigenen Wege gegangen ist.  
+    - [[Gideon Poxwell]]: Wir haben ein kleines Problem. Könntest du zu diesen Koordinaten kommen?  
+  - Ein weißer Van fährt vor, und ein Priester steigt aus. Er verteilt Tüten mit Essen an die Bettler.  
+  - Gideon ruft Serafin an, aber der geht nicht ran.  
+
+- **Brennende Schwerter**  
+  - Acht Männer stürmen aus der Halle. Sie tragen Rüstungen wie moderne Kreuzritter, im Kern noch das alte Vorbild, aber mit zeitgemäßen Elementen. Ihre Schwerter brennen, und auf jedem ihrer Schilde prangt dasselbe Zeichen, ein rotes Tatzenkreuz.  
+    - Templer: Weiche, Ausgeburt der Hölle!  
+  - Beim Anblick der Flammen gehen Gideon, Haiku und Breaker durch und fliehen in Panik. Breaker rennt mit **Stärke** einfach durch eine Hauswand, Haiku hinterher durch das Loch. Aus der Richtung, in die sie fliehen, kommt ein Knall.  
+  - Einer der Templer bricht getroffen zusammen. Die anderen bilden einen Schildwall und ziehen ihn Richtung Lagerhaus zurück.  
+    - Templer: Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir!  
+  - Gideon fängt sich, versucht einen Schild wegzutreten und wird von einem Flammenschwert getroffen. Er tritt noch einmal zu.  
+  - Dann wirft er einen Dildo vor die Tür, ein Mitbringsel aus Dianzus Spielzimmer, und geht lachend und grinsend langsam zurück.  
+  - Breaker ist wieder da und tritt gegen einen Schild (**Stärke**). Der Templer verliert Schild und Rüstung und ist schwer verletzt, sein Nebenmann wird mitgerissen.  
+    - Templer: Ich verbanne dich in die Finsternis, aus der du gekrochen bist!  
+  - Haiku versucht, einem Ritter in die Augen zu greifen, und wird dabei verletzt.  
+  - Serafin, inzwischen von seinem Termin zurück, wirft Karten und verletzt einen Templer.  
+  - Elowen ist ebenfalls da. Eine Vorahnung (**Auspex**) zeigt ihr den Schützen, und sie erhascht einen Blick auf ihn: Er ist sehr hässlich.  
+  - Gideon ruft den Templern etwas zu und hält Abstand. Breaker schlägt gegen den nächsten Schild. Elowen beobachtet das Geschehen. Haiku weicht ein Stück zurück.  
+    - Templer: Der Herr ist mein Licht und mein Heil; vor wem sollte ich mich fürchten?  
+  - Serafin wirft wieder: Eine Metallkarte fährt einem Templer durch den Sehschlitz des Helms. Breaker zertrümmert einen weiteren Schild samt Rüstung, und auch dieser Templer ist schwer verletzt.  
+
+- **„Buh!“**  
+  - Plötzlich taucht Nu hinter der Formation auf. Er war die ganze Zeit verdunkelt dabei.  
+    - [[Numan Prince|Nu]]: BUH!  
+  - Er setzt **Präsenz** ein (Dread Gaze). Gideon, Haiku, Serafin und sämtliche Templer rennen in Panik Richtung Schütze davon. Die Vampire fangen sich kurz darauf wieder und kämpfen weiter.  
+  - Haiku greift nach einem Templer und zerreißt ihm den Umhang.  
+  - Gideon schlägt zweimal auf einen Templer ein und verletzt ihn, aber nicht tödlich.  
+  - Breaker und Serafin heben Flammenschwerter auf.  
+  - Elowen und Haiku stellen einem Templer jeweils ein Bein, und er stürzt.  
+    - Templer: Deus vult!  
+  - Serafin trifft mit einer Karte einen Templer am Schwertarm. Dann untersucht er eines der Schwerter und findet keine Peilsender.  
+  - Gideon fragt einen Templer, ob er lieber sterben oder Vampir werden möchte. Der greift ihn an und verletzt ihn schwer.  
+  - Breaker und ein Templer verwunden sich gegenseitig.  
+
+- **Dreißig Sekunden**  
+  - Der Schütze kommt auf die Gruppe zugelaufen, ein schweres Gewehr über der Schulter und einen Koffer in der Hand.  
+    - Schütze: Ihr habt dreißig Sekunden.  
+  - Er wirft den Koffer ins Lagerhaus. Alle flüchten, dann geht die Bombe hoch und reißt mit, was von den Templern noch drin oder zu nah dran war.  
+  - Zwei Templer überleben. Gideon bespricht mit Nu, dass jeder von ihnen einen davon mitnimmt, in Gideons Keller.  
+
+- **Gefangene im Keller**  
+  - In Gideons Praxis werden die beiden Templer gut festgeschnürt. Gideon verarztet sie so, dass sie die nächsten vierundzwanzig Stunden überleben.  
+  - Gideon findet den Brief, liest ihn und löst ihn danach in Säure auf.  
+  - Alle sehen sich nach Verdunkelten um.  
+  - Gideon weckt den ersten Templer.  
+    - [[Gideon Poxwell]]: Ich habe vier Fragen. Beantworten Sie sie freiwillig, werde ich Sie nicht zu einem Vampir machen.  
+    - [[Numan Prince|Nu]]: Bitte, antworte doch ehrlich.  
+  - Der Templer schweigt. Gideon droht ihm, ihn zu ghulen, dann foltert er ihn. Der Templer bleibt stumm, und Gideon legt ihn wieder schlafen.  
+  - Dann weckt er den zweiten.  
+    - Templer: Nein, nein, neeein! Ich will hier weg!  
+  - Gideon beruhigt ihn mit einem Sedativum. Der Templer fängt wieder an zu beten.  
+    - [[Numan Prince|Nu]]: Was wolltet ihr von Gideon?  
+    - Templer: Gott wird dich richten, Gott wird dich strafen! Feuer und Schwefel wird er über dich regnen lassen! Ich fürchte mich nicht vor euch!  
+  - Nu hakt energisch nach, und wieder strahlt seine **Präsenz** (Dread Gaze) auf jeden ab, der ihn sieht. Gideon gerät in Panik und rennt hinaus, Haiku ebenso. Breaker bleibt. Der Templer zittert und betet.  
+  - Nu legt dem Templer eine Transfusion mit seinem eigenen Blut.  
+  - Gideon kommt zurück. Um die Einstichstelle findet er nekrotisierendes Gewebe und ist hochinteressiert.  
+    - [[Numan Prince|Nu]]: Was wolltet ihr von Gideon?  
+    - Templer: Wir wollten euch alle in die Hölle schicken. Und du wirst vorangehen.  
+    - [[Numan Prince|Nu]]: Woher wusstet ihr von Gideon?  
+    - Templer: Gottes Wege sind unergründlich. Durch Zufall sind wir auf dieses Monster aufmerksam geworden. Wir werden dich in die Hölle schicken.  
+    - [[Gideon Poxwell]]: Durch welchen Zufall sind Sie auf mich aufmerksam geworden?  
+  - Der Templer spuckt ihm ins Gesicht.  
+  - Nu möchte etwas trinken, und Gideon holt billiges Blut.  
+    - [[Numan Prince|Nu]]: Wie seid ihr auf diesen Zufall gekommen?  
+    - Templer: Gottes Wege sind unergründlich. Ich weiß es nicht. Einer der Unseren hat zufällig Informationen bekommen. Ihr dreckigen Schweine, ihr werdet in der Hölle brennen!  
+    - [[Numan Prince|Nu]]: Wer außer euch Templern weiß noch von Gideon?  
+    - Templer: Der Orden weiß Bescheid. Ich biete euch jetzt an: Lasst uns gehen, und vielleicht ist der Herr euch gnädig.  
+    - [[Gideon Breaker|Breaker]]: Frage: Wie funktioniert das Schwert?  
+    - Templer: Fahr zur Hölle.  
+    - [[Haiku]]: Kannst du mir den Weg zur Hölle zeigen?  
+    - Templer: Bind mich los, und ich schicke dich persönlich hin.  
+    - [[Haiku]]: Dann spann dich vor meine Kutsche wie ein Pferd. Du fährst ja ohnehin zur Hölle.  
+    - [[Numan Prince|Nu]]: Sag „Heil Satan“.  
+    - Templer: Bind mich los, und ich schicke dich zu ihm.  
+    - [[Haiku]]: Sag „Heil Satan“.  
+    - Templer: Fahr zur Hölle.  
+  - Gideon stellt den Templer ruhig.  
+    - [[Gideon Poxwell]]: Nu, ghulst du öfter mal jemanden?  
+    - [[Numan Prince|Nu]]: Der wollte nicht reden. War ein Versuch, ihn zum Reden zu bringen.  
+    - [[Gideon Poxwell]]: Ich verstehe, dass wir ihn befragen müssen. Aber Ghulen ist keine Lösung.  
+    - [[Numan Prince|Nu]]: Mach bitte 'ne Probe von der Einstichstelle. Ich hab offenbar 'ne untypische Krankheit und will der auf den Grund gehen, weil ich nicht weiß, woher.  
+  - Gideon nimmt die Probe.  
+    - [[Gideon Poxwell]]: Sehr interessant. Darüber müssen wir noch ausgiebig sprechen. Ich selbst habe in meinem Leben mit Krankheiten gekämpft.  
+
+- **Unter vier Augen**  
+  - Gideon bittet alle, den Raum zu verlassen. Er möchte mit seinem Patienten allein sprechen. Haiku geht hinaus und schleicht verdunkelt gleich wieder herein, wird aber sofort entdeckt und erneut hinausgescheucht. Gideon schließt die Tür und sperrt ab. Dahinter poltert es.  
+  - Was Gideon und Nu hinter der Tür besprechen und tun, bleibt zwischen den beiden.  
+
+- **Ein neuer Blutstein**  
+  - Zum Schluss stellt Gideon in einem Ritual (**Blutmagie**) einen neuen [[Blutstein]] her, damit er wieder einen in Reserve hat.  

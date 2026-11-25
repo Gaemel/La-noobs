@@ -35,14 +35,18 @@
   - [[Dianzu]] gibt [[Thijs]] von seinem Blut. [[Thijs]] nutzt dabei seine Caitiff-Begabung, sich aus dem Blut eines Kindred eine von dessen Disziplinen zu leihen — und merkt dadurch zwangsläufig, was [[Dianzu]] überhaupt beherrscht. Zwischen der Präsenz, die er erwartet hat, findet er **Verdunkelung**, die weder zu [[Dianzu]] noch zu dessen Klan passt. Er trägt sie aus dem Zug selbst davon, und nicht nur angerissen.  
   - [[Gideon Poxwell]] beobachtet das mit unverhohlenem Interesse und würde es gern ebenfalls probieren.  
 
-- **Unter vier Augen**  
-  - [[Dianzu]] bittet [[Einar]] um ein Gespräch unter vier Augen; die beiden gehen nach unten. Was dort besprochen wird, bleibt zwischen ihnen.  
-  - Im Anschluss ruft [[Dianzu]] [[Lexy Sexy]] an und fragt, ob sich ein Double oder ein Hologramm auf die Bühne stellen ließe, während er selbst dahinter singt.  
-  - [[Thijs]] verlässt in dieser Zeit die Wohnung. [[Gideon Poxwell]] fällt es auf und fragt, was los sei. [[Thijs]] sagt nur, er sei sich nicht sicher, wolle damit aber nichts zu tun haben, und rät ihm, ebenfalls zu gehen. [[Gideon Poxwell]] bleibt.  
+- **Unter vier Augen — und ein Mithörer**  
+  - [[Dianzu]] bittet [[Einar]] um ein Gespräch unter vier Augen; die beiden gehen nach unten. [[Thijs]] folgt ihnen unbemerkt.  
+  - [[Einar]] kommt auf die Gedächtnislücken zurück. [[Dianzu]] gesteht, dass er **ihn** seither hören kann — eine Präsenz im Kopf — und nicht immer Herr seiner selbst ist. Es sind Phasen, in denen [[ALWA]] kurz übernimmt.  
+  - [[Einar]] bestätigt ihm, dass es sich um eine Diablerie gehandelt hat, dass er die verschlungene Seele offenbar noch nicht überwunden hat und die beiden noch miteinander ringen. Stärker müsse er sich inzwischen aber fühlen. Möglicherweise sei bei der Sache etwas schiefgelaufen; man werde es im Auge behalten. Ob er das Konzert wirklich durchziehen wolle?  
+  - [[Dianzu]] erwähnt, dass er [[Thijs]] erzählt hat, mit [[ALWA]] sei etwas vorgefallen und er sei tot.  
+  - Anschließend ruft er [[Lexy Sexy]] an und fragt, ob sich ein Double oder ein Hologramm auf die Bühne stellen ließe, während er selbst dahinter singt.  
+  - [[Thijs]] hört nicht alles, aber genug. Zusammen mit dem, was er eben aus [[Dianzu]]s Blut geschmeckt hat, ergibt es für ihn ein eindeutiges Bild: [[Dianzu]] hat [[ALWA]] diableriert. Er geht nach oben und verlässt die Wohnung.  
+  - [[Gideon Poxwell]] fällt auf, dass er geht, und fragt, was los sei. [[Thijs]] sagt, wenn er das richtig verstanden habe, hätten die beiden unten gerade über eine Diablerie gesprochen. Er sei sich nicht sicher, wolle damit aber nichts zu tun haben, und rät ihm, ebenfalls zu gehen. [[Gideon Poxwell]] ist etwas perplex, doch sein Forscherdrang überwiegt: Er bleibt.  
 
 - **Gideon sieht sich um**  
   - Während die beiden unten sind, nimmt sich [[Gideon Poxwell]] die goldenen Schallplatten an der Wand vor und prüft eine auf Echtheit, indem er hineinbeißt. Ein Stück bricht heraus — sie ist nicht aus Gold, nur vergoldet.  
-  - Als [[Dianzu]] und [[Einar]] zurückkommen, ist [[Thijs]] verschwunden. [[Gideon Poxwell]] schiebt den Schaden auf ihn: Der habe die Platte zerbrochen und sei vor Scham davongelaufen. Damit ist die Sache für alle erklärt — [[Gideon Poxwell]] hat eine Ausrede, und [[Thijs]]' plötzliches Verschwinden einen harmlosen Grund.  
+  - Als [[Dianzu]] und [[Einar]] zurückkommen, ist [[Thijs]] verschwunden. [[Gideon Poxwell]] schiebt den Schaden auf ihn: Der habe die Platte zerbrochen und sei vor Scham davongelaufen. Das deckt beide — [[Gideon Poxwell]] hat eine Ausrede, und [[Thijs]]' plötzliches Verschwinden hat einen harmlosen Grund, sodass [[Dianzu]] und [[Einar]] nicht auf die Idee kommen, das Gespräch unten könnte belauscht worden sein.  
   - Auf dem Handy laufen die Antworten auf [[Dianzu]]s Nachrichten ein: von [[Lexy Sexy]] ein „Alles klar, machen wir", von [[Linda Swan]] ein „Wird bestimmt lustig".  
   - [[Gideon Poxwell]] fragt, ob [[Lexy Sexy]] [[Dianzu]]s Frau sei. Nein, nur die Assistentin.  
   - Bei [[Einar]] versucht er es noch einmal mit dem Thema [[ALWA]] und wird grummelig abgewiesen.  

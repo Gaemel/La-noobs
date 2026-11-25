@@ -16,7 +16,7 @@
   - [[Serafin]] trifft ein.  
     - [[Gideon Poxwell]]: Was führt dich her?  
     - [[Serafin]]: Man hat mir aufgetragen, hier auf jemanden zu warten. Auf die Person, die gleich vorbeikommen wird. Oh Gott.  
-  - Es klopft. Nu kommt mit zwei Zeitungen aus dem Hotel. [[Elowen]] ist außer sich, wie schlecht sie darin zitiert wird. Alle lesen.  
+  - Es klopft. Nu kommt mit zwei Zeitungen aus dem Hotel. Die Ärmel hat er hochgekrempelt, sodass man die Pestbeulen auf seinen Unterarmen gut sieht. Elowen sieht hinreißend aus wie immer, heute in einem eleganten, hochgeschlossenen Kleid mit schwarzen Handschuhen bis über die Ellbogen. [[Elowen]] ist außer sich, wie schlecht sie darin zitiert wird. Alle lesen.  
   - Mitten im Lesen murmelt Elowen vor sich hin.  
     - [[Elowen]]: Das Kind … das Kind muss sich vorsehen. Vor dem Wolf im Wolfspelz.  
 
@@ -103,6 +103,7 @@
 
 - **Thijs will Brian holen**  
   - Früher am Abend ist [[Thijs]] zu Hause. [[Madam Rich]] erzählt ihm alles, was sie von Serafin über Lexy und Brian weiß. Thijs bittet um Unterstützung und bekommt Serafins Nummer.  
+  - Als er heimkommt, ist plötzlich eine Frau in seiner Wohnung und stellt sich als [[Paulina Vasileva|Paulina]] vor. Dass sie weiß, wo er wohnt, gefällt Thijs gar nicht. Sie möchte sich [[Sir Emmentaler]] für eine Nacht ausleihen. Thijs ist nicht begeistert, sagt aber zu, um es sich mit niemandem zu verscherzen.  
   - Jetzt ruft er Serafin an.  
     - [[Thijs]]: Ich glaub, du kannst mir helfen. Ich will mich um [[Brian]] kümmern.  
     - [[Serafin]]: Ich bin beschäftigt. Ich weiß nicht, wie lange mein Unterfangen dauert.  
@@ -134,9 +135,9 @@
     - [[Serafin]]: Sie sind nicht mein Kontakt.  
     - [[Haiku]]: Doch, natürlich bin ich das.  
     - [[Serafin]]: Und warum sind wir hier?  
-    - [[Haiku]]: Das Universum sagt es uns. Es passieren einfach Dinge.  
+    - [[Haiku]]: Die Toten haben uns hergeführt. Es passieren einfach Dinge.  
     - [[Serafin]]: Dinge passieren nicht einfach.  
-    - [[Haiku]]: Ich bin sicher, wir sind hier richtig.  
+    - [[Haiku]]: Die Erde hier ist unruhig. Wir sind richtig.  
     - [[Serafin]]: Wollen Sie mir nicht doch die Wahrheit sagen?  
     - [[Haiku]]: Ich sage dir bereits die Wahrheit.  
     - [[Serafin]]: Wie ist Ihr Name?  
@@ -366,7 +367,7 @@
     - [[Elowen]]: Und wo kommst du her?  
     - [[Haiku]]: Aus dem Park.  
   - Elowen stellt sich ebenfalls vor.  
-    - [[Haiku]]: Ich suche Informationen über [[ALWA]]. Wisst ihr etwas?  
+    - [[Haiku]]: Ich folge ALWAs Spur. Sein Name hängt noch in der Luft. Wisst ihr etwas?  
   - Dann taucht ein Mann mit den entstellten Zügen eines Nosferatu auf. Er stellt sich nicht vor. Er will nur wissen, warum sie nach ALWA suchen.  
     - [[Gideon Poxwell]]: Ich möchte mit den hier Verantwortlichen über ALWAs letzte Momente sprechen.  
 
