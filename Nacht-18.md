@@ -923,3 +923,6 @@
 
 - **Ein neuer Blutstein**  
   - Zum Schluss stellt Gideon in einem Ritual (**Blutmagie**) einen neuen [[Blutstein]] her, damit er wieder einen in Reserve hat.  
+
+- **Ein Zeichen gegen Ghule**  
+  - Wie auf seinem Merkzettel vorgesehen, sichert Gideon den Haupteingang der Praxis mit einem Schutzzeichen gegen Ghule (**Blutmagie**, [[Ward against Ghouls]]).  
