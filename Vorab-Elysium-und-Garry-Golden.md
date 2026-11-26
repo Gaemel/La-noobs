@@ -16,15 +16,15 @@
   - Elowen verspürt nach dem Aufstehen etwas Hunger und trinkt aus ihren Blutreserven. Sie geht lieber satt und mit einem zufriedenen Biest in die Nacht, als es an der kurzen Leine zu halten — anders als manch anderer im Klüngel, der erst unterwegs merkt, wie hungrig er eigentlich ist.  
   - Während sie sich zurechtmacht, stellt sich Adonis auf seinen Sockel in der Ecke und steht dort wie eine griechische Statue. Schön anzusehen ist er, und solange er schweigt, bleibt das auch so. Sobald er den Mund aufmacht, kommen selten mehr als drei Worte heraus.  
   - Für das Elysium wählt Elowen ein Kleid, das elegant und zugleich bewusst aufreizend ist: ein schmaler, aber tiefer Ausschnitt, ein Schlitz am Bein bis zur Hüfte, übersät mit aufgenähten Glitzersteinen und Pailletten. Man sieht es von Weitem.  
-  - Beim Gehen schickt sie Adonis zu ihrem Großerzeuger [[Pyotr Tchaikovsky|Tchaikovsky]]. Er soll fragen, ob es etwas gibt, womit sie sich nützlich machen und ihren Wert beweisen kann.  
+  - Beim Gehen schickt sie Adonis zu ihrem Großerzeuger [[Tchaikovsky]]. Er soll fragen, ob es etwas gibt, womit sie sich nützlich machen und ihren Wert beweisen kann.  
 
 - **Vor dem Elysium**  
-  - [[Numan Prince|Nu]] (in Wahrheit [[Dianzu]]) hat den Tag bei [[Gideon Poxwell]] verbracht.  
-  - Für den Abend steht ein Termin im [[Elysium]] an: [[Hubbabubba|Hubba Bubba]] soll dort offiziell vorgestellt werden. [[Gideon Poxwell]] ist anderweitig beschäftigt und bleibt fern.  
-  - [[Numan Prince|Nu]] holt [[Hubbabubba|Hubba Bubba]] ab. [[Elowen]] kommt getrennt mit ihrer Limousine. Alle haben sich schick gemacht.  
+  - [[Nu]] (in Wahrheit [[Dianzu]]) hat den Tag bei [[Gideon Poxwell]] verbracht.  
+  - Für den Abend steht ein Termin im [[Elysium]] an: [[Hubba Bubba]] soll dort offiziell vorgestellt werden. [[Gideon Poxwell]] ist anderweitig beschäftigt und bleibt fern.  
+  - [[Nu]] holt [[Hubba Bubba]] ab. [[Elowen]] kommt getrennt mit ihrer Limousine. Alle haben sich schick gemacht.  
 
 - **Eine Probe auf Anweisung von oben**  
-  - Kaum hat [[Numan Prince|Nu]] die Praxis verlassen, bekommt [[Gideon Poxwell]] Besuch: [[Viola Schneider]], die Bluthündin.  
+  - Kaum hat [[Nu]] die Praxis verlassen, bekommt [[Gideon Poxwell]] Besuch: [[Viola Schneider]], die Bluthündin.  
   - Sie legt einen Fetzen Stoff vor ihn, durchtränkt mit Blut. Er soll es untersuchen, und zwar sofort.  
   - Für Rückfragen hat sie wenig übrig. Sie handle auf Anweisung der Sheriffin, sagt sie, und damit auf Anweisung des Prinzen. Sie will wissen, um was für eine Art Kindred es sich handelt.  
   - Gideon fragt nach, und Stück für Stück rückt sie damit heraus, worum es eigentlich geht: ob das Blut von einem Caitiff stammt.  
@@ -38,10 +38,10 @@
   - Mit der Technik kommt er kaum voran. Stattdessen verliert er sich darin, das Stück schön zu machen: filigrane Verzierungen, Proportionen, Entwürfe, wie es wirken soll. Darüber vergeht der größte Teil der Nacht.  
 
 - **Eine Einladung, die keine ist**  
-  - Kaum betreten die drei den Kindred-Bereich des Hotels, steht [[Klaudia|Claudia Starlight]] hinter ihnen.  
+  - Kaum betreten die drei den Kindred-Bereich des Hotels, steht [[Claudia Starlight]] hinter ihnen.  
     - Claudia: „Mein Erzeuger und Primogen schickt mich, euch zu sagen: Du hast vorstellig zu werden. Umgehend.“  
-  - Gemeint ist [[Numan Prince|Nu]]. Als Einladung verpackt, ist es eine Vorladung zu [[Garry Golden]].  
-  - Dann wendet sich Claudia [[Hubbabubba|Hubba Bubba]] zu und flirtet mit ihm — ein Nachklang ihrer Zeit als gefeiertes Model, und zugleich ein Spiel. Sie weiß genau, wie sie heute aussieht, und sie merkt, dass der junge Vampir keine Ahnung hat, wer hier wem etwas zu sagen hat. Das nutzt sie aus.  
+  - Gemeint ist [[Nu]]. Als Einladung verpackt, ist es eine Vorladung zu [[Garry Golden]].  
+  - Dann wendet sich Claudia [[Hubba Bubba]] zu und flirtet mit ihm — ein Nachklang ihrer Zeit als gefeiertes Model, und zugleich ein Spiel. Sie weiß genau, wie sie heute aussieht, und sie merkt, dass der junge Vampir keine Ahnung hat, wer hier wem etwas zu sagen hat. Das nutzt sie aus.  
   - Hubba Bubba spielt mit und tut so, als gefalle sie ihm. Seinen Ekel kann er trotzdem nicht ganz verbergen. Claudia sieht es — und es trifft sie selbst an einer wunden Stelle, auch wenn sie es darauf angelegt hat.  
 
 - **Im Elysium**  
@@ -50,60 +50,60 @@
   - Dazu ein Gespräch mit [[Olivia Bloom]], der Hüterin des Elysiums.  
 
 - **Vor dem Prinzen — der erste Versuch**  
-  - [[Numan Prince|Nu]] und [[Elowen]] werden mit [[Hubbabubba|Hubba Bubba]] zu [[Carter Blake|Prinz Carter Blake]] gerufen.  
+  - [[Nu]] und [[Elowen]] werden mit [[Hubba Bubba]] zu Prinz [[Carter Blake]] gerufen.  
   - Schon als sie durch die Tür treten, ist etwas seltsam. Alles klingt ein wenig entfernt, nicht jedes Detail lässt sich ausmachen, es fühlt sich an wie ein Traum. Sie reden trotzdem.  
   - Das Büro des Prinzen: ein großer Eichentisch mit einem schweren Schreibtischstuhl, in der Ecke ein großer Ohrensessel. Auf der einen Seite des Raums ein riesiger ausgestopfter Bär — ein Grizzly, glauben die beiden, weil es der größte Bär ist, den sie kennen. Ihm gegenüber eine Ritterrüstung, silbern auf Hochglanz poliert, die Schwertspitze auf dem Boden, beide Hände auf dem Knauf, ein blauer Federbusch am Helm. Kein Schild, keine Insignien. Zusammen bilden Bär und Rüstung eine Art kleine Allee zum Schreibtisch.  
   - Der Prinz sitzt im Ohrensessel, erhebt sich sofort, als sie eintreten, kommt ihnen entgegen und begrüßt sie.  
   - Dann geht es schief. Der Prinz verspottet Hubba Bubba, verpasst ihm kurzerhand einen neuen Namen, und am Ende steht beinahe seine sofortige Hinrichtung.  
-  - Und dann ist es vorbei, als wäre es nie geschehen. Es ist auch nicht geschehen: [[Numan Prince|Nu]] und [[Elowen]] haben es nur in einer **Vorahnung** gesehen. Sie stehen noch vor der Tür und haben einen zweiten Anlauf.  
+  - Und dann ist es vorbei, als wäre es nie geschehen. Es ist auch nicht geschehen: [[Nu]] und [[Elowen]] haben es nur in einer **Vorahnung** gesehen. Sie stehen noch vor der Tür und haben einen zweiten Anlauf.  
 
 - **Vor dem Prinzen — der zweite Versuch**  
   - Diesmal ist der Raum klar und wirklich. Diesmal geben sie nicht vor, Hubba Bubba sei [[Dianzu]]s Nachkomme, sondern sagen offen, dass sie nicht wissen, wer sein Erzeuger ist. Hoppla. Ob man da nicht eine Ausnahme machen könne?  
-  - [[Carter Blake|Prinz Carter Blake]] kommt auf das Dekret zu sprechen: Kindred, deren Erzeuger gestorben ist, bevor sie offiziell in die Gesellschaft aufgenommen wurden, sind vogelfrei und werden hingerichtet. Er hat es nach [[Sebastian LaCroix|LaCroix]]' Tod erneut erlassen, und man sieht ihm an, dass er mit sich ringt.  
+  - Prinz [[Carter Blake]] kommt auf das Dekret zu sprechen: Kindred, deren Erzeuger gestorben ist, bevor sie offiziell in die Gesellschaft aufgenommen wurden, sind vogelfrei und werden hingerichtet. Er hat es nach [[LaCroix]]' Tod erneut erlassen, und man sieht ihm an, dass er mit sich ringt.  
   - [[Elowen]] setzt ihren Charme ein. Man bekomme das bestimmt irgendwie hin. Nu habe Hubba Bubba schließlich aufgenommen, großgezogen und ihm die Regeln beigebracht — dann könne man doch auch das Erzeugerrecht auf ihn übertragen.  
   - Der Prinz lässt sich überzeugen und erinnert an einen Präzedenzfall: Vor einiger Zeit sei eine ganze Gruppe Neulinge als Waisen aufgewacht, und die hätten die Aufgabe bekommen, binnen fünf Nächten Fürsprecher zu finden. Das Vorgehen halte er für gut. Strenger solle man trotzdem sein, denn einer aus dieser Gruppe habe der [[Camarilla]] riesige Probleme bereitet, und so etwas könne sich seine Regentschaft kein zweites Mal leisten.  
   - Zwei aus derselben Gruppe hätten sich dagegen gut gemacht und seien inzwischen vorbildliche Mitglieder der Camarilla. Namen nennt er nicht, gemeint sind erkennbar [[Thijs]] und [[Serafin]].  
     - Der eine habe sich trotz seiner kurzen Zeit als Geschöpf der Nacht als Unterstützung für den inzwischen schon zweiten Sheriff einen Namen gemacht. Bei der Jagd auf Caitiffs sei er einer der erfolgreichsten: ein zuverlässiger Bluthund, der sich auch aus schwierigen Lagen selbst wieder herausziehe und seine Aufträge stets zufriedenstellend erledige.  
-    - Der andere treibe die Ausdehnung des Camarilla-Gebiets voran. Er habe [[Therese Voerman]] das abgebrannte [[Altes Theater|Theater]] abgekauft. Seit dem Angriff und dem Brand war die Gegend neutrale Zone, aus der sich [[Anarchen]] und Camarilla nach Absprache heraushielten. Kaum sei diese Abmachung hinfällig geworden, habe er zugegriffen und das Gebiet wieder für die Camarilla beansprucht.  
-    - Er habe [[Maria Castigador|Sheriffin Maria]] abgestellt, ein Auge darauf zu haben. Dass sich dort Anarchen breitgemacht haben, sei ihm bekannt. Größere Auseinandersetzungen habe es nach seinen Informationen noch nicht gegeben, und die Gruppe sei jung und unerfahren. Er gehe davon aus, dass der Mann das schaffe. Und wenn nicht, habe man immerhin einen Grund, die Sheriffin vorbeizuschicken und eine Handvoll Anarchen zu richten — ein vergleichsweise kleiner Preis, auch wenn ihm der Mann ans Herz gewachsen sei. Er habe das Herz am rechten Fleck, und von seiner Sorte bräuchte die Camarilla mehr.  
-  - Am Ende macht der Prinz die Ausnahme und überträgt [[Numan Prince|Nu]] das Erzeugerrecht über [[Hubbabubba|Hubba Bubba]].  
+    - Der andere treibe die Ausdehnung des Camarilla-Gebiets voran. Er habe [[Therese Voerman]] das abgebrannte [[Theater]] abgekauft. Seit dem Angriff und dem Brand war die Gegend neutrale Zone, aus der sich [[Anarchen]] und Camarilla nach Absprache heraushielten. Kaum sei diese Abmachung hinfällig geworden, habe er zugegriffen und das Gebiet wieder für die Camarilla beansprucht.  
+    - Er habe Sheriffin [[Maria]] abgestellt, ein Auge darauf zu haben. Dass sich dort Anarchen breitgemacht haben, sei ihm bekannt. Größere Auseinandersetzungen habe es nach seinen Informationen noch nicht gegeben, und die Gruppe sei jung und unerfahren. Er gehe davon aus, dass der Mann das schaffe. Und wenn nicht, habe man immerhin einen Grund, die Sheriffin vorbeizuschicken und eine Handvoll Anarchen zu richten — ein vergleichsweise kleiner Preis, auch wenn ihm der Mann ans Herz gewachsen sei. Er habe das Herz am rechten Fleck, und von seiner Sorte bräuchte die Camarilla mehr.  
+  - Am Ende macht der Prinz die Ausnahme und überträgt [[Nu]] das Erzeugerrecht über [[Hubba Bubba]].  
   - Die Bedingungen: Hubba Bubba hat fünf Nächte Zeit, sich Fürsprecher zu suchen. Bis dahin haftet Nu für alles, was in dieser Zeit schiefgeht.  
   - Aus der Vision weiß Nu, dass der Prinz den Nachnamen „Prince“ als Spott über seinen eigenen Titel auffasst. Er kommt dem zuvor und stellt sich gleich als „New Morningstar“ vor. Für den Rest der Nacht bleibt es bei diesem einen Mal.  
-  - Danach bittet der Prinz [[Elowen]] kurz unter vier Augen zu sich. Sie soll Grüße an [[Pyotr Tchaikovsky|Primogen Tchaikovsky]] ausrichten.  
+  - Danach bittet der Prinz [[Elowen]] kurz unter vier Augen zu sich. Sie soll Grüße an Primogen [[Tchaikovsky]] ausrichten.  
 
 - **Auf dem Friedhof**  
-  - Dann folgen sie der Vorladung auf den Friedhof: [[Elowen]] in ihrer Limousine, [[Numan Prince|Nu]] und [[Hubbabubba|Hubba Bubba]] im Taxi.  
+  - Dann folgen sie der Vorladung auf den Friedhof: [[Elowen]] in ihrer Limousine, [[Nu]] und [[Hubba Bubba]] im Taxi.  
   - Unterwegs zieht sich Elowen in der Limousine noch einmal um und steigt in eine weniger extravagante Variante ihres Outfits.  
   - Am Parkplatz und vor dem Mausoleum treiben sich junge Männer herum, die sich als [[Dianzu]] verkleidet haben — eine Folge seines Diss-Tracks. Sie rufen [[Elowen]] Sprüche hinterher („geiler Arsch“ und Ähnliches). Elowen ignoriert sie gekonnt.  
-  - Das Innere des Mausoleums ist nicht hässlich, aber es ist auch nicht schön: nasskalt, düster, unheimlich, mit einem eigenen, morbiden Charme. Für [[Numan Prince|Nu]], dem als Toreador an Orten ohne Schönheit die Konzentration auf seine Kräfte schwerfällt, ist es genau der falsche Ort. Es wirkt, als sei der Raum genau dafür eingerichtet.  
+  - Das Innere des Mausoleums ist nicht hässlich, aber es ist auch nicht schön: nasskalt, düster, unheimlich, mit einem eigenen, morbiden Charme. Für [[Nu]], dem als Toreador an Orten ohne Schönheit die Konzentration auf seine Kräfte schwerfällt, ist es genau der falsche Ort. Es wirkt, als sei der Raum genau dafür eingerichtet.  
 
 - **Garry Goldens Abrechnung**  
-  - [[Garry Golden]] stellt [[Numan Prince|Nu]] zur Rede. Die Abmachung sei gewesen, [[Edric Ashford]] zu befrieden, nicht ihn vernichten zu lassen. Und [[Thijs]] sei dabei gewesen, als [[Maria Castigador|Sheriffin Maria]] die Bennett-Geschwister erledigt hat.  
+  - [[Garry Golden]] stellt [[Nu]] zur Rede. Die Abmachung sei gewesen, [[Edric Ashford]] zu befrieden, nicht ihn vernichten zu lassen. Und [[Thijs]] sei dabei gewesen, als Sheriffin [[Maria]] die Bennett-Geschwister erledigt hat.  
   - Er zählt auf, was er alles für Nu bzw. Dianzu getan hat, und droht: Er könne ihn verkaufen — oder ihn an sich binden.  
   - [[Elowen]] redet sich erfolgreich aus der Sache heraus.  
   - Garry kommt auf den Auftrag zum Verschwinden von [[Gregor Havitch]] zurück und wirft Nu vor, Informationen zurückgehalten zu haben, um [[Gideon Poxwell]] zu schützen.  
-  - Statt der Blutsbindung bietet er zwei Alternativen an: Er behält [[Hubbabubba|Hubba Bubba]] als Faustpfand — oder das ganze Klüngel ordnet sich dem Klan der [[Nosferatu]] unter.  
-  - [[Numan Prince|Nu]] lehnt ab und steht für sich und seinen Nachkommen ein, obwohl er Garry deutlich unterlegen ist und seine Willenskraft längst aufgebraucht hat.  
+  - Statt der Blutsbindung bietet er zwei Alternativen an: Er behält [[Hubba Bubba]] als Faustpfand — oder das ganze Klüngel ordnet sich dem Klan der [[Nosferatu]] unter.  
+  - [[Nu]] lehnt ab und steht für sich und seinen Nachkommen ein, obwohl er Garry deutlich unterlegen ist und seine Willenskraft längst aufgebraucht hat.  
 
 - **Ein Schlag aus dem Nichts**  
-  - [[Garry Golden]] demonstriert seine Macht: Er verschwindet vor ihren Augen und schlägt nach [[Numan Prince|Nu]].  
+  - [[Garry Golden]] demonstriert seine Macht: Er verschwindet vor ihren Augen und schlägt nach [[Nu]].  
   - [[Elowen]] sieht mit ihrem **Auspex** durch die Täuschung hindurch, erspäht ihn im letzten Moment und stößt Nu aus dem Weg, bevor der Schlag trifft.  
   - Garry ist davon sichtlich beeindruckt. Er setzt nicht nach, sondern redet erst einmal ruhig und zivilisiert mit Elowen — in einem ganz anderen Ton als mit Nu. Mit ihr persönlich habe er kein Problem. Sie ist immerhin die Enkelin des Malkavianer-Primogens.  
   - [[Elowen]] sieht ihre Aufgabe damit als erledigt an und zieht sich zurück, statt sich weiter zwischen die Fronten zu stellen.  
 
 - **Adonis an der Limousine**  
-  - Inzwischen ist [[Adonis]] von [[Pyotr Tchaikovsky|Tchaikovsky]] zurück und wartet an der Limousine.  
+  - Inzwischen ist [[Adonis]] von [[Tchaikovsky]] zurück und wartet an der Limousine.  
   - Als er spricht, ist sofort klar, wer da redet: Statt seiner üblichen Dreiwortsätze kommen plötzlich zusammenhängende, wohlgeformte Sätze aus ihm heraus. Tchaikovsky spricht durch seinen Mund und gibt Elowen zwei Hinweise:  
     - [[Nines Rodriguez]] sei unschuldig.  
     - Die Tonbandaufnahme des Doktors liege noch im Schreibtisch des alten Prinzen.  
   - Die Hinweise sind vage. Welcher Doktor gemeint ist, weiß [[Elowen]] nicht, und sie kann selbst nichts damit anfangen. Sie hatte noch keine Gelegenheit, es den anderen zu erzählen.  
 
 - **Dread Gaze**  
-  - Zurück im Mausoleum: [[Numan Prince|Nu]] verweigert sich jetzt noch entschlossener. Er setzt **Dread Gaze** (*Präsenz*) gegen [[Garry Golden]] ein.  
-  - Es wirkt, sogar gegen den Primogen. [[Garry Golden]] und [[Hubbabubba|Hubba Bubba]] packt die Furcht, beide verlassen sofort die Gruft.  
+  - Zurück im Mausoleum: [[Nu]] verweigert sich jetzt noch entschlossener. Er setzt **Dread Gaze** (*Präsenz*) gegen [[Garry Golden]] ein.  
+  - Es wirkt, sogar gegen den Primogen. [[Garry Golden]] und [[Hubba Bubba]] packt die Furcht, beide verlassen sofort die Gruft.  
 
 - **Flucht in die Menge**  
-  - [[Numan Prince|Nu]] folgt ihnen kurz darauf. Draußen sieht er Hubba Bubba die Treppe hinauf ins Freie rennen und dann einfach weiter, stur nach Süden. Von Garry ist nichts mehr zu sehen.  
+  - [[Nu]] folgt ihnen kurz darauf. Draußen sieht er Hubba Bubba die Treppe hinauf ins Freie rennen und dann einfach weiter, stur nach Süden. Von Garry ist nichts mehr zu sehen.  
   - Nu fällt die Gruppe junger Männer am Eingang im Südwesten ein, die sich als [[Dianzu]] verkleidet haben. Er lässt seine Melodie laufen, legt die Kraft in seine Stimme und rappt seinen Song laut über den Friedhof (**Awe**, *Präsenz*). Es reicht gerade so. Drüben werden sie aufmerksam: „Hey, guck mal da hinten.“ — „Lass mal hingehen.“  
   - Er geht auf sie zu. Es sind noch gut hundert Meter, und der Friedhof ist finster, schlecht beleuchtet, mitten in L.A. erstaunlich dunkel.  
   - Aus der Richtung, in die Hubba Bubba gerannt ist, kommen Kampfgeräusche. Sie dauern nicht lange. Hubba Bubba schreit vor Schmerz auf.  

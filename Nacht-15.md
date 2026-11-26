@@ -35,7 +35,7 @@
 - **Die Übergabe am Sportplatz**  
   - [[Thijs]] und [[Serafin]] treffen sich auf einem Hausdach in der Nähe und gehen dann am Rand des Platzes hinter Büschen in Deckung. Die Scheinwerfer blenden jeden, der auf dem Platz steht, so stark, dass von der Umgebung kaum etwas zu erkennen ist.  
   - Das [[Langschiff]] rollt vor, mehr Wrack als Pickup. [[Dianzu]] geht direkt neben [[Einar]] auf den Platz, [[Linda Swan]] ist bei ihnen.  
-  - Dort wartet bereits [[Sebastian LaCroix|Prinz LaCroix]] und mustert die drei. Die Scheinwerfer leuchten ihn hell aus.  
+  - Dort wartet bereits Prinz [[LaCroix]] und mustert die drei. Die Scheinwerfer leuchten ihn hell aus.  
   - [[Einar]] legt sein Messer demonstrativ am Wagen ab und grüßt.  
     - [[Einar]] (leise): Denk an das, was ich dir gesagt habe.  
   - Dianzu hält sich hinter Einar und Linda. Weder Einar noch Dianzu bemerken Thijs und Serafin.  
@@ -95,26 +95,26 @@
 
 - **Der Blutwein**  
   - [[Thijs]] reicht Nu und Gideon eine Flasche aus seiner Beute.  
-    - [[Numan Prince|Nu]]: Ist das vom Weinhändler?  
+    - [[Nu]]: Ist das vom Weinhändler?  
     - [[Thijs]]: Ja. Woher kennst du den denn?  
-    - [[Numan Prince|Nu]]: Na, das ist doch auch Blut.  
+    - [[Nu]]: Na, das ist doch auch Blut.  
   - [[Gideon Poxwell]] trinkt und analysiert. So etwas hat er noch nie geschmeckt: Im Blut ist eine Disziplin gelöst. Woher das Blut stammt, kann er nicht herauslesen.  
   - Die Wirkung spürt er sofort. Er bekommt **Resilience** (*Seelenstärke*) wie eine Kraft der ersten Stufe, und zwar bis er etwas anderes trinkt.  
 
 - **Nu stellt sich vor**  
-  - [[Numan Prince|Nu]] und [[Gideon Poxwell]] stellen sich einander vor.  
+  - [[Nu]] und [[Gideon Poxwell]] stellen sich einander vor.  
     - [[Gideon Poxwell]]: Wie weit er bereits in die Gesellschaft eingeführt worden sei?  
-    - [[Numan Prince|Nu]]: Sein altes Leben habe ein tragisches Ende gefunden, und man habe ihm geraten, nicht daran festzuhalten. Er sei hässlich und nicht stolz darauf. Aber er versuche durchzukommen.  
+    - [[Nu]]: Sein altes Leben habe ein tragisches Ende gefunden, und man habe ihm geraten, nicht daran festzuhalten. Er sei hässlich und nicht stolz darauf. Aber er versuche durchzukommen.  
     - [[Gideon Poxwell]]: Ob er Genaueres über seine Wandlung berichten könne?  
-    - [[Numan Prince|Nu]]: Er sei aufgewacht, und sie habe sich ihm vorgestellt. Davor sei er auf einer Party gewesen. Erinnern könne er sich nur noch an einen Streit mit irgendeinem komischen Rocker, dem sein gutes Aussehen nicht gepasst habe.  
+    - [[Nu]]: Er sei aufgewacht, und sie habe sich ihm vorgestellt. Davor sei er auf einer Party gewesen. Erinnern könne er sich nur noch an einen Streit mit irgendeinem komischen Rocker, dem sein gutes Aussehen nicht gepasst habe.  
     - [[Gideon Poxwell]]: Was er über [[Rita]] wisse?  
-    - [[Numan Prince|Nu]]: Sie habe ihm erzählt, sie sei Nosferatu, und er sei eine Cleopatra der besonders hässlichen Sorte, weil er nicht damit zurechtkomme. Er solle nicht zu viel Aufmerksamkeit auf sich ziehen und sich an die Grundregeln halten. Sonst wisse er nicht viel, nur dass er keine Waise sei und dass das gut sei.  
+    - [[Nu]]: Sie habe ihm erzählt, sie sei Nosferatu, und er sei eine Cleopatra der besonders hässlichen Sorte, weil er nicht damit zurechtkomme. Er solle nicht zu viel Aufmerksamkeit auf sich ziehen und sich an die Grundregeln halten. Sonst wisse er nicht viel, nur dass er keine Waise sei und dass das gut sei.  
     - [[Gideon Poxwell]]: Ob er schon vampirische Fähigkeiten an sich bemerkt habe?  
-    - [[Numan Prince|Nu]]: Seine Hässlichkeit sei sehr abstoßend, und er könne sich unsichtbar machen.  
+    - [[Nu]]: Seine Hässlichkeit sei sehr abstoßend, und er könne sich unsichtbar machen.  
     - [[Gideon Poxwell]]: Oh. Sehr interessant.  
 
 - **Am Krater**  
-  - [[Thijs]], [[Gideon Poxwell]] und [[Numan Prince|Nu]] gehen zur Explosionsstelle.  
+  - [[Thijs]], [[Gideon Poxwell]] und [[Nu]] gehen zur Explosionsstelle.  
   - Nu läuft unbemerkt aufs Feld, nur die Kameras der Reporter sehen ihn trotzdem. Im Krater findet er ein Stück verkohltes Holz.  
   - Gideon zückt am Absperrband seinen Ausweis: Arzt, Gerichtsmediziner, Blutspurenanalyse. Die Spuren seien frisch, er wolle sofort anfangen.  
     - [[Gideon Poxwell]]: Das hier ist mein Praktikant. Hochbegabt, ein IQ weit jenseits der Norm. Deshalb ist er trotz seines Alters bereits in der ärztlichen Ausbildung.  
@@ -157,7 +157,7 @@
   - Gideon bietet Nu an, ihm eine Gipsmaske anzufertigen. Nu ruft [[Rita]] an. Gideon sucht nach Maskenläden in der Nähe und findet einen.  
 
 - **Eine Maske für Nu**  
-  - [[Numan Prince|Nu]] nimmt sich ein Taxi. Vorher läuft er noch [[Sir Emmentaler]] über den Weg und bekommt von ihm eine Schokolade.  
+  - [[Nu]] nimmt sich ein Taxi. Vorher läuft er noch [[Sir Emmentaler]] über den Weg und bekommt von ihm eine Schokolade.  
   - Ein vorbeifahrendes Taxi meldet den Maskierten bei der Polizei.  
   - Nu geht das letzte Stück zu Fuß, kauft eine venezianische Maske und lässt sich ins [[Asylum]] fahren.  
   - [[Gideon Poxwell]] und [[Thijs]] fahren mit Sir Emmentaler ebenfalls hin. Kurz vor dem Ziel überholt sie Nus Taxi.  
@@ -220,7 +220,7 @@
 - **Gideon wird gerufen**  
   - [[Gideon Poxwell]] bekommt einen Anruf: Zu Hause wolle ihn jemand sprechen.  
     - [[Gideon Poxwell]] (zu [[Thijs]]): Ich muss los. Wir setzen die Auswertung später fort.  
-  - Bei [[Numan Prince|Nu]] meldet er sich für das [[Last Round]] ab.  
+  - Bei [[Nu]] meldet er sich für das [[Last Round]] ab.  
 
 - **Elena bringt Elowen**  
   - Zu Hause warten zwei Vampire auf Gideon: [[Elena Zantrovitch]] und ihre Nachkommin [[Elowen]].  
@@ -234,7 +234,7 @@
     - [[Elena Zantrovitch]]: Natürlich.  
     - [[Gideon Poxwell]]: Und der Prinz ist informiert?  
     - [[Elena Zantrovitch]]: Ja?  
-    - [[Elena Zantrovitch]]: Bis zum nächsten Mal, Gideon. Elowen. [[Gregor Havitch|Gregory]].  
+    - [[Elena Zantrovitch]]: Bis zum nächsten Mal, Gideon. Elowen. [[Gregory]].  
   - Bei „Gregory“ nickt sie in eine leere Ecke. Dort ist niemand zu sehen. Dann geht sie.  
 
 - **Gideon und Elowen**  
@@ -253,10 +253,10 @@
 - **Nu kommt in die Praxis**  
   - Nu nimmt sich ein Taxi zu Gideon. [[Toby]] öffnet.  
     - [[Toby]]: Coole Maske. Die Praxis hat morgen wieder geöffnet.  
-    - [[Numan Prince|Nu]]: Ich will zu Gideon.  
+    - [[Nu]]: Ich will zu Gideon.  
   - Toby macht eine Durchsage. Oben schließen sie die Tür ab, und Nu und Elowen stellen sich vor.  
     - [[Gideon Poxwell]] (zu Nu): Kommst du ebenfalls so gut damit zurecht?  
-    - [[Numan Prince|Nu]]: Joa … äh … öh.  
+    - [[Nu]]: Joa … äh … öh.  
   - Gideon erklärt vor allem Nu das Nötige: die Camarilla und ihre Regeln, warum ein Klapphandy (keine elektronischen Spuren) und die Frage, woher man seinen Klan hat.  
 
 - **Gregor Havitch**  
@@ -268,7 +268,7 @@
     - [[Gregor Havitch]] (zu Nu): Und du, Prinz, solltest mal mit deinem [[Primogen]] reden. Gegen einen [[Gefallen]] helfe ich dir dabei.  
   - Gregor geht, und Gideon schließt die Tür hinter ihm.  
     - [[Gideon Poxwell]]: Verfügst du über einen Schlafplatz?  
-    - [[Numan Prince|Nu]]: Nur einen Container.  
+    - [[Nu]]: Nur einen Container.  
     - [[Gideon Poxwell]]: Keine Ghule erschaffen. Und wenn ich nicht da bin, wende dich an Tobias.  
 
 - **Was könnt ihr?**  
@@ -281,7 +281,7 @@
   - Genau in diesem Moment wird aus der Gasse gegenüber geschossen. Die Kugeln gehen über sie hinweg, sie hat sich im richtigen Moment geduckt. Gideon und Nu werden getroffen. Elowen verzieht sich in die Büsche.  
   - Gideon erkennt auf den Jacken der Schützen das Zeichen der [[Iron Serpents]].  
   - Nu setzt seinen **Schreckensblick** ein (Dread Gaze).  
-    - [[Numan Prince|Nu]]: Ihr bleibt hier!  
+    - [[Nu]]: Ihr bleibt hier!  
   - Die Wirkung ist eine andere als gewollt. Die Schützen sind Sterbliche, und die Angst treibt sie nicht zum Gehorsam, sondern in die Flucht. Alle lassen die Waffen fallen. Zwei springen auf die Motorräder, die anderen drei rennen weg.  
   - Nu holt einen Motorradfahrer ein, schmettert ihn gegen die Wand und trinkt sofort von ihm.  
   - Gideon bekommt den zweiten zu fassen, und die beiden ringen miteinander. Elowen setzt **Beherrschen** ein.  
@@ -298,7 +298,7 @@
   - Nu fragt den Biker aus.  
     - Biker: Das wird euch noch leidtun. Ich geb euch einen Tipp: Lasst mich gehen. Dafür dürft ihr die nächsten Tage weiterleben.  
   - Er setzt sich auf und will aufstehen.  
-    - [[Numan Prince|Nu]]: Du willst uns also nicht sagen, wer dich geschickt hat?  
+    - [[Nu]]: Du willst uns also nicht sagen, wer dich geschickt hat?  
   - Der Biker spuckt Nu Blut ins Gesicht. Er lässt sich nicht beeindrucken.  
   - Elowen versucht es.  
     - [[Elowen]]: Wer hat dich geschickt?  
@@ -314,7 +314,7 @@
 
 - **Im Last Round**  
   - Zu dritt fahren sie mit dem Taxi zum [[Last Round]]. Der Türsteher will sie nicht hineinlassen.  
-    - [[Numan Prince|Nu]]: Ich bin eingeladen. Von einem Anarchen.  
+    - [[Nu]]: Ich bin eingeladen. Von einem Anarchen.  
     - [[Gideon Poxwell]]: Ich bin mit [[Einar]] bekannt.  
   - Nach kurzem Warten werden sie eingelassen.  
   - Die Bar ist voll. Gideon erkennt [[Livia Jara]] und ein paar Gesichter, die beim Weinhändler dabei waren. Vier Nosferatu sind zu sehen. Eine Voerman ist nicht da.  
@@ -326,7 +326,7 @@
     - [[Gideon Poxwell]]: Ich bin bereit, mich dem Ritual [[Truth of Blood]] zu unterziehen.  
   - Am Ende der Theke dreht sich [[Dolly Brennan]] auf ihrem Hocker um, eine ältere Anarchin mit grauem Zopf und abgewetzter Lederweste.  
     - [[Dolly Brennan]]: Sonst noch was?  
-  - Gideon berichtet vom Angriff der [[Iron Serpents]]. Dolly schreibt ihm die Adresse der [[Night Lords MC|Night Lords]] auf eine Serviette: Wenn einer was über Biker wisse, dann die. Dann gehen die drei.  
+  - Gideon berichtet vom Angriff der [[Iron Serpents]]. Dolly schreibt ihm die Adresse der [[Night Lords]] auf eine Serviette: Wenn einer was über Biker wisse, dann die. Dann gehen die drei.  
 
 - **Blutlesungen**  
   - Es wird ein Taxi gerufen. Gideon ruft [[Thijs]] an. Thijs hat einen Auftrag, sie wollen sich morgen treffen.  

@@ -59,7 +59,7 @@
   - [[Einar]] betritt den [[Weinladen]] mit dem [[Langschiff]] — er rammt den Pickup wie ein Landungsboot durch die Front, dann steigen sie aus und gehen direkt auf [[Mac Master]] los. Die Bude wird verwüstet.  
   - Am Boden sind Kreise und Pentagramme eingelassen. [[Dianzu]] entdeckt sie zuerst — er steht noch immer unsichtbar mitten im Raum. Im Getümmel werden sie zertreten.  
     - [[Gideon Poxwell]]: warnt, was das sein könnte, und hält der Runde ungefragt einen kleinen Vortrag über Blut.  
-    - [[Selena "Voodoo" Carter|Selena]]: setzt noch nach — es komme etwas durchs Dachfenster.  
+    - [[Selena]]: setzt noch nach — es komme etwas durchs Dachfenster.  
   - [[Thijs]] kommt aus dem hinteren Teil dazu, auf einem Motorrad, im ersten Gang und entsprechend laut, und setzt es prompt in die Einrichtung.  
   - [[Mac Master]] schießt auf [[Einar]]. Der Kampf verlagert sich nach hinten in die Lagerhalle.  
 
@@ -95,14 +95,14 @@
   - [[Gideon Poxwell]] fasst einen regelrechten Hass auf [[Mac Master]] — der befehlige offenbar dieses Ding und habe ihn damit angegriffen. Er steigert seine Blutpotenz und wendet **Extinguish Vitae** (*Blutmagie*) auf ihn an.  
   - [[Mac Master]] feuert noch einmal auf [[Einar]]. Dann nimmt [[Einar]] ihn sich von hinten vor und macht einen Blutadler aus ihm: die Rippen vom Rückgrat gelöst und nach außen geklappt, der Brustkorb offen wie ein Paar Flügel. Für einen Menschen wäre das das Ende. Ein Kindred stirbt daran nicht — es tut nur unvorstellbar weh.  
   - In den offenen Körper steckt [[Einar]] seine eigene Granate.  
-    - [[Mac Master]]: "[[Sebastian LaCroix|LaCroix]] hat gefordert, dass ich meinen [[Gefallen]] zurückziehe."  
+    - [[Mac Master]]: "[[LaCroix]] hat gefordert, dass ich meinen [[Gefallen]] zurückziehe."  
     - [[Thijs]]: "Wollt ihr mal kurz aufhören, ich glaub, das ist wichtig."  
     - [[Serafin]] (zu [[Dianzu]]): "Du hast immer noch [[ALWA]] auf dem Gewissen."  
   - Damit liegt offen, was in Nacht 5 nie jemand erklärt hat: warum bei der Abstimmung über die Aufnahme der Gruppe nur vier der fünf Fürsprecher-Stimmen abgegeben wurden und ausgerechnet der Prinz die fünfte nachlegen musste.  
 
 - **Therese Voerman tritt ein**  
   - Draußen wird jemand angekündigt.  
-    - [[Marcus "Gears" Thompson|Gears]]: "Gnädigste, bitte treten Sie ein."  
+    - [[Gears]]: "Gnädigste, bitte treten Sie ein."  
   - [[Therese Voerman]] kommt in den Raum. Alle sehen sie an — außer [[Serafin]], der den Blick nicht von [[Dianzu]] nimmt.  
     - [[Therese Voerman]]: Was denn dieser Lärm hier solle. Sie sei kontaktiert worden, hier könne es spannend werden. Und was müsse sie sehen — ihr geschätzter Arbeitskollege sei leider von ihnen gegangen.  
   - [[Mac Master]] schüttelt den Kopf. Er ist noch da.  
@@ -111,7 +111,7 @@
   - [[Einar]] stellt klar, woran man hier ist: Er zieht den Splint aus der Granate in [[Mac Master]]s Brustkorb. Solange er den Hebel im Blick hat, hält er das Unleben des Weinhändlers in der Hand — und das ist als Ansage an [[Therese Voerman]] gemeint.  
     - [[Therese Voerman]]: Ob er ihr kurz die Sicherung geben könne?  
     - [[Einar]]: "Ja, selbstverständlich." — Er legt ihr den Splint in die Hand, und sie behält ihn. Damit lässt sich die Granate nie wieder sichern, und [[Mac Master]] ist erledigt, gleich wie das hier weitergeht. Er ist ihr keine Verhandlung wert.  
-    - [[Therese Voerman]]: Sie glaube, er werde das, was er hier getan habe, bald verantworten müssen. Er werde die Grüße bald ihrem Kollegen [[Sebastian LaCroix|LaCroix]] ausrichten.  
+    - [[Therese Voerman]]: Sie glaube, er werde das, was er hier getan habe, bald verantworten müssen. Er werde die Grüße bald ihrem Kollegen [[LaCroix]] ausrichten.  
     - [[Therese Voerman]] (zu [[Dianzu]]): Er solle Grüße ausrichten. Ihre Schwester werde er in nächster Zeit deutlich seltener sehen. — Ob das heißt, er solle sich von [[Jeanette Voerman]] fernhalten, oder ob ihr etwas zustoßen wird, sagt sie nicht. Niemand traut sich nachzufragen.  
     - [[Gideon Poxwell]]: Wer sie denn eigentlich sei?  
     - [[Therese Voerman]]: "Könnte mich jemand vorstellen?"  
@@ -159,9 +159,9 @@
     - [[Serafin]]: [[Einar]] sei mit [[Dianzu]] und einer Handvoll Biker bei [[Mac Master]] aufgetaucht. Tatsächlich habe [[Einar]] ihn getötet — aber im Raum glaube inzwischen jeder, es sei [[Dianzu]] gewesen.  
     - [[Thijs]]: Der Typ mit den Krallen habe ihn auseinandergenommen, nicht [[Dianzu]]. Da sei außerdem irgendwas Geflügeltes durchs Dach gekommen und habe das [[Langschiff]] zerlegt.  
     - [[Serafin]]: Er selbst habe versucht, [[Dianzu]] zu stellen, und es um Haaresbreite nicht geschafft. Mitten im Chaos sei dann [[Therese Voerman]] erschienen.  
-    - [[Madam Rich]]: Zusammengefasst also: [[Dianzu]] habe eine Gang zusammengetrommelt, vermutlich aus dem Umfeld der [[Anarchen]]. Er habe ein wichtiges Mitglied der [[Camarilla]] angegriffen, und einer seiner Leute habe dieses Mitglied getötet. Dazu ein geflügeltes Wesen, und [[Serafin]] habe [[Dianzu]] nicht überwältigen können. Letzte Worte des Toten: [[Sebastian LaCroix|LaCroix]] habe ihn gezwungen, seinen [[Gefallen]] zu entziehen.  
+    - [[Madam Rich]]: Zusammengefasst also: [[Dianzu]] habe eine Gang zusammengetrommelt, vermutlich aus dem Umfeld der [[Anarchen]]. Er habe ein wichtiges Mitglied der [[Camarilla]] angegriffen, und einer seiner Leute habe dieses Mitglied getötet. Dazu ein geflügeltes Wesen, und [[Serafin]] habe [[Dianzu]] nicht überwältigen können. Letzte Worte des Toten: [[LaCroix]] habe ihn gezwungen, seinen [[Gefallen]] zu entziehen.  
   - Bei diesem letzten Satz hält sie an. Sie lässt [[Serafin]] ihn wörtlich aufschreiben, überträgt ihn anschließend in ihrer eigenen Handschrift auf einen zweiten Zettel und nimmt diesen an sich. Den legt sie an einen Ort, an dem sie ihn irgendwann von selbst wiederfinden wird.  
-  - Dann weist sie [[Serafin]] an, zu vergessen, dass [[Mac Master]] überhaupt etwas gesagt hat (**Beherrschen**). Das ist nicht gegen ihn gerichtet, sondern für ihn: Was er nicht weiß, kann ihm beim Prinzen auch niemand aus dem Kopf holen — dafür müsste [[Sebastian LaCroix|LaCroix]] deutlich tiefer graben.  
+  - Dann weist sie [[Serafin]] an, zu vergessen, dass [[Mac Master]] überhaupt etwas gesagt hat (**Beherrschen**). Das ist nicht gegen ihn gerichtet, sondern für ihn: Was er nicht weiß, kann ihm beim Prinzen auch niemand aus dem Kopf holen — dafür müsste [[LaCroix]] deutlich tiefer graben.  
     - [[Madam Rich]]: Ob er wisse, was auf dem Zettel steht?  
     - [[Serafin]]: Jaaaa.  
   - Es hat nicht funktioniert. [[Madam Rich]] ist sichtlich unzufrieden — sie hätte es lieber sauber gehabt. Andererseits: Wer sich ihr gegenüber nicht biegen lässt, hält vielleicht auch dem Prinzen etwas entgegen.  
@@ -170,7 +170,7 @@
   - Auf dem Weg zum Prinzen will er wissen, was sie ihm erzählen.  
 
 - **Beim Prinzen**  
-  - Im Vorzimmer warten schon drei: [[Sebastian LaCroix|Prinz LaCroix]], [[Therese Voerman]] und [[Jeanette Voerman]], mitten in einer hitzigen Auseinandersetzung. [[Madam Rich]] entschuldigt die Störung, aber es sei wichtig. [[Serafin]] trägt vor.  
+  - Im Vorzimmer warten schon drei: Prinz [[LaCroix]], [[Therese Voerman]] und [[Jeanette Voerman]], mitten in einer hitzigen Auseinandersetzung. [[Madam Rich]] entschuldigt die Störung, aber es sei wichtig. [[Serafin]] trägt vor.  
     - [[Serafin]]: [[Mac Master]] ist tot.  
     - [[Serafin]]: Und das Problemkind [[Dianzu]] war daran beteiligt.  
     - [[Therese Voerman]]: Genau deswegen sage sie doch, man müsse mit den Küken härter umgehen. Sie sei dafür, ein neues Dekret zu erlassen: Waisenkinder werden hingerichtet, die Erzeuger bestraft.  

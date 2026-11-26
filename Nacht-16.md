@@ -38,8 +38,8 @@
   - Sir Emmentaler fährt den Hund nach Hause und gibt ihm Fleisch statt Schokolade.  
 
 - **Im Beichtstuhl**  
-  - Am Schaukasten neben dem Portal hängt der Gottesdienstplan von [[Elias Calloway|Father Elias Calloway]]. Von einem Priester wird Thijs heute ausnahmsweise nicht belästigt. Die beiden setzen sich in den Beichtstuhl.  
-    - [[Thijs]]: Auf dem Platz lagen 'n Haufen Knochen. Der Prinz, [[Einar]], Big Baby Daddy und [[Linda Swan|Linda]]. Danach war ich bei [[Gideon Poxwell|Gideon]].  
+  - Am Schaukasten neben dem Portal hängt der Gottesdienstplan von [[Father Elias Calloway]]. Von einem Priester wird Thijs heute ausnahmsweise nicht belästigt. Die beiden setzen sich in den Beichtstuhl.  
+    - [[Thijs]]: Auf dem Platz lagen 'n Haufen Knochen. Der Prinz, [[Einar]], Big Baby Daddy und [[Linda]]. Danach war ich bei [[Gideon]].  
     - [[Serafin]]: Kann man diesem Gideon vertrauen?  
     - [[Thijs]]: Mit dem hab ich schon Erfahrung. [[Aischa]] hat mich damals zu ihm gebracht.  
     - [[Serafin]]: In welchem Zusammenhang? Wolltet ihr seine Hilfe, oder stand er unter Verdacht?  
@@ -52,18 +52,18 @@
     - [[Thijs]]: Bis kurz vor Schluss. Dann wollt ich den Code für den Rückzug wissen.  
     - [[Serafin]]: Und du hast gefragt und bist nicht aufgeflogen?  
     - [[Thijs]]: Doch, schon.  
-    - [[Thijs]]: Und ich hab [[Rita]] getroffen. Die hat uns ihr Kind vorgestellt, [[Numan Prince|Nu]]. Der ist so 'ne Cleopatra. Sie meinte, ob der weiterexistieren darf, entscheiden Gideon und ich.  
+    - [[Thijs]]: Und ich hab [[Rita]] getroffen. Die hat uns ihr Kind vorgestellt, [[Nu]]. Der ist so 'ne Cleopatra. Sie meinte, ob der weiterexistieren darf, entscheiden Gideon und ich.  
     - [[Serafin]]: Das hat aber nichts mit dem Ereignis zu tun.  
     - [[Thijs]]: Der war mit uns auf dem Sportplatz.  
     - [[Serafin]]: Rita kommt zu dir und überträgt dir einfach die Verantwortung …  
     - [[Thijs]]: Was machst du dir da überhaupt 'nen Kopf?  
     - [[Serafin]]: Weil du mein einziger Partner bist, der noch bei Verstand ist. Gibt es sonst noch etwas zu beichten?  
   - Thijs lügt ihn an, und zwar besonders schlecht.  
-    - [[Thijs]]: Ich war bei Therese und [[Jeanette Voerman|Jeanette]], aber viel erfahren hab ich da nicht.  
+    - [[Thijs]]: Ich war bei Therese und [[Jeanette]], aber viel erfahren hab ich da nicht.  
     - [[Serafin]]: Taste, warum lügst du mich an?  
     - [[Thijs]]: Weil's für dich eigentlich gar nicht so wichtig ist.  
     - [[Serafin]]: Gut.  
-    - [[Thijs]]: [[Therese Voerman|Therese]] will wahrscheinlich Prinz werden. Und Caitiff werden gejagt. Außerdem hab ich 'n Auftrag. Kannst du Auto fahren?  
+    - [[Thijs]]: [[Therese]] will wahrscheinlich Prinz werden. Und Caitiff werden gejagt. Außerdem hab ich 'n Auftrag. Kannst du Auto fahren?  
     - [[Serafin]]: Nein.  
     - [[Thijs]]: Da will ich dich eigentlich gar nicht reinziehen.  
     - [[Serafin]]: Ich war nach dem Ereignis bei meiner Primogenin. Sie hat Dianzu die Klanzugehörigkeit abgesprochen.  
@@ -84,21 +84,21 @@
   - Sie klauen eines. Sir Emmentaler wird als Fahrer dazubeordert.  
 
 - **Ein ganz spannender Auftrag**  
-  - Bei Gideon tippt [[Elowen]] fröhlich vor sich hin. [[Numan Prince|Nu]] steht mit Sturmmaske, darüber eine Vernissage-Maske, vor dem Spiegel. Er schneidet die Sturmmaske auf, damit er sie abnehmen kann, ohne sich selbst zu sehen. Mit Elowen führt er ein sonderbares Gespräch.  
+  - Bei Gideon tippt [[Elowen]] fröhlich vor sich hin. [[Nu]] steht mit Sturmmaske, darüber eine Vernissage-Maske, vor dem Spiegel. Er schneidet die Sturmmaske auf, damit er sie abnehmen kann, ohne sich selbst zu sehen. Mit Elowen führt er ein sonderbares Gespräch.  
   - Dann springt Nu auf.  
-    - [[Numan Prince|Nu]]: Ich hab einen Auftrag! Einen richtig spannenden. Ich soll eine Lieferung eskortieren, beschützen, aufpassen.  
+    - [[Nu]]: Ich hab einen Auftrag! Einen richtig spannenden. Ich soll eine Lieferung eskortieren, beschützen, aufpassen.  
     - [[Elowen]]: Ist das was Gefährliches?  
     - [[Gideon Poxwell]]: Was genau ist das Transportgut? Und wer ist der Auftraggeber?  
   - Nu fragt bei [[Rita]] nach.  
-    - [[Numan Prince|Nu]]: Ein Bild. Von einer Therese … Frau Voerman, oder so.  
-    - [[Numan Prince|Nu]]: Ach, und für dich hab ich noch was.  
+    - [[Nu]]: Ein Bild. Von einer Therese … Frau Voerman, oder so.  
+    - [[Nu]]: Ach, und für dich hab ich noch was.  
   - Er gibt Gideon ein verkohltes Stück von der Explosion. Gideon nimmt es an sich und bleibt in der Praxis.  
     - [[Elowen]]: Ich komm mit!  
 
 - **Im Taxi**  
   - Nu und Elowen nehmen ein Taxi. Im Radio läuft Dianzus letzter Song.  
     - [[Elowen]]: Das ist dein Song. Du bist Dianzu.  
-    - [[Numan Prince|Nu]]: Ich bin Nu.  
+    - [[Nu]]: Ich bin Nu.  
     - [[Elowen]]: Du bist Dianzu.  
   - Sie lässt nicht locker, bis Nu ihr zustimmt. Dass sie damit recht hat, ahnt sie nicht.  
   - Das Taxi hält vor einem barocken Haus mit Gargoyles. Davor steht ein weißer Sprinter, den Nu auch als Foto auf dem Handy hat.  
@@ -111,9 +111,9 @@
     - [[Sir Emmentaler]]: Wenn Sie das wünschen, biete ich ihm gern Schoki und Käse an.  
   - Sie parken eine Straße weiter. Thijs will einen AirTag am Wagen anbringen und schleicht per **Verdunkelung** hinüber.  
   - Elowen sieht zwanzig, dreißig Leute, die sich dem Sprinter nähern und ihn streicheln. Ein Kind klebt einen Aufkleber darauf und geht, ein alter Mann kommt und zerreißt ihn.  
-    - [[Numan Prince|Nu]]: Was ist denn bei dir los?  
+    - [[Nu]]: Was ist denn bei dir los?  
     - [[Elowen]]: Na, da sind doch dreißig Leute!  
-    - [[Numan Prince|Nu]]: Alles gut bei dir?  
+    - [[Nu]]: Alles gut bei dir?  
     - [[Elowen]]: Und was ist mit den Gänsen?!  
   - Nu setzt sich in den Wagen. Elowen sieht einen Clown auf den Beifahrersitz rutschen. Nu fragt bei Rita nach, wohin es geht: Der Fahrer komme gleich.  
     - [[Elowen]]: Rutsch mal rüber.  
@@ -134,7 +134,7 @@
   - Der zweite Shuriken landet direkt neben dem ersten.  
     - [[Elowen]]: Kätzchen von beiden Seiten!  
   - Sie greift wieder ins Lenkrad, und der Sprinter schrammt ein anderes Auto. Jonathan hält an und flucht über den Schaden.  
-    - [[Numan Prince|Nu]]: Sehen Sie die Wurfsterne nicht? Oder Pfeile, was auch immer das ist?  
+    - [[Nu]]: Sehen Sie die Wurfsterne nicht? Oder Pfeile, was auch immer das ist?  
   - Serafin trifft den Reifen. Jonathan will flüchten, und Elowen drückt auf einen roten Panikknopf.  
     - [[Thijs]]: Ich glaub, wir brechen lieber ab.  
   - Thijs und Serafin fahren vor zum Abladepunkt und warten dort.  
@@ -145,7 +145,7 @@
   - Nu reißt die Gurte einfach durch und trägt das Gemälde Richtung Eingang.  
     - [[Jonathan]]: Ich schau schnell nach dem Pförtner, dann ist das Ding nicht mehr unser Problem.  
   - Nu stellt das Bild kurz ab. Thijs ist mit in die Eingangshalle gekommen, greift sich das Bild und springt mit **Geschwindigkeit** zur Tür.  
-    - [[Numan Prince|Nu]]: Stehen bleiben!  
+    - [[Nu]]: Stehen bleiben!  
   - Thijs lässt das Bild los und flieht. Es kippt um, der Einband reißt, und zu sehen sind zwei Mädchen in Kleidern mit einem Mann im Wald.  
   - Der Pförtner kommt und bringt Nu, Elowen und das Bild zum Tresor.  
 
@@ -171,7 +171,7 @@
   - Dann kommen Thijs und Serafin.  
     - [[Thijs]]: Sir Emmentaler meinte, ich soll herkommen.  
   - Gideon stellt sich Serafin vor. Thijs und Serafin erkennen Nu und Elowen vom Sprinter wieder.  
-    - [[Numan Prince|Nu]]: Ihr glaubt nicht, was heute passiert ist. Ich hatte einen Auftrag für eine Frau Voerman, und kaum stell ich das Bild ab, kommt einer, klaut's und lässt es dann fallen.  
+    - [[Nu]]: Ihr glaubt nicht, was heute passiert ist. Ich hatte einen Auftrag für eine Frau Voerman, und kaum stell ich das Bild ab, kommt einer, klaut's und lässt es dann fallen.  
     - [[Elowen]]: Wie alt bist du eigentlich, Thijs?  
     - [[Thijs]]: Sechzehn.  
     - [[Elowen]]: Du bist eindeutig jünger als sechzehn.  
@@ -247,15 +247,15 @@
     - [[Gregor Havitch]]: Was wollte der Typ hier? Und wo sind die anderen hin?  
   - Alle machen sich wieder sichtbar. Gideon staunt, dass sie das offenbar alle können.  
     - [[Gideon Poxwell]]: Wo kommen Sie denn alle her?  
-    - [[Numan Prince|Nu]]: Ich bin gespawnt.  
+    - [[Nu]]: Ich bin gespawnt.  
   - Nus Handy klingelt.  
     - [[Rita]]: Hallo, mein Kind. Ich habe einen Auftrag für dich, und ich hoffe, du erledigst ihn zu meiner Zufriedenheit, sonst hab ich nie wieder einen für dich. Wo bist du?  
-    - [[Numan Prince|Nu]]: Bei Gideon.  
+    - [[Nu]]: Bei Gideon.  
   - Gideon fängt an zu erzählen.  
     - [[Gregor Havitch]]: Moment. Hab ich das richtig verstanden, meine Klansschwester ist deine Erzeugerin?  
-    - [[Numan Prince|Nu]]: Bringst du mich zu den Nossis? Darf Gideon mit?  
+    - [[Nu]]: Bringst du mich zu den Nossis? Darf Gideon mit?  
     - [[Gregor Havitch]]: Nein. In die Zuflucht der Nosferatu kommen nur Nosferatu. Die Hauptdomäne ist für alle anderen tabu, und das wird mit aller Härte durchgesetzt. Komm also nicht auf die Idee, einen Fremden mitzubringen. Wer dort auftaucht und nicht zum Klan der Nacht gehört, taucht danach gar nicht mehr auf. So, und jetzt zu den interessanten Themen.  
-    - [[Numan Prince|Nu]]: Ja, dann: Wie findet ihr meine Schuhe?  
+    - [[Nu]]: Ja, dann: Wie findet ihr meine Schuhe?  
   - Gregor schlägt Nu ins Gesicht, und Gideon fängt den Schlag ab.  
     - [[Gideon Poxwell]]: Bitte keine Gewalt, sofern sie nicht indiziert ist.  
     - [[Gregor Havitch]]: Okay. Dann halt jetzt aber die Fresse.  
@@ -293,11 +293,11 @@
     - [[Gideon Poxwell]]: Ja, er ist da.  
 
 - **Rita bringt Geschenke**  
-  - [[Numan Prince|Nu]]: Hallo, Mutter.  
+  - [[Nu]]: Hallo, Mutter.  
   - Rita bricht ihm den Unterarm.  
     - [[Rita]]: In der Gesellschaft der Nacht empfiehlt es sich, Ältere mit Respekt anzusprechen.  
     - [[Rita]]: Ich hatte frühere Kinder, die mir missraten sind. Eines davon, ein ganz besonderes, musste ich loswerden, und das soll nicht noch einmal passieren. Nun habe ich ein paar Hinterlassenschaften gefunden und möchte mich ihrer nicht selbst annehmen.  
-    - [[Numan Prince|Nu]]: Klar, da helf ich gern.  
+    - [[Nu]]: Klar, da helf ich gern.  
     - [[Rita]]: Draußen steht eine Kiste. Was darin ist, steht ab jetzt unter eurem Schutz und in eurer Verantwortung. Man könnte sagen, ihr seid jetzt der Stiefvater. Mein Nachkomme musste beseitigt werden, und dabei war eine andere Person beteiligt. Das hier sind die Nachkommen dieser anderen Person. Weil ich mich zu einem sehr geringen Teil mitverantwortlich fühle und diese Person geholfen hat, meinen Fehler zu beseitigen, darfst du dich darum kümmern.  
   - Nu holt die Kiste herein.  
     - [[Gideon Poxwell]]: Wir müssen Nu noch bei den Nosferatu vorstellen.  
@@ -316,9 +316,9 @@
   - Elowen hat eine Vorahnung: Serafin sieht das hier und schreit „Riesenproblem!“.  
   - Nu ruft Rita an. Er solle Lexy in die Gesellschaft einführen, und er sei verantwortlich.  
   - Nu zieht Lexy den Pfahl heraus. Sie trinkt von ihm, und die Wunde in ihrer Brust schließt sich.  
-    - [[Numan Prince|Nu]]: Jemand, der deinen Erzeuger kennt, hat mich beauftragt, auf dich aufzupassen.  
+    - [[Nu]]: Jemand, der deinen Erzeuger kennt, hat mich beauftragt, auf dich aufzupassen.  
     - [[Lexy Sexy]]: Ich hab nicht gedacht, dass man mich umbringt.  
-    - [[Numan Prince|Nu]]: Du bist ja nicht tot.  
+    - [[Nu]]: Du bist ja nicht tot.  
   - Nu erklärt ihr, dass sie jetzt eine Vampirin ist.  
     - [[Lexy Sexy]]: Wo ist Dianzu?  
     - [[Gideon Poxwell]]: Tot. Er wurde von einer Bombe zersprengt.  
@@ -351,25 +351,25 @@
   - Gideon fährt wieder hinunter.  
   - Serafin gibt [[Madam Rich]] Bescheid. Thijs schreibt er:  
     - [[Serafin]] (SMS): Das Problem, das wir für erledigt hielten, hat Nachkömmlinge.  
-  - Dann ruft er [[Veronic|Veronix]] zurück.  
-    - [[Veronic|Veronix]]: Wichtig: Du hast morgen ein Date. Ein Herr [[Leonardo De Loria|De Loria]], ein Älterer unseres Klans. Er möchte von dir lernen. Verkack's nicht.  
+  - Dann ruft er [[Veronix]] zurück.  
+    - [[Veronix]]: Wichtig: Du hast morgen ein Date. Ein Herr [[De Loria]], ein Älterer unseres Klans. Er möchte von dir lernen. Verkack's nicht.  
 
 - **Schadensbegrenzung**  
   - Im Keller schiebt Nu Lexy von sich und fragt Brian, wie es ihm geht.  
     - [[Brian]]: Warum tragen Sie eine Maske?  
-    - [[Numan Prince|Nu]]: Warum liegt hier Stroh?  
+    - [[Nu]]: Warum liegt hier Stroh?  
     - [[Brian]]: Sind Sie ein Freund von Taste?  
-    - [[Numan Prince|Nu]]: Ja, ich glaub schon.  
+    - [[Nu]]: Ja, ich glaub schon.  
   - Nu zieht Brian die Zwangsjacke aus. Elowen kotzt einen Regenbogen, dann sieht sie Moses im Aufzug. Brian steht ohne Zwangsjacke da, Elowen schaut entgeistert, und Nu ist ziemlich zerfetzt. Darunter sieht man graue Haut voller Pusteln und Beulen.  
     - [[Gideon Poxwell]]: Ich denke, es ist Zeit für Schadensbegrenzung. Wir sollten sie pfählen und vorerst verstecken.  
-    - [[Numan Prince|Nu]]: Ich würde gern weiterleben.  
+    - [[Nu]]: Ich würde gern weiterleben.  
     - [[Gideon Poxwell]]: Wir müssen entscheiden, ob wir sie im Zweifel ausliefern oder verstecken.  
-    - [[Numan Prince|Nu]]: Wenn man den Pflock rauszieht, ist sie dann ruhig?  
+    - [[Nu]]: Wenn man den Pflock rauszieht, ist sie dann ruhig?  
     - [[Gideon Poxwell]]: Das weiß ich nicht. Aber es würde mich außerordentlich interessieren.  
   - Nu zieht Lexy den Pfahl aus dem Rücken. Sie springt auf und will wissen, wo sie ist.  
     - [[Gideon Poxwell]]: Was ist das Letzte, woran du dich erinnerst?  
     - [[Lexy Sexy]]: Du hast mir gesagt, dass BBD tot ist. Dann weiß ich nichts mehr.  
-    - [[Numan Prince|Nu]]: Dann bist du leider ein bisschen traurig geworden. Aber hätte er gesehen, wie du ausgerastet bist, ich bin sicher, das hätte ihn gefreut. Wir haben ein Problem: Ich hab gehört, ein Bekannter will uns verraten.  
+    - [[Nu]]: Dann bist du leider ein bisschen traurig geworden. Aber hätte er gesehen, wie du ausgerastet bist, ich bin sicher, das hätte ihn gefreut. Wir haben ein Problem: Ich hab gehört, ein Bekannter will uns verraten.  
   - Gideon erklärt ihr die Gesellschaft der Vampire, und dass sie unerlaubt gezeugt wurde. Nu erzählt von einem Ort, an dem man sie unterbringen könnte. Gideon will es nicht wissen, Nu erzählt trotzdem mehr.  
     - [[Gideon Poxwell]]: Ich kann nur dafür sorgen, dass das Problem sicher verschwindet.  
     - [[Lexy Sexy]]: Was?! Wieso? Und wie lange?  
@@ -388,11 +388,11 @@
 
 - **Ein Date mit einem Ältesten**  
   - Serafin kommt im Bordell an. Veronix erwartet ihn in Reizwäsche.  
-    - [[Veronic|Veronix]]: Also, erstens finde ich es wirklich reizend, dass du vorbeischaust und dich der Sache annimmst. Wie du dir vielleicht vorstellen kannst, sind Ältere wirklich sehr alt. So gut kenne ich ihn nicht. Aber sagen wir es so: Er hat den Fall Roms miterlebt. Viele Verhaltensregeln kann ich dir gar nicht mitgeben. Sei schnell auf den Beinen und stell dich so rasch wie möglich auf ihn ein. Bei jemandem, der schon so lange lebt, stell dir vor, du bist ein zweijähriges Kind, das mit einem Hundertjährigen redet. Er hat dich auf der Bühne gesehen. Als er erfahren hat, dass du von unserem Klan bist, war er hellauf begeistert und meinte, du könntest ihm helfen, seine Fähigkeiten zu verbessern. Ich weiß nicht genau, worum es geht, irgendeiner deiner Zaubertricks. Also, viel Glück.  
+    - [[Veronix]]: Also, erstens finde ich es wirklich reizend, dass du vorbeischaust und dich der Sache annimmst. Wie du dir vielleicht vorstellen kannst, sind Ältere wirklich sehr alt. So gut kenne ich ihn nicht. Aber sagen wir es so: Er hat den Fall Roms miterlebt. Viele Verhaltensregeln kann ich dir gar nicht mitgeben. Sei schnell auf den Beinen und stell dich so rasch wie möglich auf ihn ein. Bei jemandem, der schon so lange lebt, stell dir vor, du bist ein zweijähriges Kind, das mit einem Hundertjährigen redet. Er hat dich auf der Bühne gesehen. Als er erfahren hat, dass du von unserem Klan bist, war er hellauf begeistert und meinte, du könntest ihm helfen, seine Fähigkeiten zu verbessern. Ich weiß nicht genau, worum es geht, irgendeiner deiner Zaubertricks. Also, viel Glück.  
     - [[Serafin]]: Hat er ausdrücklich nach meiner Assistentin gefragt?  
-    - [[Veronic|Veronix]]: Nicht ausdrücklich. Aber Wesen in diesem Alter erkennen Sterbliche nicht immer als Personen an, eher wie Fliegen. Vermutlich hat er sie gar nicht wahrgenommen. Nimm diesen Tisch hier: Egal, wie gut er gearbeitet ist, du sprichst ihm keine Persönlichkeit zu. Aber du hast die Möglichkeit, bei einem durchaus mächtigen Wesen einen Fuß in die Tür zu bekommen. Auch wenn man sich fragen kann, ob man das will. Er weiß, dass du existierst, also verärgere ihn nicht. Nur, wenn du ihm zu gut gefällst … Jüngere sind für unsereins oft auch nicht mehr als Ghule. Ist dir das System der Blutsbande bei den Älteren bekannt? Und weißt du, warum es die Camarilla gibt?  
+    - [[Veronix]]: Nicht ausdrücklich. Aber Wesen in diesem Alter erkennen Sterbliche nicht immer als Personen an, eher wie Fliegen. Vermutlich hat er sie gar nicht wahrgenommen. Nimm diesen Tisch hier: Egal, wie gut er gearbeitet ist, du sprichst ihm keine Persönlichkeit zu. Aber du hast die Möglichkeit, bei einem durchaus mächtigen Wesen einen Fuß in die Tür zu bekommen. Auch wenn man sich fragen kann, ob man das will. Er weiß, dass du existierst, also verärgere ihn nicht. Nur, wenn du ihm zu gut gefällst … Jüngere sind für unsereins oft auch nicht mehr als Ghule. Ist dir das System der Blutsbande bei den Älteren bekannt? Und weißt du, warum es die Camarilla gibt?  
   - Hardestadt sei die Camarilla, und der Älteste habe ihn gekannt.  
-    - [[Veronic|Veronix]]: Die Camarilla wurde gegründet, damit die Jüngeren zusammen ein Gegengewicht zu den Älteren bilden und über ihre Zahl etwas ausrichten können. Erst danach haben wir uns auf die Maskerade konzentriert. Wir hätten ein Problem mit einem Aufstand der Sterblichen, sie nicht. Du kennst vermutlich ein paar Namen der Ahnen: Zeus, Aphrodite, Poseidon. Ich weiß nicht, ob er eine dieser Personen ist oder ob er seinen eigenen Namen überhaupt noch kennt. Ach, und wenn du Thijs siehst: Er hat noch etwas zu erledigen. Sonst übernimmt das jemand anderes.  
+    - [[Veronix]]: Die Camarilla wurde gegründet, damit die Jüngeren zusammen ein Gegengewicht zu den Älteren bilden und über ihre Zahl etwas ausrichten können. Erst danach haben wir uns auf die Maskerade konzentriert. Wir hätten ein Problem mit einem Aufstand der Sterblichen, sie nicht. Du kennst vermutlich ein paar Namen der Ahnen: Zeus, Aphrodite, Poseidon. Ich weiß nicht, ob er eine dieser Personen ist oder ob er seinen eigenen Namen überhaupt noch kennt. Ach, und wenn du Thijs siehst: Er hat noch etwas zu erledigen. Sonst übernimmt das jemand anderes.  
 
 - **Onkel Ernas Waldhütten-Hotel**  
   - Nu bezieht mit Lexy ein Zimmer in Onkel Ernas Waldhütten-Hotel. Er denkt an den Ratschlag und hängt das Bitte-nicht-stören-Schild an die Tür.  

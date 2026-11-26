@@ -5,9 +5,9 @@
 > Diese Fassung entspricht nahezu vollständig dem Haupt-Log. Herausgenommen ist nur eine Kleinigkeit, die in dieser Nacht nur eine einzige Figur weiß und für sich behält. Dass Nu in Wahrheit Dianzu ist, war damals ein Geheimnis, ist inzwischen aber allen bekannt.
 
 - **Lexy in Sicherheit**  
-  - [[Numan Prince|Nu]] wacht im [[Onkel Ernas Waldhütten-Hotel]] auf und spricht noch mit [[Lexy Sexy]]. Dann übergibt er sie an die Leute, die [[Rita]] schickt, um sie aus der Stadt zu bringen.  
+  - [[Nu]] wacht im [[Onkel Ernas Waldhütten-Hotel]] auf und spricht noch mit [[Lexy Sexy]]. Dann übergibt er sie an die Leute, die [[Rita]] schickt, um sie aus der Stadt zu bringen.  
   - Später ruft er bei den Abholern an.  
-    - [[Numan Prince|Nu]]: Ist sie gut angekommen? Geht's ihr gut? Braucht sie irgendwas, kann ich was tun?  
+    - [[Nu]]: Ist sie gut angekommen? Geht's ihr gut? Braucht sie irgendwas, kann ich was tun?  
     - Zu Lexy selbst: Sie soll ihr Telefon zerstören und sich von einer neuen Nummer bei ihm melden.  
   - Dann fährt Nu zurück zu [[Gideon Poxwell]].  
 
@@ -21,12 +21,12 @@
     - [[Elowen]]: Das Kind … das Kind muss sich vorsehen. Vor dem Wolf im Wolfspelz.  
 
 - **Leonardo**  
-  - Plötzlich verspüren alle das Bedürfnis, nach draußen zu gehen und dort zu warten. Sonst ist in L.A. immer irgendjemand unterwegs, doch jetzt ist die Straße bis auf einen einzigen Mann menschenleer. Er möchte zu Serafin und stellt sich als [[Leonardo De Loria|Leonardo]] vor. Alle stellen sich ebenfalls vor.  
-    - [[Leonardo De Loria|Leonardo]]: Ich habe Eure Vorführung mit Begeisterung gesehen. Ihr schneidet Sterbliche nicht nur auseinander, Ihr setzt sie auch wieder zusammen, und das mit einer Leichtigkeit, die mich erstaunt. Ich praktiziere die Künste des Klans des Drachen selbst, doch selbst nach Jahrhunderten habe ich Eure Fertigkeit nicht erreicht. Ich möchte, dass Ihr sie mich lehrt.  
+  - Plötzlich verspüren alle das Bedürfnis, nach draußen zu gehen und dort zu warten. Sonst ist in L.A. immer irgendjemand unterwegs, doch jetzt ist die Straße bis auf einen einzigen Mann menschenleer. Er möchte zu Serafin und stellt sich als [[Leonardo]] vor. Alle stellen sich ebenfalls vor.  
+    - [[Leonardo]]: Ich habe Eure Vorführung mit Begeisterung gesehen. Ihr schneidet Sterbliche nicht nur auseinander, Ihr setzt sie auch wieder zusammen, und das mit einer Leichtigkeit, die mich erstaunt. Ich praktiziere die Künste des Klans des Drachen selbst, doch selbst nach Jahrhunderten habe ich Eure Fertigkeit nicht erreicht. Ich möchte, dass Ihr sie mich lehrt.  
     - [[Serafin]]: Da muss ich Euch leider enttäuschen. Das ist keine Kunst unseres Blutes, sondern ein Handwerk der Sterblichen.  
-    - [[Leonardo De Loria|Leonardo]]: Ihr konntet das schon als Sterblicher? Erstaunlich. Mir ist es nur möglich, mein eigenes Fleisch zu formen.  
+    - [[Leonardo]]: Ihr konntet das schon als Sterblicher? Erstaunlich. Mir ist es nur möglich, mein eigenes Fleisch zu formen.  
     - [[Serafin]]: Und ich bin leider gar nicht in der Lage, mich solcher Fähigkeiten zu bedienen.  
-    - [[Leonardo De Loria|Leonardo]]: Mich erstaunt Eure Widerstandskraft gegen meine Ausstrahlung. Ich weiß wohl, dass ich einige meiner Fähigkeiten nicht mehr ganz beherrsche, und doch widersteht Ihr. Ein interessantes Subjekt. Seid Ihr sicher, dass Ihr meinem Klan angehört? Man hat mich als Toreador aufgenommen, aber ich teile nicht alle Gaben des Klans. Erlaubt Ihr mir einen kurzen Blick in Euren Verstand?  
+    - [[Leonardo]]: Mich erstaunt Eure Widerstandskraft gegen meine Ausstrahlung. Ich weiß wohl, dass ich einige meiner Fähigkeiten nicht mehr ganz beherrsche, und doch widersteht Ihr. Ein interessantes Subjekt. Seid Ihr sicher, dass Ihr meinem Klan angehört? Man hat mich als Toreador aufgenommen, aber ich teile nicht alle Gaben des Klans. Erlaubt Ihr mir einen kurzen Blick in Euren Verstand?  
   - Leonardo blickt in Serafins Verstand. Im selben Moment sieht Serafin durch Leonardos Augen. Seinen eigenen Körper kann er nicht mehr steuern. Er sieht Bilder aus Leonardos Vergangenheit:  
     - Leonardo ist an einen Stuhl gefesselt. Er wird gefoltert und mit Fleischformung neu zusammengesetzt.  
     - Rom brennt, Schlacht um Schlacht, immer aus der Entfernung, nie aus der Nähe.  
@@ -40,18 +40,18 @@
   - Serafin hat Angst, und Leonardo genießt sie. Durch Leonardos Augen sieht Serafin, wie er selbst laut ruft:  
     - [[Serafin]]: Stopp!  
   - Leonardo hält inne. Das Wesen vor Gideon zerfällt zu verrottendem Fleisch, und Leonardo ist wieder er selbst.  
-    - [[Leonardo De Loria|Leonardo]]: Ich danke Euch. Bei dem, weswegen ich eigentlich kam, konntet Ihr mir nicht helfen. Aber diese echten Gefühle, Furcht, Verzweiflung … so etwas habe ich seit Jahrhunderten nicht mehr gespürt. Habt vielen Dank.  
+    - [[Leonardo]]: Ich danke Euch. Bei dem, weswegen ich eigentlich kam, konntet Ihr mir nicht helfen. Aber diese echten Gefühle, Furcht, Verzweiflung … so etwas habe ich seit Jahrhunderten nicht mehr gespürt. Habt vielen Dank.  
 
 - **Nachgespräch**  
   - Serafin geht Leonardo hinterher.  
     - [[Serafin]]: Herr Leonardo, auch wenn ich Euch nicht ganz helfen konnte … Ich weiß nicht, wie viel von meiner Erinnerung Ihr sehen konntet.  
-    - [[Leonardo De Loria|Leonardo]]: Ach, gar nicht so viel. Vielleicht dreißig Jahre.  
-    - [[Serafin]]: Dann erinnert Ihr Euch an [[Voivod Tzareck|Voivod Zaric]]?  
-    - [[Leonardo De Loria|Leonardo]]: Dann seid Ihr in den höheren Stufen des Sehens noch nicht bewandert. Es sind eher Bilder und Gefühle.  
+    - [[Leonardo]]: Ach, gar nicht so viel. Vielleicht dreißig Jahre.  
+    - [[Serafin]]: Dann erinnert Ihr Euch an [[Voivod Tzareck]]?  
+    - [[Leonardo]]: Dann seid Ihr in den höheren Stufen des Sehens noch nicht bewandert. Es sind eher Bilder und Gefühle.  
     - [[Serafin]]: Er lebte hier und hatte die Fähigkeiten, die Ihr sucht. Bis vor zwei Wochen war er Bischof des [[Sabbat]].  
-    - [[Leonardo De Loria|Leonardo]]: Ein Wurzeldings, ja, das habe ich gesehen. Eine angemessene Reaktion, wenn man so ein Wesen zum ersten Mal sieht. Aber nein. Ich habe den Vertretern des Klans des Drachen versprochen, sie nicht weiter zu diesen Techniken zu befragen und in ihren Gebieten keine Nachforschungen darüber anzustellen. Ihr seid ja von meinem Blut.  
+    - [[Leonardo]]: Ein Wurzeldings, ja, das habe ich gesehen. Eine angemessene Reaktion, wenn man so ein Wesen zum ersten Mal sieht. Aber nein. Ich habe den Vertretern des Klans des Drachen versprochen, sie nicht weiter zu diesen Techniken zu befragen und in ihren Gebieten keine Nachforschungen darüber anzustellen. Ihr seid ja von meinem Blut.  
     - [[Serafin]]: Ich dachte nur, es könnte helfen.  
-    - [[Leonardo De Loria|Leonardo]]: Löblich. Aber nein, danke. Ich empfehle mich.  
+    - [[Leonardo]]: Löblich. Aber nein, danke. Ich empfehle mich.  
 
 - **Fleischreste**  
   - Gideon sammelt die zerfallenden Reste ein und bringt sie in die Klinik. Schon unterwegs lösen sie sich zusehends auf.  
@@ -60,50 +60,50 @@
   - Elowen steht noch auf der Straße und geht zurück in die Praxis. Dort hat Gideon gerade wieder den Mund voller Fleisch und spuckt es aus.  
 
 - **Bei Veronix**  
-  - Serafin gibt dem Hecata-Kontakt Bescheid, dass er sich verspätet, und fährt zu [[Veronic|Veronix]].  
-    - [[Veronic|Veronix]]: Oh, er lebt noch. Folge mir doch.  
+  - Serafin gibt dem Hecata-Kontakt Bescheid, dass er sich verspätet, und fährt zu [[Veronix]].  
+    - [[Veronix]]: Oh, er lebt noch. Folge mir doch.  
   - Serafin bittet um einen Drink.  
-    - [[Veronic|Veronix]]: Er kehrt zurück. Ich muss sagen, ich bin leicht überrascht.  
+    - [[Veronix]]: Er kehrt zurück. Ich muss sagen, ich bin leicht überrascht.  
     - [[Serafin]]: Wie zu erwarten, ging es zunächst schief. Herr De Loria wünschte, dass ich ihn die Kunst des Drachen lehre.  
-    - [[Veronic|Veronix]]: Fleischformung. Verfügst du über diese Kraft?  
+    - [[Veronix]]: Fleischformung. Verfügst du über diese Kraft?  
     - [[Serafin]]: Nein. Darin liegt das Problem, das er hatte.  
-    - [[Veronic|Veronix]]: Das hätte mich auch gewundert.  
+    - [[Veronix]]: Das hätte mich auch gewundert.  
     - [[Serafin]]: Als das Missverständnis geklärt war, geriet er etwas in Aufruhr. Zwei der Anwesenden wurden schwer verletzt. Ich konnte ihn beruhigen, und wir sind friedlich unserer Wege gegangen.  
-    - [[Veronic|Veronix]]: Die Verletzten?  
+    - [[Veronix]]: Die Verletzten?  
     - [[Serafin]]: Dr. Poxwell, dem der Treffpunkt gehört, und einer seiner Schützlinge, ein Nosferatu. Als Herr De Loria in Wut geriet, wurde er zu einem Monstrum, und das außerhalb des Gebäudes. Das könnte der Maskerade schaden.  
-    - [[Veronic|Veronix]]: Waren Sterbliche auf der Straße?  
+    - [[Veronix]]: Waren Sterbliche auf der Straße?  
     - [[Serafin]]: Es sah nicht danach aus. Sie schienen ihn gemieden zu haben.  
-    - [[Veronic|Veronix]]: Ich werde ein paar Anrufe machen, damit keine Pressevertreter Schwierigkeiten machen. Details sind fürs Erste nicht nötig. Sonst noch etwas?  
+    - [[Veronix]]: Ich werde ein paar Anrufe machen, damit keine Pressevertreter Schwierigkeiten machen. Details sind fürs Erste nicht nötig. Sonst noch etwas?  
     - [[Serafin]]: Ich war vor ein paar Tagen wegen des Zwischenfalls mit dem Prinzen hier und habe seitdem nichts mehr gehört.  
-    - [[Veronic|Veronix]]: Über Interna des inneren Kreises sollten wir noch nicht sprechen. Aber uns stehen turbulente Zeiten bevor. Erinnere deine Gruppe Neulinge daran, dass die [[Camarilla]] auch Schutz bietet. Das könnte in nächster Zeit hilfreich sein.  
+    - [[Veronix]]: Über Interna des inneren Kreises sollten wir noch nicht sprechen. Aber uns stehen turbulente Zeiten bevor. Erinnere deine Gruppe Neulinge daran, dass die [[Camarilla]] auch Schutz bietet. Das könnte in nächster Zeit hilfreich sein.  
     - [[Serafin]]: Ich würde gern das Opernhaus erwerben.  
-    - [[Veronic|Veronix]]: Das abgebrannte?  
+    - [[Veronix]]: Das abgebrannte?  
     - [[Serafin]]: Ich möchte eine Bühne für die Liebhaber der Kunst. [[Michael]] meinte, es sei das alte [[Elysium]] gewesen.  
     - Bei Michaels Namen ist Veronix kurz außer Fassung.  
-    - [[Veronic|Veronix]]: Natürlich geziemt es sich, bei solchen Unterfangen zu fragen, und momentan sehe ich keinen Grund dagegen.  
+    - [[Veronix]]: Natürlich geziemt es sich, bei solchen Unterfangen zu fragen, und momentan sehe ich keinen Grund dagegen.  
     - [[Serafin]]: Und die anderen Klans?  
-    - [[Veronic|Veronix]]: Kunst und Kultur sind unsere Domäne.  
+    - [[Veronix]]: Kunst und Kultur sind unsere Domäne.  
     - [[Serafin]]: Wie standest du zu Michael? Oder wie stehst du zu ihm?  
-    - [[Veronic|Veronix]]: Lass uns nicht über die Verflossenen reden.  
+    - [[Veronix]]: Lass uns nicht über die Verflossenen reden.  
     - [[Serafin]]: Noch ist er nicht verflossen.  
-    - [[Veronic|Veronix]]: Soweit ich weiß, ist er nicht mehr Teil der Camarilla. Er ist, wie du vielleicht weißt, zu den [[Hecata]] gegangen.  
-    - [[Veronic|Veronix]]: Und ich muss davon ausgehen, dass er beim Transport zu den Hecata in der Explosion vernichtet wurde. Für mich ist die Sache damit gleich zweifach abgeschlossen: Der vermeintliche Verräter sollte überstellt werden, und bei der Überstellung wurde er vernichtet.  
+    - [[Veronix]]: Soweit ich weiß, ist er nicht mehr Teil der Camarilla. Er ist, wie du vielleicht weißt, zu den [[Hecata]] gegangen.  
+    - [[Veronix]]: Und ich muss davon ausgehen, dass er beim Transport zu den Hecata in der Explosion vernichtet wurde. Für mich ist die Sache damit gleich zweifach abgeschlossen: Der vermeintliche Verräter sollte überstellt werden, und bei der Überstellung wurde er vernichtet.  
     - [[Serafin]]: Und sollte er doch nicht mehr bei den Hecata sein, ließe sich da noch etwas machen?  
-    - [[Veronic|Veronix]]: Sagen wir es so: Er wurde offiziell für seine Taten bestraft und ausgeliefert. Als Primogen und Vorstand seines Klans und als Vertreterin der Camarilla muss ich zu hundert Prozent hinter dieser Entscheidung stehen. Sollte er wie durch ein Wunder wieder auftauchen, wäre ich gezwungen, nachzuholen, was versäumt wurde. Würde ich etwas anderes erfahren, müsste ich danach handeln. Solange ich nichts in dieser Richtung weiß, sehe ich auch keinen Grund dazu. Und es wäre schön, wenn das so bliebe.  
+    - [[Veronix]]: Sagen wir es so: Er wurde offiziell für seine Taten bestraft und ausgeliefert. Als Primogen und Vorstand seines Klans und als Vertreterin der Camarilla muss ich zu hundert Prozent hinter dieser Entscheidung stehen. Sollte er wie durch ein Wunder wieder auftauchen, wäre ich gezwungen, nachzuholen, was versäumt wurde. Würde ich etwas anderes erfahren, müsste ich danach handeln. Solange ich nichts in dieser Richtung weiß, sehe ich auch keinen Grund dazu. Und es wäre schön, wenn das so bliebe.  
     - [[Serafin]]: Das ist bedauerlich. Die Hecata sind sich nämlich nicht sicher, dass es Michael war.  
-    - [[Veronic|Veronix]]: Interessant. Sagen wir es so: Würde ein Mitglied unseres Klans von der höchsten Sünde freigesprochen, wäre es mir eine Freude, und es würde mein Herz erfüllen. Aber solange das Urteil gesprochen ist …  
+    - [[Veronix]]: Interessant. Sagen wir es so: Würde ein Mitglied unseres Klans von der höchsten Sünde freigesprochen, wäre es mir eine Freude, und es würde mein Herz erfüllen. Aber solange das Urteil gesprochen ist …  
     - [[Serafin]]: Zählt auch die Einschätzung der Hecata?  
-    - [[Veronic|Veronix]]: Die Hecata sind kein Teil der Camarilla. Es gab eine Abmachung, und die wurde meines Wissens eingehalten.  
+    - [[Veronix]]: Die Hecata sind kein Teil der Camarilla. Es gab eine Abmachung, und die wurde meines Wissens eingehalten.  
   - Serafin trinkt den Alkohol.  
-    - [[Veronic|Veronix]]: Interessant, ein neuer Zaubertrick? Ich warte auf die natürliche Reaktion. Du musst einen Magen aus Eisen haben. Dir ist bekannt, was normalerweise passiert?  
+    - [[Veronix]]: Interessant, ein neuer Zaubertrick? Ich warte auf die natürliche Reaktion. Du musst einen Magen aus Eisen haben. Dir ist bekannt, was normalerweise passiert?  
     - [[Serafin]]: Ich habe gesehen, was anderen widerfährt.  
-    - [[Veronic|Veronix]]: Sieh es als das Geschenk, das es ist. Es gibt den einen oder anderen Klan, der solche Besonderheiten gern reproduzieren würde.  
+    - [[Veronix]]: Sieh es als das Geschenk, das es ist. Es gibt den einen oder anderen Klan, der solche Besonderheiten gern reproduzieren würde.  
     - [[Serafin]]: Dann vielen Dank für deine Zeit.  
   - Veronix küsst ihn auf die Wange.  
 
 - **Thijs will Brian holen**  
   - Früher am Abend ist [[Thijs]] zu Hause. [[Madam Rich]] erzählt ihm alles, was sie von Serafin über Lexy und Brian weiß. Thijs bittet um Unterstützung und bekommt Serafins Nummer.  
-  - Als er heimkommt, ist plötzlich eine Frau in seiner Wohnung und stellt sich als [[Paulina Vasileva|Paulina]] vor. Dass sie weiß, wo er wohnt, gefällt Thijs gar nicht. Sie möchte sich [[Sir Emmentaler]] für eine Nacht ausleihen. Thijs ist nicht begeistert, sagt aber zu, um es sich mit niemandem zu verscherzen.  
+  - Als er heimkommt, ist plötzlich eine Frau in seiner Wohnung und stellt sich als [[Paulina]] vor. Dass sie weiß, wo er wohnt, gefällt Thijs gar nicht. Sie möchte sich [[Sir Emmentaler]] für eine Nacht ausleihen. Thijs ist nicht begeistert, sagt aber zu, um es sich mit niemandem zu verscherzen.  
   - Jetzt ruft er Serafin an.  
     - [[Thijs]]: Ich glaub, du kannst mir helfen. Ich will mich um [[Brian]] kümmern.  
     - [[Serafin]]: Ich bin beschäftigt. Ich weiß nicht, wie lange mein Unterfangen dauert.  
@@ -112,15 +112,15 @@
     - [[Thijs]]: Wir gehen hin und klauen die. Natürlich möglichst ohne Blutvergießen, wie immer. Ich hab noch nie jemand mit 'nem Holzpflock angestochen.  
     - [[Serafin]]: Ich bin vorerst beschäftigt.  
     - [[Thijs]]: Wie lange? Meld dich, wenn du fertig bist.  
-  - Danach spricht Thijs mit [[Marcus Shaw|Markus]].  
+  - Danach spricht Thijs mit [[Marcus]].  
     - [[Thijs]]: Gibt's noch mehr Hilfe? Ich hab mit der einen geredet, dieser [[Viola Schneider]].  
-    - [[Marcus Shaw|Markus]]: Die ist leider gerade in El Segundo beschäftigt.  
+    - [[Marcus]]: Die ist leider gerade in El Segundo beschäftigt.  
     - [[Thijs]]: Sind die Bahari nicht irgendwie relevant?  
-    - [[Marcus Shaw|Markus]]: Bahari? Wir haben hier Bahari-Kulte?  
+    - [[Marcus]]: Bahari? Wir haben hier Bahari-Kulte?  
     - [[Thijs]]: Joa, vermutlich.  
-    - [[Marcus Shaw|Markus]]: Wenn du mir einen Bahari bringst, lege ich bei [[Aischa]] ein Wort für eine feste Stelle ein.  
+    - [[Marcus]]: Wenn du mir einen Bahari bringst, lege ich bei [[Aischa]] ein Wort für eine feste Stelle ein.  
     - [[Thijs]]: Hast du noch was zu essen?  
-    - [[Marcus Shaw|Markus]]: Ja, du bekommst etwas. Kleiner Tipp: Sorg dafür, dass dein Kollege in die Pötte kommt.  
+    - [[Marcus]]: Ja, du bekommst etwas. Kleiner Tipp: Sorg dafür, dass dein Kollege in die Pötte kommt.  
     - [[Thijs]]: Kann ich ihm irgendwie Druck machen?  
   - Markus gibt ihm Zugriff auf einen GPS-Peilsender, über den sich Serafin orten lässt.  
     - [[Thijs]]: Habt ihr ein zuverlässiges Taxi, das kein Indisch spricht?  
@@ -170,45 +170,45 @@
   - Elowen schlägt den Polizisten rechtzeitig die Tür vor der Nase zu. Im selben Moment geht Gideons Hunger mit ihm durch, und Elowen fängt sich eine Ohrfeige.  
   - Gideon bekommt sich schnell wieder in den Griff. Er trinkt aus seiner Taschenuhr und entschuldigt sich. Während er frische Kleidung holt, öffnet Elowen den Polizisten wieder.  
     - [[Elowen]]: Der Halter des Wagens kommt gleich und wird Sie informieren.  
-    - [[Jake Peralta|Jake]]: Kennen Sie ihn denn persönlich?  
+    - [[Jake]]: Kennen Sie ihn denn persönlich?  
   - Elowen sucht Jakes Blick (**Beherrschen**).  
     - [[Elowen]]: Hey, Augen zu mir. Der kommt gleich, in einer Weile. Was haben Sie denn heute so gemacht?  
-    - [[Jake Peralta|Jake]]: Donuts gegessen und jemanden observiert. Ist bei Ihnen alles in Ordnung? Wir haben so etwas wie einen Kampf gehört.  
+    - [[Jake]]: Donuts gegessen und jemanden observiert. Ist bei Ihnen alles in Ordnung? Wir haben so etwas wie einen Kampf gehört.  
     - [[Elowen]]: Erzählen Sie mir mehr über die Observation.  
-    - [[Jake Peralta|Jake]]: Das waren auf jeden Fall Schwarze.  
+    - [[Jake]]: Das waren auf jeden Fall Schwarze.  
     - [[Elowen]]: Kennen Sie denn den Halter des Fahrzeugs?  
   - Gideon kommt frisch angezogen an die Tür.  
-    - [[Jake Peralta|Jake]]: Das große Schiff da.  
+    - [[Jake]]: Das große Schiff da.  
     - [[Gideon Poxwell]]: Das hat ein Bekannter hier abgestellt.  
   - Die Lüge wird durchschaut.  
-    - [[Jake Peralta|Jake]]: Sir, kennen Sie den Halter, und wann haben Sie ihn zuletzt gesehen?  
+    - [[Jake]]: Sir, kennen Sie den Halter, und wann haben Sie ihn zuletzt gesehen?  
     - [[Gideon Poxwell]]: Hier in der Nähe gab es eine Explosion. Seitdem habe ich ihn nicht mehr gesehen.  
-    - [[Jake Peralta|Jake]]: Haben Sie einen Schlüssel?  
+    - [[Jake]]: Haben Sie einen Schlüssel?  
     - [[Gideon Poxwell]]: Ich kannte ihn über den Rapper.  
-    - [[Jake Peralta|Jake]]: Waren Sie dabei, als er erschossen wurde?  
+    - [[Jake]]: Waren Sie dabei, als er erschossen wurde?  
     - [[Gideon Poxwell]]: Ja.  
-    - [[Jake Peralta|Jake]]: Hier ist meine Karte. Wir lassen den Wagen jetzt abschleppen. Die Rechnung geht an Sie, weil er bei Ihnen steht.  
+    - [[Jake]]: Hier ist meine Karte. Wir lassen den Wagen jetzt abschleppen. Die Rechnung geht an Sie, weil er bei Ihnen steht.  
   - Im Gehen sagt Jake zu Raimond:  
-    - [[Jake Peralta|Jake]]: Joa, der lügt.  
-  - [[Numan Prince|Nu]] kommt aus der Kanalisation und klopft.  
+    - [[Jake]]: Joa, der lügt.  
+  - [[Nu]] kommt aus der Kanalisation und klopft.  
     - [[Gideon Poxwell]]: Ah, du bist es.  
-    - [[Numan Prince|Nu]]: Ja, genau. Darf ich reinkommen?  
+    - [[Nu]]: Ja, genau. Darf ich reinkommen?  
     - [[Gideon Poxwell]]: Ja. Ich hatte eine Art Anfall. Manchmal verliert man die Kontrolle über sich. Eigentlich möchte ich ein Stück von dem Schiff haben, aber solange die Polizei dabei ist, kann ich es nicht holen.  
-    - [[Numan Prince|Nu]]: Habt ihr einen Auftrag für mich?  
+    - [[Nu]]: Habt ihr einen Auftrag für mich?  
     - [[Elowen]]: Na ja, der Polizist fährt ziemlich auf mich ab. Dann könntest du es doch holen.  
   - Nu macht sich unsichtbar (**Verdunkelung**) und geht zum Wagen. Elowen lenkt derweil die Polizisten ab.  
-    - [[Jake Peralta|Jake]]: Hey, ich bin verheiratet.  
+    - [[Jake]]: Hey, ich bin verheiratet.  
     - [[Elowen]]: Das sollte Ihre Frau ja nicht stören, wenn wir hier einfach nur reden. Was machen Sie denn da?  
-    - [[Jake Peralta|Jake]]: Wir untersuchen das Fahrzeug, weil es mit einigen Tatorten in Verbindung steht. Auch hier gleich um die Ecke.  
+    - [[Jake]]: Wir untersuchen das Fahrzeug, weil es mit einigen Tatorten in Verbindung steht. Auch hier gleich um die Ecke.  
     - [[Elowen]]: Können Sie mir das genau zeigen?  
-    - [[Jake Peralta|Jake]]: Hier gab es eine riesige Explosion. Das zeige ich Ihnen, sobald der Wagen abgeschleppt ist.  
+    - [[Jake]]: Hier gab es eine riesige Explosion. Das zeige ich Ihnen, sobald der Wagen abgeschleppt ist.  
     - [[Elowen]]: Das würde ich aber gern sofort sehen.  
-    - [[Jake Peralta|Jake]]: Captain, ich muss kurz zurück zum Schauplatz der Explosion und ihn mit dieser Frau zusammen untersuchen.  
+    - [[Jake]]: Captain, ich muss kurz zurück zum Schauplatz der Explosion und ihn mit dieser Frau zusammen untersuchen.  
     - [[Elowen]]: Wollen Sie nicht mitkommen?  
-    - [[Raimond Hold|Raimond]]: Ja, das sollten wir alle gemeinsam mit dieser Frau machen. Nicht, dass da Schwarze sind.  
+    - [[Raimond]]: Ja, das sollten wir alle gemeinsam mit dieser Frau machen. Nicht, dass da Schwarze sind.  
   - Elowen fragt sie unterwegs aus.  
   - Nu bricht an einer unauffälligen Stelle ein Stück Holz aus dem Langschiff. Das ist schwerer als gedacht. Er bringt es Gideon.  
-    - [[Numan Prince|Nu]]: Ich hab 'ne ganze Latte! Haha. Die werden auch immer geschmiert und poliert. Und genagelt.  
+    - [[Nu]]: Ich hab 'ne ganze Latte! Haha. Die werden auch immer geschmiert und poliert. Und genagelt.  
   - Elowen lässt die beiden mit **Beherrschen** vergessen, dass sie zusammen weggegangen sind.  
   - Die Polizisten untersuchen den Wagen. Sie finden Waffen und auch Halterungen, aus denen Waffen fehlen.  
 
@@ -258,7 +258,7 @@
   - Thijs wirft es in ihre Richtung und trifft sie leicht.  
     - [[Serafin]]: Kannst du meine Gäste bitte nett behandeln?  
     - [[Thijs]]: Die wohnt doch hier.  
-    - [[Serafin]]: Warst du wieder bei [[Jeanette Voerman|Jeanette]]?  
+    - [[Serafin]]: Warst du wieder bei [[Jeanette]]?  
   - Haiku untersucht die Leiche. Thijs stöbert herum und findet im Unrat ein Bild von ALWAs Frau. Er hebt es auf.  
     - [[Haiku]]: Darf ich das auch mal sehen?  
     - [[Thijs]]: Guck mal, das ist ALWAs Frau. Siehst du nicht die Ähnlichkeit, Serafin? Okay, sie ist etwas jünger, und die Haare sind anders.  
@@ -268,48 +268,48 @@
 - **Elis Geist**  
   - Haiku betrachtet das Bild und ruft in einem Ritual den Geist, der mit dem Bild verbunden ist.  
     - [[Thijs]]: Was passiert hier? Ich hab mich von ALWA schon verabschiedet. Ich will den nicht nochmal treffen.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Alfons? Alfons, bist du das?  
+    - [[Eli]]: Alfons? Alfons, bist du das?  
     - [[Haiku]]: Wie lange bist du schon hier?  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Lange. Tage, Wochen. Ich vermisse dich. Man hat mir gesagt, du bist vielleicht auf dem Weg zu mir. Es ist so kalt hier.  
+    - [[Eli]]: Lange. Tage, Wochen. Ich vermisse dich. Man hat mir gesagt, du bist vielleicht auf dem Weg zu mir. Es ist so kalt hier.  
     - [[Haiku]]: Kannst du mir helfen? Ich verstehe nicht, was hier passiert ist.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Wo bist du? Es ist so dunkel, ich fürchte mich.  
+    - [[Eli]]: Wo bist du? Es ist so dunkel, ich fürchte mich.  
     - [[Haiku]]: Bei uns zu Hause.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Ah, das ist schön. Wie geht es dem netten kleinen Mädchen, das du vorbeigebracht hast? Sie war so ein nettes Mädchen, die kleine süße [[Maggie Tailor|Maggie]], so lebensfroh. Ich habe sie gleich ins Herz geschlossen.  
+    - [[Eli]]: Ah, das ist schön. Wie geht es dem netten kleinen Mädchen, das du vorbeigebracht hast? Sie war so ein nettes Mädchen, die kleine süße [[Maggie]], so lebensfroh. Ich habe sie gleich ins Herz geschlossen.  
     - [[Haiku]]: Wann hast du sie zuletzt gesehen?  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Noch vor meinem Tod.  
+    - [[Eli]]: Noch vor meinem Tod.  
     - [[Haiku]]: Was weißt du denn überhaupt noch?  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Gar nicht so viel. Du hast dich immer so gut um mich gekümmert.  
+    - [[Eli]]: Gar nicht so viel. Du hast dich immer so gut um mich gekümmert.  
     - [[Haiku]]: Vielleicht kann ich dir helfen, dass dir wärmer wird. Dann kannst du mir helfen, nach Hinweisen zu suchen.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Das wäre schön.  
+    - [[Eli]]: Das wäre schön.  
   - Haiku zieht Eli aus der Welt der Toten in die Welt der Lebenden. Eli kreischt.  
     - [[Thijs]]: Ich hasse dieses Geräusch. Als ob Meerschweinchen gefoltert werden. Das haben sie im Waisenhaus immer gemacht.  
     - [[Serafin]]: In was für einem Waisenhaus warst du?  
   - Thijs schweigt.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Wo bin ich? Du bist nicht mein Alwy!  
+    - [[Eli]]: Wo bin ich? Du bist nicht mein Alwy!  
     - [[Thijs]]: Ich find das ganz gruselig.  
     - [[Haiku]]: Geht es dir jetzt besser?  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Wo bin ich? Das ist nicht unser Zuhause!  
+    - [[Eli]]: Wo bin ich? Das ist nicht unser Zuhause!  
     - [[Haiku]]: Wo ist es denn?  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Im [[Ventrue Tower]].  
+    - [[Eli]]: Im [[Ventrue Tower]].  
   - Haiku weiß, dass dort ein gewisser Sebastian LaCroix gewohnt hat.  
     - [[Haiku]]: Welche Nummer?  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Ich habe das Apartment nie verlassen. Wer ist das? Was ist das für ein süßes Kind?  
+    - [[Eli]]: Ich habe das Apartment nie verlassen. Wer ist das? Was ist das für ein süßes Kind?  
   - Thijs sieht für einen Moment ALWAs Frau neben ALWAs Frau stehen. Das kann nicht sein. Auch Serafin kommen Zweifel. Beide sehen noch einmal genau hin, und jetzt sehen sie, wer da wirklich steht: Haiku ist eine Frau, die aussieht wie eine Wasserleiche. Weder Mafioso noch ALWAs Frau.  
   - Thijs rennt weg.  
     - [[Serafin]]: Eli, weißt du, wo ALWA ist?  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Neeein.  
+    - [[Eli]]: Neeein.  
     - [[Serafin]]: Wann hast du zuletzt mit ALWA gesprochen?  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: In der Welt der Toten gibt es keine Tage. Was liegt dort auf dem Boden?  
+    - [[Eli]]: In der Welt der Toten gibt es keine Tage. Was liegt dort auf dem Boden?  
     - [[Serafin]]: Eli, weißt du, wie weit ALWA für dich zu gehen bereit war? Er war ein Bekannter, bevor er gestorben ist.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Er ist nicht tot. Ich habe auf ihn gewartet.  
+    - [[Eli]]: Er ist nicht tot. Ich habe auf ihn gewartet.  
   - Serafin beginnt zu weinen.  
     - [[Serafin]]: ALWA ist nicht nur tot. Es ist schlimmer als der Tod.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Was ist schlimmer als der Tod?  
+    - [[Eli]]: Was ist schlimmer als der Tod?  
     - [[Serafin]]: Wenn auch das zerstört wird, was du bist. Das ist ALWA passiert.  
   - Eli sieht Serafin in die Augen.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Sag mir alles, was du über meinen Alwy weißt!  
+    - [[Eli]]: Sag mir alles, was du über meinen Alwy weißt!  
     - [[Serafin]]: Er starb.  
-    - [[Elizabeth Sienna von Arnstein|Eli]]: Hast du ihn getötet?  
+    - [[Eli]]: Hast du ihn getötet?  
     - [[Serafin]]: Ich versuche herauszufinden, was passiert ist, und hatte gehofft, du könntest mir helfen.  
   - Eli will in Serafin fahren. Haiku befiehlt ihr aufzuhören.  
   - Thijs macht ein Foto von der Szene. Darauf ist Serafin zu sehen, und dort, wo ALWAs Frau stand, eine Gestalt wie eine Wasserleiche. Eli ist auf dem Bild nicht zu sehen.  
@@ -358,7 +358,7 @@
 
 - **Auf dem Friedhof**  
   - Haiku und Elis Geist ziehen weiter zum Friedhof. Zwischen den Gräbern machen ein paar Drogendealer ihre Geschäfte. Die beiden erschrecken sie so sehr, dass sie Hals über Kopf fliehen. Ihre Ware lassen sie zurück, und Haiku nimmt sie an sich.  
-  - Gideon, Elowen und Nu nehmen ein Taxi zum Friedhof. Sie suchen das Grab von ALWAs verstorbener Frau [[Elizabeth Sienna von Arnstein|Eli]].  
+  - Gideon, Elowen und Nu nehmen ein Taxi zum Friedhof. Sie suchen das Grab von ALWAs verstorbener Frau [[Eli]].  
     - [[Gideon Poxwell]]: Hat einer von euch eine Idee, wie wir die Nosferatu auf uns aufmerksam machen, damit wir mit ihnen reden können?  
   - Elowen zeigt zwischen die Gräber.  
     - [[Elowen]]: Da steht doch jemand.  
@@ -374,15 +374,15 @@
 - **Audienz bei Garry Golden**  
   - [[Garry Golden]] erscheint.  
     - [[Garry Golden]]: Die Herren und die Dame. Es wurde um eine Audienz gebeten. Hier bin ich.  
-    - [[Numan Prince|Nu]]: Sind Sie der Primogen meines Klans?  
+    - [[Nu]]: Sind Sie der Primogen meines Klans?  
     - [[Garry Golden]]: Oh, ein Neuer.  
   - Sie schütteln sich die Hände.  
     - [[Garry Golden]]: Eine Kleopatra, wenn ich mir die Maske so ansehe.  
-    - [[Numan Prince|Nu]]: Ja, genau so wurde es mir erzählt.  
+    - [[Nu]]: Ja, genau so wurde es mir erzählt.  
     - [[Garry Golden]]: Erzeuger?  
-    - [[Numan Prince|Nu]]: [[Rita]].  
+    - [[Nu]]: [[Rita]].  
     - [[Garry Golden]]: Unter uns seit?  
-    - [[Numan Prince|Nu]]: Zwei, drei Nächte.  
+    - [[Nu]]: Zwei, drei Nächte.  
     - [[Garry Golden]]: Die Gesetze?  
   - Nu sagt sie auf.  
     - [[Garry Golden]]: Ah. Und sich vorstellen … Man sagte mir, irgendein Tremere möchte mich sprechen.  
@@ -462,17 +462,17 @@
 
 - **Fahrt zur Praxis**  
   - Auf dem Friedhof erzählt Nu Gideon, was Garry gesagt hat.  
-    - [[Numan Prince|Nu]]: Er hat nur gesagt, dass ich jetzt vorgestellt bin und dass er sich bei mir meldet, wenn er etwas braucht.  
+    - [[Nu]]: Er hat nur gesagt, dass ich jetzt vorgestellt bin und dass er sich bei mir meldet, wenn er etwas braucht.  
   - Nu möchte gemeinsam nach den Ghulen forschen. Gideon und Nu steigen in ein Taxi, um zu Gideons Praxis zu fahren.  
   - Im Rückspiegel sieht Nu eine halb verweste Leiche. Neben sich kann er niemanden entdecken.  
-    - [[Numan Prince|Nu]]: Gideon, was ist das? Ich habe gerade in den Rückspiegel gesehen, da war eine halb verweste Leiche …  
+    - [[Nu]]: Gideon, was ist das? Ich habe gerade in den Rückspiegel gesehen, da war eine halb verweste Leiche …  
     - Taxifahrer: Wenn wir noch zum Krankenhaus müssen …  
-    - [[Numan Prince|Nu]]: Das ist ja sehr beeindruckend. Die Verletzungen erinnern an einen Tierangriff. Und in beiden Fällen gab es Geräusche in der Nacht.  
+    - [[Nu]]: Das ist ja sehr beeindruckend. Die Verletzungen erinnern an einen Tierangriff. Und in beiden Fällen gab es Geräusche in der Nacht.  
   - Gideon erklärt sich bereit, die Leichen zu untersuchen.  
 
 - **Tobi und der Torso**  
-  - Spät in der Nacht kommen Gideon und Nu in der Praxis an. [[Toby|Tobi]] erwartet sie schon.  
-    - [[Toby|Tobi]]: Wir haben da eine interessante Lieferung reinbekommen. Bei einem wäre es wichtig, dass wir ihn uns sehr schnell ansehen. Ein Rechtsmediziner der Polizei hat ihn vorbeigebracht, weil vermutlich bald das FBI den Fall übernimmt. Außerdem haben wir zwei ziemlich zerfetzte Leute bekommen, für eine Zweitmeinung. Es gibt schon einen Bericht, wir sollen aber noch mal drüberschauen.  
+  - Spät in der Nacht kommen Gideon und Nu in der Praxis an. [[Tobi]] erwartet sie schon.  
+    - [[Tobi]]: Wir haben da eine interessante Lieferung reinbekommen. Bei einem wäre es wichtig, dass wir ihn uns sehr schnell ansehen. Ein Rechtsmediziner der Polizei hat ihn vorbeigebracht, weil vermutlich bald das FBI den Fall übernimmt. Außerdem haben wir zwei ziemlich zerfetzte Leute bekommen, für eine Zweitmeinung. Es gibt schon einen Bericht, wir sollen aber noch mal drüberschauen.  
     - [[Gideon Poxwell]]: Ich muss mich bei dir entschuldigen, für das, was letztens passiert ist.  
   - Gemeint ist, wie Gideon ihn in Nacht 16 wegen des Obduktionsberichts zurechtgewiesen hat.  
   - Gideon und Tobi gehen in den Sektionsraum. Auf dem Tisch liegt eine Leiche. Die beiden waschen sich die Hände und ziehen ihre Schutzanzüge an.  
@@ -483,36 +483,36 @@
   - Tobi kümmert sich darum, dass die Polizei eine Ersatzleiche bekommt.  
 
 - **Elenas Besuch**  
-  - Es klingelt. Vor der Tür steht [[Elena Zantrovitch|Elena]]. Gideon bittet sie herein, die Musik ist aus.  
-    - [[Elena Zantrovitch|Elena]]: Lange nicht gesehen. Ich wollte nur kurz vorbeischauen und euch ein paar Tipps geben. Ihr habt vielleicht mitbekommen, dass es in letzter Zeit ein paar Unfälle gab. Ein paar wichtige Leute hatten den einen oder anderen Zwischenfall.  
-    - [[Numan Prince|Nu]]: Ja, der Prinz und der Rapper.  
-    - [[Elena Zantrovitch|Elena]]: Ja, wichtige Leute eben, der Prinz. Ich sage das dir, Gideon, weil du ja das offizielle Sprachrohr der Clique bist. Eine kleine persönliche Empfehlung, weil du mir mit meinem Nachkommen geholfen hast: Sorg dafür, dass bekannt ist, dass du Teil der [[Camarilla]] bist. Die beschützen nur, wen sie als wertvoll ansehen, und im Moment giltst du als unabhängig.  
+  - Es klingelt. Vor der Tür steht [[Elena]]. Gideon bittet sie herein, die Musik ist aus.  
+    - [[Elena]]: Lange nicht gesehen. Ich wollte nur kurz vorbeischauen und euch ein paar Tipps geben. Ihr habt vielleicht mitbekommen, dass es in letzter Zeit ein paar Unfälle gab. Ein paar wichtige Leute hatten den einen oder anderen Zwischenfall.  
+    - [[Nu]]: Ja, der Prinz und der Rapper.  
+    - [[Elena]]: Ja, wichtige Leute eben, der Prinz. Ich sage das dir, Gideon, weil du ja das offizielle Sprachrohr der Clique bist. Eine kleine persönliche Empfehlung, weil du mir mit meinem Nachkommen geholfen hast: Sorg dafür, dass bekannt ist, dass du Teil der [[Camarilla]] bist. Die beschützen nur, wen sie als wertvoll ansehen, und im Moment giltst du als unabhängig.  
     - [[Gideon Poxwell]]: Kannst du mir dabei helfen? Wie stehst du denn da?  
-    - [[Elena Zantrovitch|Elena]]: Man kann sich zum Beispiel dafür einsetzen. Der Krieg hat jetzt offiziell angefangen. Es kommt natürlich immer gut an, wenn man den einen oder anderen [[Anarchen]] in die Schranken weist. Ich weiß ja nicht, ob euch das Kämpfen liegt. Ich bin da nicht so.  
-    - [[Numan Prince|Nu]]: Wäre es denn sinnvoll, mit Therese Geschäfte zu machen?  
-    - [[Elena Zantrovitch|Elena]]: Sei vorsichtig mit den Voermans.  
+    - [[Elena]]: Man kann sich zum Beispiel dafür einsetzen. Der Krieg hat jetzt offiziell angefangen. Es kommt natürlich immer gut an, wenn man den einen oder anderen [[Anarchen]] in die Schranken weist. Ich weiß ja nicht, ob euch das Kämpfen liegt. Ich bin da nicht so.  
+    - [[Nu]]: Wäre es denn sinnvoll, mit Therese Geschäfte zu machen?  
+    - [[Elena]]: Sei vorsichtig mit den Voermans.  
     - [[Gideon Poxwell]]: Wie steht es um dein Ansehen in der Camarilla?  
-    - [[Elena Zantrovitch|Elena]]: Mein Klan ist, wie du weißt, offiziell Teil der Camarilla, und wir haben spezielle Möglichkeiten, unseren Wert zu vermitteln.  
+    - [[Elena]]: Mein Klan ist, wie du weißt, offiziell Teil der Camarilla, und wir haben spezielle Möglichkeiten, unseren Wert zu vermitteln.  
   - Gideon bedankt sich. Elena singt eine Zeile vor sich hin. Gideon fragt, was sie damit meint, und sie sieht ihn komisch an.  
     - [[Gideon Poxwell]]: Erinnerst du dich noch an die Einzelheiten, wie ich dir mit deinem Nachkommen geholfen habe?  
-    - [[Elena Zantrovitch|Elena]]: Hast du etwas am Kopf?  
+    - [[Elena]]: Hast du etwas am Kopf?  
     - [[Gideon Poxwell]]: Ich wollte nur sehen, ob du dich an die Einzelheiten erinnerst.  
-    - [[Elena Zantrovitch|Elena]]: Ist ja auch schon etwas her, oder?  
+    - [[Elena]]: Ist ja auch schon etwas her, oder?  
     - [[Gideon Poxwell]]: Ja.  
   - Gideon erkennt, dass sie Lieder aus seiner Playlist singt.  
-    - [[Numan Prince|Nu]]: Kennen wir uns eigentlich? Ich bin so vergesslich in letzter Zeit.  
-    - [[Elena Zantrovitch|Elena]]: Darüber würde ich mir ernsthaft Gedanken machen. Hattet ihr in letzter Zeit Kontakt mit [[Ventrue]] oder so? … Wo ist eigentlich mein Nachkomme? Ja, die Elo.  
-    - [[Numan Prince|Nu]]: Die ist gerade in ihrem Fiebertraum und sieht wieder viele Kätzchen.  
-    - [[Elena Zantrovitch|Elena]]: Die könnte sich mal wieder melden. War sie das mit deinem Kopf? Irgendjemand muss es ja gewesen sein.  
-    - [[Numan Prince|Nu]]: Vielleicht war sie es ja.  
-    - [[Elena Zantrovitch|Elena]]: Das ist sehr verdächtig. Diese Art Kräfte ist eher in der Camarilla verbreitet. Wenn sie gegen dich eingesetzt wurden, dann ganz besonders die Empfehlung an dich: Mach bekannt, wo du stehst.  
-    - [[Numan Prince|Nu]]: Sind die Voermans jetzt Teil der Camarilla?  
-    - [[Elena Zantrovitch|Elena]]: Therese ist durchaus wichtig. Ich fand es immer schon merkwürdig, dass sie sich nicht als Primogen hat vereidigen lassen.  
+    - [[Nu]]: Kennen wir uns eigentlich? Ich bin so vergesslich in letzter Zeit.  
+    - [[Elena]]: Darüber würde ich mir ernsthaft Gedanken machen. Hattet ihr in letzter Zeit Kontakt mit [[Ventrue]] oder so? … Wo ist eigentlich mein Nachkomme? Ja, die Elo.  
+    - [[Nu]]: Die ist gerade in ihrem Fiebertraum und sieht wieder viele Kätzchen.  
+    - [[Elena]]: Die könnte sich mal wieder melden. War sie das mit deinem Kopf? Irgendjemand muss es ja gewesen sein.  
+    - [[Nu]]: Vielleicht war sie es ja.  
+    - [[Elena]]: Das ist sehr verdächtig. Diese Art Kräfte ist eher in der Camarilla verbreitet. Wenn sie gegen dich eingesetzt wurden, dann ganz besonders die Empfehlung an dich: Mach bekannt, wo du stehst.  
+    - [[Nu]]: Sind die Voermans jetzt Teil der Camarilla?  
+    - [[Elena]]: Therese ist durchaus wichtig. Ich fand es immer schon merkwürdig, dass sie sich nicht als Primogen hat vereidigen lassen.  
     - [[Gideon Poxwell]]: Wer hat in der Camarilla das Sagen?  
   - Elena antwortet mit einer weiteren Liedzeile. Gideon erkennt auch sie.  
     - [[Gideon Poxwell]]: Ist es dir schon einmal passiert, dass deine Musik-Playlist Vorhersagen macht?  
   - Elena antwortet wieder zuerst mit einer Liedzeile.  
-    - [[Elena Zantrovitch|Elena]]: Nee, also meistens mach ich an, worauf ich Lust habe. Aber im Nachhinein, klar. Wenn ich mich zum Beispiel mit, ähm, mit [[Elias Calloway|Pater Elias]] getroffen habe, dann hau ich immer „Reverend of Rats“ oder so rein. Sonst machen es die Leute meistens andersrum: Sie passen die Musik ihrer Stimmung an und nicht die Stimmung ihrer Musik.  
+    - [[Elena]]: Nee, also meistens mach ich an, worauf ich Lust habe. Aber im Nachhinein, klar. Wenn ich mich zum Beispiel mit, ähm, mit [[Pater Elias]] getroffen habe, dann hau ich immer „Reverend of Rats“ oder so rein. Sonst machen es die Leute meistens andersrum: Sie passen die Musik ihrer Stimmung an und nicht die Stimmung ihrer Musik.  
   - Gideon bedankt sich, und Elena geht.  
     - [[Gideon Poxwell]]: Nu, irgendetwas ist mit meiner Playlist. Die scheint Vorhersagen zu enthalten, und sie scheint damit zu tun zu haben. Sie redet auch manchmal so, als wären Dinge schon passiert.  
 
@@ -520,19 +520,19 @@
   - Nu fragt, was jetzt mit der Leiche ist. Gideon erzählt ihm, dass sie ein Vampir ist.  
   - Gideon bringt den Torso in seine Wohnung, legt ihn auf den Tisch und führt ein Ritual durch (**Blutmagie**). Es zeigt ihm die Generation, die zehnte, den Namen, [[Dominik Cox]], und den Erzeuger, [[Giuseppe Giovanni]].  
     - [[Gideon Poxwell]]: Das ist Dominik Cox, und er wurde erst vor Kurzem gewandelt.  
-    - [[Numan Prince|Nu]]: Ah. Und wer ist sein Erzeuger?  
+    - [[Nu]]: Ah. Und wer ist sein Erzeuger?  
     - [[Gideon Poxwell]]: Giuseppe Giovanni.  
-    - [[Numan Prince|Nu]]: Die Giovanni hat meine Mutter schon mal erwähnt. Die hatten irgendwas mit diesem Konzert zu tun, von diesem Rapper, mit dem meine Mutter mal etwas zu tun hatte. Glaubst du, die Mafia steckt dahinter?  
+    - [[Nu]]: Die Giovanni hat meine Mutter schon mal erwähnt. Die hatten irgendwas mit diesem Konzert zu tun, von diesem Rapper, mit dem meine Mutter mal etwas zu tun hatte. Glaubst du, die Mafia steckt dahinter?  
   - Gideon denkt darüber nach und spielt mit seinem Stethoskop.  
 
 - **Haiku im Spiegel**  
   - Wieder sieht Nu eine Leiche.  
     - [[Gideon Poxwell]]: Eine Leiche? Ich glaube, so jemanden habe ich erst kürzlich gesehen. Sieht sie ein bisschen aus wie ein Skelett?  
-    - [[Numan Prince|Nu]]: Ja, genau. Die sehe ich ständig, überall. Aber immer nur ganz kurz, dann ist sie wieder weg.  
+    - [[Nu]]: Ja, genau. Die sehe ich ständig, überall. Aber immer nur ganz kurz, dann ist sie wieder weg.  
     - [[Gideon Poxwell]]: Ah, werte Dame Haiku, sind Sie auch anwesend? Ich bin immer noch sehr daran interessiert, Ihre Physiologie näher zu untersuchen.  
     - [[Gideon Poxwell]]: Wir haben diese nette Dame auf dem Friedhof kennengelernt. Ich bin leider nicht in der Lage, sie zu sehen. Aber sieht sie nicht faszinierend aus?  
   - Haiku winkt nur ab.  
-    - [[Numan Prince|Nu]]: Ich hab noch etwas Hunger. Hast du was?  
+    - [[Nu]]: Ich hab noch etwas Hunger. Hast du was?  
     - [[Gideon Poxwell]]: Na gut, du kannst noch mal etwas haben.  
   - Gideon holt ihm eine der Blutkonserven, die noch herumliegen. Das Blut ist etwas älter und kalt und schmeckt nicht besonders.  
   - Gideon beginnt, einen [[Blutstein]] herzustellen. Dann legen sich beide schlafen.  
