@@ -68,7 +68,7 @@ Nacht, Tradition und höchstens drei Stichworte.
 | [[Einar]] | Gangrel, Anarch | 4 | 1 | 5 | – | 6. Tradition an einem Mitglied der Camarilla |
 | [[Étienne]] | Tremere | 4 | 1 | 2 | – | Blutjagd ausgerufen |
 | [[Jonny Nightshade]] | Lasombra | 2 | 2 | 1 | – | 1. Tradition |
-| [[Gideon Poxwell]] | unbekannt | 1 | 10 | 3 | 4 | Mitwirkung an der 6. Tradition |
+| [[Gideon Poxwell]] | Banu Haqim | 1 | 10 | 3 | 4 | Mitwirkung an der 6. Tradition |
 | [[Serafin]] | Toreador | 1 | 6 | 6 | 1 | Gewalt gegen Kindred — Pfählungsversuch an einem der Ihren |
 | [[Lord Henry]] | unbekannt | 1 | – | 1 | – | 1. Tradition — Flügel auf einem Taxidach |
 | [[Madam Rich]] | Ventrue | – | 4 | 2 | 1 | Anstiftung zur 6. Tradition |

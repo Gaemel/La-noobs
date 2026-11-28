@@ -920,6 +920,7 @@
 - **Unter vier Augen**  
   - Gideon bittet alle, den Raum zu verlassen. Er möchte mit seinem Patienten allein sprechen. Haiku geht hinaus und schleicht verdunkelt gleich wieder herein, wird aber sofort entdeckt und erneut hinausgescheucht. Gideon schließt die Tür und sperrt ab. Dahinter poltert es.  
   - Was Gideon und Nu hinter der Tür besprechen und tun, bleibt zwischen den beiden.  
+  - Danach sind beide Gefangenen geknebelt.  
 
 - **Ein neuer Blutstein**  
   - Zum Schluss stellt Gideon in einem Ritual (**Blutmagie**) einen neuen [[Blutstein]] her, damit er wieder einen in Reserve hat.  

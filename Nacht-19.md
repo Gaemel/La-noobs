@@ -1,0 +1,288 @@
+## [[2023.06.16]] - **Die Prinzenwahl**  
+### Sessions:: [[Session 27]] [[Session 28]]  
+### Tags:: #Tag  
+
+- **Der Morgen danach**  
+  - [[Gideon Poxwell]] wacht in seiner Praxis auf. Er kümmert sich allein im Keller um die beiden Gefangenen aus Nacht 18; keiner von beiden überlebt.  
+
+- **Tobi berichtet**  
+  - [[Tobi]] wartet schon auf Gideon und hat die neue [[LA Times]] auf den Tisch gelegt.  
+    - [[Tobi]]: Heute war hier ein Typ, der war richtig angepisst. Wollte was abholen. Kaum fasst er die Türklinke an, verbrennt er sich die Hand. Er hat irgendwas von einem Ashford gefaselt und dass sein Boss stinksauer sein wird.  
+    - [[Tobi]]: Und ein Giovanni war auch noch da. Der hat ebenfalls rumgepoltert und ist sauer wieder abgezogen.  
+    - [[Tobi]]: Nu, ich hoffe, dir geht's inzwischen besser.  
+    - [[Tobi]]: Wenn noch mehr Leute kommen, gehen uns die Betten aus.  
+    - [[Gideon Poxwell]]: Hat sich jemand wegen der Blutlieferung gemeldet?  
+    - [[Tobi]]: Nein, da war nichts.  
+  - Der Mann an der Tür war ein Ghul, und das Schutzzeichen, das Gideon in Nacht 18 an die Praxistür gebracht hat, hat gewirkt.  
+  - In der Zeitung stehen gleich mehrere Ereignisse aus Nacht 18: das **Drive-by auf das Anwesen von [[BBD]]**, bei dem [[Hubba Bubba]] mit vollem bürgerlichen Namen zitiert wird und die Kameras der Gated Community sieben Biker mit Schlangen-Patches zeigen; ein **Vorfall beim früheren Unterschlupf von [[ALWA]]**, wo sich ein dunkelhäutiger und ein weißer Mann getroffen haben sollen, ein Junge auftauchte, eine maskierte Gestalt einen Polizisten mit dessen eigenen Handschellen fesselte und im Bunker ein Torso gefunden wurde (die Polizei schließt Menschenhandel nicht aus); eine **explodierte Lagerhalle** im Süden von L.A. mit zerstörten Ritterrüstungen in den Trümmern; ein **weiterer bestialischer Mord** in South L.A.; und der Greenpeace-Aktivist **Mateo Serrano**, erschossen bei Mount Lawlor aufgefunden.  
+
+- **Ein Anruf bei Garry**  
+  - Nu ruft [[Garry Golden]] an.  
+    - [[Nu]]: Ich glaube, Gideon wird sich an die Abmachung aus dem Brief halten. Kann sein, dass dafür ein, zwei Dinge passiert sind, die nach den Regeln der Camarilla nicht ganz in Ordnung waren.  
+    - [[Garry Golden]]: Die wären?  
+    - [[Nu]]: Die Templer wurden vor ihrem Ableben geghult und verhört. Aber im Gegenzug hat er zugesagt, sich dran zu halten. Ich hoffe, unsere Abmachung gilt dann auch.  
+    - [[Garry Golden]]: Ich halte mich stets an mein Wort.  
+    - [[Nu]]: Wann werd ich's wissen?  
+    - [[Garry Golden]]: Und ein kleiner Hinweis noch. Es ist bedauerlich, dass Euer mobiles Fernsprechgerät einen irreparablen Schaden erlitten hat und nicht mehr funktioniert.  
+  - Nu versteht und zerstört sein Handy.  
+
+- **Hubba Bubba, ein geliehenes Handy und Serafin**  
+  - Nu sieht sich in der Praxis um und findet [[Hubba Bubba]] in Gideons Kleidern.  
+    - [[Hubba Bubba]]: Ja, ich dachte, ich zieh mich mal um. Meine Sachen waren dreckig.  
+    - [[Nu]]: Wann ist heute eigentlich die Prinzenwahl? Hubba, hast du ein Handy?  
+    - [[Hubba Bubba]]: Nö.  
+  - [[Breaker]] leiht Nu seins.  
+  - Nu ruft [[Jeanette]] an, aber sie ist beschäftigt und hat heute keine Zeit. Bei [[Rita]] geht niemand ran.  
+  - Dann ruft er [[Serafin]] an.  
+    - [[Nu]]: Hey, hier ist Nu. Ich hab da mal 'ne Frage. Heute ist ja die Prinzenwahl …  
+  - Gut zwanzig Minuten später steht Serafin vor der Praxis. Hubba macht ihm auf.  
+    - [[Serafin]]: Herr Doktor, darf ich eintreten?  
+    - [[Hubba Bubba]]: Ey, lang nicht gesehen! Du gehörst dann ja auch dazu. Übrigens, mir hat man gesagt: Im Keller geradeaus, da soll man NICHT hingehen.  
+    - [[Nu]]: Sag mal, warum hast du eigentlich aufgelegt?  
+    - [[Serafin]]: Als Nosferatu solltest du das doch selbst herausfinden können.  
+  - Serafin erwähnt nebenbei, dass er die Zeitung zu Hause schon gelesen hat.  
+  - Er wendet sich an die beiden Gäste der Hecata.  
+    - [[Serafin]]: Haiku, Lieutenant Breaker, Sie sind herzlich eingeladen, der Wahl beizuwohnen.  
+  - Nu will vorher noch ein neues Handy kaufen. Hubba will nicht mit.  
+    - [[Nu]]: Ist Hubba eigentlich geduldet?  
+    - [[Serafin]]: Angesichts der Umstände seiner Entstehung sollte er sich dort besser gar nicht erst blicken lassen.  
+    - [[Nu]]: Dann ist's besser, wenn du hierbleibst, Hubba.  
+  - Nu hinterlässt Gideon einen Zettel: „Bitte auf Bubba aufpassen. Ist ein Freund und eine Aufgabe von unserer neuen Familie. Grüße, Nu. Das kannst du Bubba geben, dann ist er lieb zu dir.“  
+
+- **Walmart**  
+  - Nu spricht auf der Straße jemanden an, ob er ihm ein Taxi rufen kann.  
+    - Passant: Warum denn? Haben Sie eine Maske auf?  
+    - [[Nu]]: Ich muss dringend wohin, hab aber kein Auto.  
+  - Der Passant ruft das Taxi, und Nu fährt zu einem [[Walmart]].  
+  - Im Laden quatscht ihn ein massiger Mann auf einem Mobility-Scooter an, die ganze Zeit übers Essen.  
+  - Nu kauft drei Handys und eine Menge Lebensmittel.  
+  - Der Mann will unbedingt mit ihm zusammen essen. Nu lehnt ab. Daraufhin führt ihm der Mann vor, dass man die Butter zur Not auch an seinem weißen Hemd abwischen kann, das dadurch langsam durchsichtig wird.  
+  - Nu zieht seine Maske ein Stück herunter und sieht ihn an (**Präsenz**, Dread Gaze). Der Mann kippt rückwärts von seinem Scooter und kriecht davon.  
+  - Nu setzt sich auf den Scooter und fährt los. Hinter ihm schießt der Mann auf ihn.  
+  - Zwei Straßen weiter lässt Nu den Scooter stehen und nimmt ein Taxi. Unterwegs schreibt er Garry und Rita, ob er zur Abstimmung kommen soll. Keiner antwortet.  
+
+- **Ankunft im Elysium**  
+  - Nach und nach treffen alle am [[Elysium]] ein. [[Therese Voerman]] und [[Madam Rich]] gehen direkt hinein.  
+  - Serafin stellt [[Haiku]] und Breaker den Anwesenden als Gäste der Hecata vor und erklärt ihnen, dass im Elysium keine Kräfte eingesetzt werden dürfen.  
+  - Nu trägt wie immer etwas Extravagantes, hochgeschlossen, dazu die Maske. Damit kommt er an der Tür nicht durch, die Kleiderordnung lässt das nicht zu.  
+    - [[Nu]]: Gideon, hast du was dagegen, wenn ich dir was zu trinken gebe und dafür von draußen zuschaue?  
+    - [[Gideon Poxwell]]: Übernimmst du mich dann?  
+    - [[Nu]]: Ich kann nur sehen und fühlen, was du fühlst.  
+    - [[Gideon Poxwell]]: Ungern. Aber ich kann dir meinen Kittel leihen.  
+  - Nu zieht den Kittel über, sieht darin allerdings reichlich albern aus. Als Garry am Eingang vorbeikommt, spricht er ihn an.  
+    - [[Nu]]: Soll ich hier sein, oder soll ich wieder gehen?  
+    - [[Garry Golden]]: Das steht dir frei. Ich muss allerdings noch einiges klären.  
+  - Mit dem Wort seines Primogens im Rücken lässt man Nu schließlich doch hinein.  
+  - Etwas abseits steht [[Elowen]] bei zwei durchaus hübschen Damen, umwerfend und elegant wie immer, auf hohen Absätzen, die Hände in Handschuhen. Serafin und Gideon halten sie im ersten Moment für eine Toreador. Sie könnte jedem erzählen, sie gehöre zum Klan der Rose, und niemand würde auch nur eine Sekunde daran zweifeln.  
+
+- **Gideon und Ashford**  
+  - Gideon entdeckt [[Edric Ashford]] im Gespräch mit [[Marcus]]. Er wartet, bis sich eine Gelegenheit ergibt.  
+    - [[Gideon Poxwell]]: Herr Ashford.  
+    - [[Edric Ashford]]: Ah, der Herr traut sich hierher. Mir wurde berichtet, dass Sie meinen Ghul verletzt und die Lieferung nicht geleistet haben. Die Liefermenge hat sich damit verdoppelt.  
+    - [[Gideon Poxwell]]: Wenn Ihr Ghul nicht in der Lage ist, eine einfache Aufgabe zu erfüllen, liegt das nicht in meiner Verantwortung. Es obliegt jedem, seine Domäne zu verteidigen, wenn jemand eindringen will.  
+
+- **Olivia Bloom**  
+  - Eine junge Frau mit tiefem Ausschnitt kommt auf Serafin zu.  
+    - [[Olivia Bloom]]: Olivia Bloom. Wir wurden einander noch nicht vorgestellt. Man hat mir von Ihren besonderen Vorlieben berichtet, und ich habe dafür gesorgt, dass auch diese bedient werden.  
+  - Sie lässt ein ganz besonderes Glas bringen und reicht es ihm.  
+    - [[Serafin]]: Sie sind die Hüterin des Elysiums?  
+    - [[Olivia Bloom]]: Das ist korrekt.  
+    - [[Serafin]]: Womit habe ich eine solche Aufmerksamkeit verdient?  
+    - [[Olivia Bloom]]: Ach, Sie Ärmster. So lange standen Sie im Schatten von Dianzu, bis der den Bogen überspannt hat und entfernt werden musste. Sie vermissen ihn sicher. Unter Klansgeschwistern eilt man einander zu Hilfe, dachte ich mir, und wenigstens heute Abend sollen Sie sich einmal geschätzt fühlen. Für ein so junges Mitglied unserer Gesellschaft ziehen Sie ja erstaunlich schnell Aufmerksamkeit auf sich. Sogar in der Öffentlichkeit.  
+    - [[Olivia Bloom]]: Mir ist aufgefallen, dass Sie bei früheren Treffen nie etwas getrunken haben. Aber nachdem ich die Zeitung gelesen hatte, sprang es mir geradezu ins Gesicht: Es dürstet Sie nach besonders jungem Blut.  
+    - [[Serafin]]: Ich fürchte, ich kann Ihnen nicht ganz folgen.  
+    - [[Olivia Bloom]]: Oh, verzeihen Sie. Sie haben Glück. Es kommt nur vereinzelt vor, aber gerade in diesen Zeiten haben wir Möglichkeiten, solche Gelüste auch anderweitig zu stillen.  
+    - [[Serafin]]: Ich glaube, Sie unterliegen einem Missverständnis. Meine Vorliebe gilt nicht dem Blut der Menschen.  
+    - [[Olivia Bloom]]: Natürlich. Dem der Jungen. Der Knaben. Auch das habe ich zur Verfügung.  
+    - [[Serafin]]: Dann muss ich leider noch immer gestehen, dass ich nicht weiß, wovon Sie sprechen. Ich trinke nicht von Menschen.  
+    - [[Olivia Bloom]]: Keine Sorge, das muss Ihnen nicht peinlich sein. Hier ist niemand, der Sie verurteilt.  
+    - [[Serafin]]: Wie Sie wissen, habe ich als Toreador mit solchen Dingen keine Probleme.  
+    - [[Olivia Bloom]]: Ich selbst trinke ja auch nicht von jeder Kanalratte. Sollten Sie sich doch noch durchringen, Ihr wahres Gemüt zu zeigen, fragen Sie die Bediensteten jederzeit nach einem jungen Tropfen.  
+    - [[Serafin]]: Wie kommen Sie überhaupt darauf, dass ich die Person aus der Zeitung bin?  
+    - [[Olivia Bloom]]: Ich dachte, das hätte sich längst herumgesprochen. Man tuschelt im Elysium und unter den Harpyien, erst gestern im Etablissement unserer geschätzten Miss Voerman. Ich hielt es für ein offenes Geheimnis. Aber wie gesagt, falls Sie doch ein Verlangen verspüren … Und sollte es eher ein körperliches Verlangen sein, kann ich Ihnen auch das erfüllen.  
+  - Sie spricht dabei gerade so laut, dass die Umstehenden einiges davon mitbekommen.  
+    - [[Serafin]]: Verbindlichsten Dank. Aber ich bin heute Abend in geschäftlichen Dingen hier.  
+    - [[Olivia Bloom]]: Ah ja, das alte Theater. Man hört davon. Haben Sie schon Pläne? Ein eigenes Elysium vielleicht? Manche Ruinen, mein Lieber, lässt man besser Ruinen sein.  
+  - Haiku tritt dazu.  
+    - [[Haiku]]: Und die, die hier dienen? Darf man aus ihren Kelchen trinken?  
+    - [[Olivia Bloom]]: Wir wurden einander noch nicht vorgestellt.  
+  - Haiku stellt sich vor.  
+    - [[Olivia Bloom]]: Sie gehören also zur diplomatischen Gesellschaft. Dann erläutere ich gern noch einmal die groben Regeln. Wir haben hier Erfrischungsgetränke, aber die Kellner selbst sind nicht als solche gedacht. Wenn Sie frisch Gezapftes wünschen, lässt sich das ermöglichen. Ihnen ist bekannt, dass man unsere Gaben innerhalb des Elysiums nicht einsetzen darf. Wenn Sie Wünsche haben, wenden Sie sich an die Kellner.  
+
+- **Die Urkunde**  
+  - Nu geht zu Therese.  
+    - [[Nu]]: Ich hoffe, Ihre Lieferung mit dem Bild ist gut angekommen.  
+    - [[Therese]]: Ah ja, wir haben telefoniert. Aber mein nächster Gesprächspartner wartet schon.  
+  - Sie lässt Serafin zu sich rufen. Ein Mann in feinem Zwirn bringt ein Tablett mit Papieren.  
+    - [[Therese]]: Nun denn. Ich halte in meinen Händen die eingetragene Besitzurkunde für das alte [[Theater]]. Sie sind noch interessiert?  
+    - [[Serafin]]: Selbstverständlich.  
+    - [[Therese]]: Haben Sie die Abtretungsurkunde?  
+    - [[Serafin]]: Selbstverständlich.  
+    - [[Therese]]: Ich bin beeindruckt. Und ich hoffe von ganzem Herzen, dass Ihr Unterfangen gelingt.  
+  - Gideon stellt sich derweil zu [[Aischa]] und den anderen Banu Haqim.  
+
+- **Die Nominierungen**  
+  - [[Garry Golden]] tritt auf die Bühne.  
+    - [[Garry Golden]]: Nun denn. Ich grüße alle Mitglieder der Camarilla und auch die Vertreter unserer Verbündeten. Wir sind zusammengekommen, um ein seltenes Ereignis zu begehen. In Ermangelung eines Prinzen wird ein Interimsprinz bestimmt. Traditionell liegt das bei den Primogenen. Ich schlage Therese Voerman vor. Möchte noch jemand nominieren?  
+    - [[Therese]]: Ja. Ich möchte Marcus Shaw nominieren.  
+    - [[Garry Golden]]: Gibt es weitere Nominierungen?  
+    - [[Serafin]]: Ich schlage Carter Blake vor. Natürlich bestehen hier Bedenken wegen eines möglichen Blutsbands. Aber gerechterweise sollten alle Kandidaten darauf geprüft werden.  
+    - [[Garry Golden]]: Wer sind Sie, hier jemanden vorzuschlagen?  
+    - [[Therese]]: Halt. Er ist einer von uns und darf abstimmen. Und ich unterstütze die Forderung, alle auf Blutsbande zu prüfen.  
+    - [[Maximilian Strauss]]: Ich biete mich an, diese Prüfungen durchzuführen. Mein Klan ist in der Blutmagie am weitesten bewandert.  
+    - [[Aischa]]: Veto. Wir sind die Gelehrten. Wir prüfen.  
+    - [[Garry Golden]]: Ich schlage vor, dass jeder von Ihnen ein Mitglied des jeweils anderen Klans bestimmt, um jede Manipulation im Keim zu ersticken. Beide Prüfungen finden unabhängig voneinander statt. Sollte das Urteil nicht wie aus einem Munde klingen, wissen wir, dass man uns manipuliert. Um dem vorzubeugen, schlage ich vor, in diesem Fall dem Verräter und dem tragischen Opfer gleichermaßen den endgültigen Tod zuzuweisen.  
+  - Aischa und Strauss nicken. Weitere Nominierungen gibt es nicht.  
+    - [[Garry Golden]]: Gut. Dann bestimmen nun die beiden Vorsteher der prüfenden Klans jeweils den Prüfer aus den Reihen der Gegenseite.  
+    - [[Aischa]]: Moment, ich kenne doch nicht einmal die Hälfte seiner Klansmitglieder. Aber wenn Sie mich so bedrängen: Da gibt es doch diesen David Harker. Ein junges Mitglied seines Klans. Vielleicht steht er noch nicht ganz unter dem Bann seines Primogens.  
+    - [[David Harker]]: Vielen Dank. Ich nehme diese Ehre an.  
+  - Gideon erkennt ihn wieder. In Nacht 12 hat er Harkers Blut gelesen und dabei einen Blutbund gefunden, nur nicht, an wen.  
+    - [[Maximilian Strauss]]: Nun denn, ich tue es Ihnen gleich und nominiere ein junges Mitglied der Banu Haqim. Doktor Poxwell, fühlen Sie sich imstande, das durchzuführen?  
+    - [[Gideon Poxwell]]: Ich bin in der Lage, dieses Ritual durchzuführen.  
+  - Die Primogene und die Vorsteher der Klans ziehen sich zur Beratung zurück.  
+
+- **Die Wahl und die Prüfung**  
+  - Nach einer halben Stunde kehren die Primogene, die Vorsteher der Klans und Therese in den Saal zurück.  
+    - [[Garry Golden]]: Liebe Geschwister, wir haben eine Wahl getroffen. Beziehungsweise wurde sie gewissermaßen für uns getroffen. Sowohl Mr. Shaw als auch Miss Voerman bestanden darauf, dass es für die Gemeinschaft am verträglichsten ist, den Kandidaten zu wählen, der den engsten Draht zu den Anarchen hat. So kitten wir die Gräben zwischen uns und landen nicht im Krieg, während der Sabbat seine Wunden leckt, um wieder zu erstarken. Dementsprechend wurde Carter Blake zum neuen Prinzen bestimmt. Wir führen nun die Rituale durch.  
+  - [[Carter Blake]] sieht überrascht und sehr zufrieden aus.  
+    - [[Garry Golden]]: Fahren wir in der Reihenfolge der Nominierungen fort. Um den Test nicht zu verfälschen, bitte ich unseren zweiten Prüfer, den Raum zu verlassen.  
+  - Gideon geht hinaus.  
+  - Währenddessen führt [[David Harker]] sein Ritual am Blut des Prinzen durch. Er wirkt dabei unsicher und nervös.  
+    - [[Garry Golden]]: War es Ihnen möglich, das Ritual durchzuführen?  
+    - [[David Harker]]: Ja … doch.  
+    - [[Garry Golden]]: Konnten Sie ein Blutband feststellen?  
+  - Harker sieht sich kurz unsicher um.  
+    - [[David Harker]]: Nein. … Nein.  
+  - Das erste Nein kommt zögerlich, das zweite betont fest, fast zu fest. Man kann es auf seine Nervosität schieben.  
+  - Dann holt man Gideon wieder herein. Harker steht neben dem Stuhl des Prinzen, dahinter Aischa. Gideon stellt sich auf die andere Seite, und Blake hält ihm den Arm hin.  
+  - Gideon braucht drei Anläufe, bis das Ritual gelingt (**Blutmagie**). Im Blut des Prinzen findet er ein Blutband. An wen, verrät es ihm nicht.  
+    - [[Garry Golden]]: Ich stelle Ihnen zwei Fragen von offizieller Seite der Camarilla. War es Ihnen möglich, das Blut unseres Prinzen zu analysieren?  
+    - [[Gideon Poxwell]]: Ja.  
+    - [[Garry Golden]]: Konnten Sie ein Blutband erkennen?  
+    - [[Gideon Poxwell]]: Nein.  
+    - [[Garry Golden]]: Nun denn, Sie haben es gehört. Zweimal unabhängig bestimmt: Unser geliebter Prinz ist frei von Blutbanden und von nun an der Herrscher über uns.  
+
+- **Die ersten Dekrete**  
+    - [[Carter Blake]]: Ich möchte gleich die ersten Dekrete erlassen. Als Geste des Friedens auch in Richtung der Anarchen: Hiermit sind alle Blutjagden aufgehoben.  
+  - Serafin sieht glücklich aus.  
+    - [[Carter Blake]]: Des Weiteren möchte ich die freien Primogenstühle besetzen. Meinen Kontrahenten um diesen Titel, Marcus Shaw, würde ich, sofern Sie einverstanden sind, gern zum Primogen der Ventrue bestimmen.  
+    - [[Marcus]]: Nun, da Klan Ventrue nicht mehr den Prinzen stellt, halte ich es für gerechtfertigt, dass mein Klan einen neuen Primogen erhält.  
+    - [[Carter Blake]]: Da Alistair Grout vor Kurzem ermordet wurde, möchte ich Madam Voerman an dieser Ehre teilhaben lassen.  
+    - [[Therese]]: Ich bedanke mich für diese Ehre, muss sie aber leider zum zweiten Mal zurückweisen. Ich möchte stattdessen mein geschätztes Klansmitglied Pyotr Tchaikovsky vorschlagen.  
+    - [[Tchaikovsky]]: Ich nehme diese Ehre an.  
+    - [[Carter Blake]]: Nun zur letzten Ernennung des Abends …  
+  - Da fliegt die Tür des Notausgangs auf.  
+
+- **Der Angriff**  
+  - Durch die Tür des Notausgangs tritt energisch eine Gestalt herein: [[Nines Rodriguez]]. Er zieht zwei Schnellfeuerpistolen vom Gürtel und schießt auf die Bühne, auf Blake.  
+    - [[Nines Rodriguez]]: Verräter!  
+  - Blake weicht aus, im Saal wird es hektisch.  
+  - [[Breaker]] packt den Angreifer und hält ihn mit schierer Kraft fest. [[Haiku]] drückt ihm die Hand aufs Gesicht und lässt sie dort, lange, bis das Gesicht unter ihren Fingern verdorrt und schmilzt (**Oblivion**, [[Touch of Oblivion]]). Nines schreit. Dann zerfällt er zu Asche, und nur ein Skelett bleibt zurück.  
+  - Das Elysium ist still.  
+    - [[Maximilian Strauss]]: Das ist ein Unding! Wir wurden angegriffen, gleich nach der Geste des Friedens. Unsere Sheriffin hätte das verhindern müssen. Und wer hat es getan? Fremde! Schämen Sie sich, Aischa.  
+    - [[Carter Blake]]: Schweigt. Ich gebe Ihnen teilweise recht, das lag nicht in der Zuständigkeit unserer Gäste. Und es trifft sehr gut den Punkt, an dem ich weitermachen wollte. Aischa, ich muss Ihnen den Titel der Sheriffin entziehen. Sie haben der Camarilla eindeutig gute Dienste geleistet, auch wenn das hier eine kleine Unsauberheit war. Ich möchte Klan Banu Haqim im Rat der Primogene sehen, und Sie darin.  
+  - Aischa braucht einen Moment. Ob das eine Beförderung ist oder eine Strafe, scheint sie selbst nicht recht zu wissen.  
+    - [[Aischa]]: Ja, mein Prinz. Vielen Dank.  
+  - Blake erklärt den offiziellen Teil für beendet.  
+
+- **Nach der Zeremonie**  
+  - Gideon trinkt den Ritualkelch leer.  
+  - Haiku und Breaker sprechen mit einer schwarz gekleideten Gestalt, [[Madame Giovanni]], und wirken ihr gegenüber unterwürfig. Sie lobt, wie gut die beiden die Hecata vertreten haben und dass man die Camarilla unterstützt.  
+    - [[Nu]]: Wir müssen nochmal zu Big Baggy Daddy. Wir haben da was vergessen und müssen reden.  
+  - [[Olivia Bloom]] entschuldigt sich noch einmal bei Serafin und möchte wissen, was sein Getränk der Wahl sei.  
+    - [[Serafin]]: Tierblut.  
+    - [[Olivia Bloom]]: Welpen?  
+    - [[Serafin]]: Tierblut.  
+    - [[Olivia Bloom]]: Aber nur für den Fall: Die Kammer dort hinten steht Ihnen zur Verfügung.  
+  - Eine junge Frau, die Elowen nicht kennt, spricht sie an.  
+    - Die junge Frau: Hallo. Sie sind also die Reporterin.  
+    - [[Elowen]]: Ja.  
+    - Die junge Frau: Ich habe von Leuten gehört, die im Park Kinder verfolgen. Es würde sich lohnen, dem nachzugehen.  
+    - [[Elowen]]: Oh, haben Sie eine Visitenkarte?  
+    - Die junge Frau: Natürlich.  
+  - Gideon fällt auf, dass Harker direkt aus dem Gebäude eskortiert wird. Harker wirkt ungehalten.  
+
+- **Die Fahrt zur Villa**  
+  - Nu ruft ein Taxi. Serafin, Nu, Elowen und Gideon fahren zwanzig Minuten bis zu einer bewachten Wohnanlage.  
+  - Am Tor zeigt Serafin seinen Passierschein vor. Der Wagen wird mit Spiegeln von unten abgesucht.  
+  - Nu geht zur Haustür und gibt den Code ein, die anderen folgen. Drinnen brennt Licht. [[Hubba Bubba]] kommt aus dem Keller; er hat hier irgendetwas erledigt und offensichtlich nicht mit Besuch gerechnet.  
+    - [[Nu]]: Wir haben hier noch was entdeckt. Setzt euch doch alle mal.  
+  - Alle setzen sich.  
+    - [[Nu]]: Ihr wisst ja, dass Rita meine Mutter ist. Und es gibt noch ein paar interessante Infos, die ich euch nicht länger vorenthalten will und kann. Aber erst spielen wir ein kleines Spielchen, damit man sich untereinander vertraut. Jeder verrät ein Geheimnis, und wer das größte hat, gewinnt.  
+
+- **Das Spiel der Geheimnisse**  
+    - [[Hubba Bubba]]: Also, ich hab ja schon erzählt, dass Lexy mich zum Vampir gemacht hat. Ich schwör, bevor ich auf Frauen stand, war ich am anderen Ufer unterwegs. Ich dachte, ich bin ein Pirat und brauch Säbel. Jetzt bin ich aber wieder auf anderen Ufern unterwegs.  
+    - [[Serafin]]: Elowen, kannst du prüfen, dass niemand zuhört?  
+  - Elowen prüft es, niemand hört zu.  
+    - [[Serafin]]: Ich schulde den Nosferatu einen großen Gefallen.  
+    - [[Nu]]: Wofür?  
+    - [[Serafin]]: Mein Leben.  
+    - [[Elowen]]: Ich glaube, ich höre manchmal Stimmen. Auch die Stimmen anderer Vampire, wenn ich ihnen ganz nahe bin. Im Elysium stand ich in der Nähe von Therese Voerman und habe ihre Gedanken gehört. Sie wollte aus Angst nicht zur Primogenin ernannt werden. Und sie will den Primogen der Malkavianer umbringen. Und dann war da noch irgendetwas mit einer Tonbandaufnahme.  
+    - [[Gideon Poxwell]]: Kannst du auch meine Gedanken hören?  
+    - [[Elowen]]: Nein, gerade nicht.  
+    - [[Gideon Poxwell]]: Der Prinz hatte einen Blutbund.  
+    - [[Nu]]: Zu wem?  
+    - [[Gideon Poxwell]]: Das weiß ich nicht.  
+
+- **Nu nimmt die Maske ab**  
+    - [[Nu]]: Dann muss ich euch wohl mein Geheimnis verraten. Das war schwierig mit Rita.  
+  - Er wirft seine Maske gegen die Wand und tanzt zur Musik. Vor ihnen steht [[Dianzu]], und er sieht nicht aus wie ein Nosferatu.  
+    - [[Elowen]]: Bist du nicht tot?  
+    - [[Dianzu]]: Nein, nur mein zweites Double. Ich wurde gejagt für Dinge, für die ich gar nichts konnte. Aber jetzt werde ich nicht mehr gejagt.  
+  - Auf seinem Handy geht eine SMS ein.  
+    - [[Serafin]]: Da du noch ein Küken bist, fällt alles, was du tust, auf mich zurück.  
+    - [[Dianzu]]: Ich hab mich gebessert.  
+    - [[Serafin]]: Ich hoffe, du planst nicht, als Dianzu aufzutreten, und legst dir eine neue Persönlichkeit zu.  
+  - Er zieht die Maske wieder auf.  
+    - [[Serafin]]: Wie ist das mit ALWA passiert?  
+    - [[Nu]]: Er wurde entführt und stand vor einem Gericht. Ich wurde auch entführt. Dann wurde abgestimmt, was mit ALWA passiert. Er war schon gefesselt, die Gruppe hat dafür gestimmt, ihn zu bestrafen, und ich musste ihn richten. Alle trugen Masken, deswegen weiß ich nicht, wer alles da war. Ich weiß weder, wie ich hingekommen bin, noch, wie ich wieder weggekommen bin.  
+
+- **Linda kommt nach Hause**  
+  - Ein Auto hält vor dem Anwesen.  
+    - [[Linda]]: Schaaatz, ich bin zu Hause! Eine Willkommensparty, wie schön. Ich hab gehört, ich kann mich wieder frei bewegen.  
+  - Elowen stellt sich vor, Gideon und Linda begrüßen sich.  
+    - [[Linda]]: Hast du es ihnen schon gesagt?  
+    - [[Nu]]: Ja.  
+    - [[Elowen]]: Seid ihr zwei zusammen?  
+    - [[Linda]]: Jaaa.  
+    - [[Nu]]: Seit acht Tagen.  
+    - [[Linda]]: Fast. Sieben, mein Schatz.  
+    - [[Nu]]: Ich hab sie aus Versehen zu einer von uns gemacht.  
+    - [[Linda]]: Es war sehr romantisch.  
+  - Elowen bietet den beiden eine Paartherapie an.  
+    - [[Nu]]: Sie hat auch noch ein Geheimnis. Sie weiß, was mit Lexy passiert ist.  
+    - [[Linda]]: Lexy hat mir erzählt, was sie am Abend vom Konzert noch Schönes im Mund hatte.  
+    - [[Nu]]: Ich hab versucht, sie davon abzuhalten. Hat sie das auch erzählt?  
+    - [[Linda]]: Sagen wir so: Wir haben das geklärt, und sie wird dir in Zukunft fernbleiben.  
+    - [[Nu]]: Geht's ihr halbwegs gut?  
+    - [[Linda]]: Ich glaube, sie wird sich nicht beschweren.  
+    - [[Nu]]: Und weißt du, was mit dem Kind ist?  
+    - [[Linda]]: Joa, der ist gerade beim Aufnahmeritual. Er schlägt sich ganz gut.  
+    - [[Nu]]: Ach, der kommt wieder. Das wär schön.  
+    - [[Gideon Poxwell]]: Und was ist mit Einar?  
+    - [[Nu]]: Er hat sich geopfert, um uns zu retten.  
+    - [[Nu]]: Was machen wir jetzt eigentlich mit der neu gewonnenen Freiheit?  
+    - [[Linda]]: Also, wenn ich das richtig gesehen hab, habt ihr ja jetzt richtig schön Ansehen bekommen. Vielleicht kann man was gegen die da oben unternehmen.  
+    - [[Gideon Poxwell]]: Ich habe da ein kleines Problem mit einem Angehörigen der Camarilla, der mich bedroht.  
+    - [[Serafin]]: Das wird ein Problem. Nines ist tot. Er ist bei der Camarilla aufgetaucht, hat auf den neuen Prinzen geschossen und wurde getötet.  
+    - [[Linda]]: Und hat er den Neuen erwischt?  
+    - [[Serafin]]: Der neue Prinz, der Brujah, lebt noch.  
+    - [[Linda]]: Oh, ich hab nur gehört, dass der Doktor der Prinzenmacher ist. Ich schlage vor, ich entführe meinen Schnuckiputz jetzt noch, und morgen habt ihr ihn wieder für euch.  
+  - Nu ist einverstanden.  
+
+- **Das Klemmbrett**  
+  - Bevor sie aufbrechen, geht Gideon auf Elowen zu. Sie vergewissert sich vorher, ob Serafin noch ansprechbar ist.  
+  - Gideon fragt sie nach ihren Fähigkeiten aus und dokumentiert alles. Er schlägt Experimente vor.  
+    - [[Elowen]]: Das hört sich furchtbar wissenschaftlich an.  
+  - Er gibt ihr ein Klemmbrett mit einer Vorlage für Experimente. Elowen schreibt etwas darauf. Gideon schaut ihr dabei nicht in den Ausschnitt.  
+  - Eine Blutprobe will Elowen nicht abgeben.  
+  - Gideon und Elowen fahren zu Gideon, Serafin fährt nach Hause. Nu wacht kurz vor Sonnenaufgang zwei Straßen weiter auf.  
+
+- **Die Lektion**  
+  - Gideon zeigt Elowen sehr detailreich, wie man einen [[Blutstein]] herstellt. Er bietet ihr an, ihr Blutmagie beizubringen, und sie darf bei ihm trinken. Elowen trinkt einen Schluck.  
+  - Gideon erzählt von seinen Ritualen.  
+
+- **Ein Sonnenstrahl**  
+  - Serafin bleibt über den Tag wach. Er sehnt sich danach, wieder menschlich zu sein.  
+  - Er streckt die Hand in einen Sonnenstrahl. Seine Hand steht in Flammen, und das Tier in ihm tobt.  
+  - Danach bastelt er an seinem Feuerschwert, kann aber aus dem Templerschwert nichts lernen. Vermutlich ist er dazu noch nicht in der Lage.  
